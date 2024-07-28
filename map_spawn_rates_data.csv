@@ -1,0 +1,1578 @@
+Map Name,W(1/100),H(1/100),Cap/Gen,Capacity,SP,Avg.LV,Avg.HP,Avg.Exp,Avg.Exp/Gen,Monsters,Limit Portal,Teleport Limit
+Carcion : Breathtaking Cave 2,32,10,39,39,40,289,21843743620,4265489,166354071,Knight of the Source x40,0,0
+Carcion : Breathtaking Cave 3,32,10,39,39,40,289,21843743620,4265489,166354071,Knight of the Source x40,0,0
+Carcion : Breathtaking Cave 4,32,10,39,39,40,289,21843743620,4265489,166354071,Knight of the Source x40,0,0
+Carcion : Sunken Ruins 2,32,10,39,39,40,289,21843743620,4265489,166354071,Priest of the Source x40,0,0
+Carcion : Sunken Ruins 3,32,10,39,39,40,289,21843743620,4265489,166354071,Priest of the Source x40,0,0
+Carcion : Sunken Ruins 4,32,10,39,39,40,289,21843743620,4265489,166354071,Priest of the Source x40,0,0
+Carcion : Breathtaking Cave 1,26,10,35,35,36,289,21843743620,4265489,149292115,Knight of the Source x36,0,0
+Carcion : Sunken Ruins 1,26,10,35,35,36,289,21843743620,4265489,149292115,Priest of the Source x36,0,0
+Carcion : Enfolding Forest 3,20,19,39,39,40,288,21539716086,4217526,164483514,Shadowy Black Panther x40,0,0
+Carcion : Among Tainted Trees 1,20,19,39,39,40,288,21539716086,4217526,164483514,Shadowy Black Panther x40,0,0
+Carcion : Among Tainted Trees 3,27,14,39,39,40,288,21539716086,4217526,164483514,Abyssal Hunter x40,0,0
+Carcion : Among Tainted Trees 2,27,15,39,39,40,288,21539716086,4217526,164483514,Abyssal Hunter x40,0,0
+Carcion : Enfolding Forest 1,27,14,35,35,36,287,21224925234,4163751,145731285,Despairing Hunter x36,0,0
+Carcion : Enfolding Forest 2,27,14,35,35,36,287,21224925234,4163751,145731285,Despairing Hunter x36,0,0
+Carcion : Giant Coral Colony 3,28,12,39,39,40,286,20925241640,4110304,160301856,Monstrous Shadow Bird x40,0,0
+Carcion : Calm Beach 3,30,10,39,39,40,286,20925241640,4110304,160301856,Abyssal Guard x40,0,0
+Carcion : Calm Beach 1,30,11,39,39,40,286,20925241640,4110304,160301856,Monstrous Shadow Bird x40,0,0
+Carcion : Calm Beach 2,30,12,39,39,40,286,20925241640,4110304,160301856,Abyssal Guard x40,0,0
+Carcion : Giant Coral Colony 2,26,11,35,35,36,285,20627681750,4062965,142203775,Despairing Guard x36,0,0
+Carcion : Giant Coral Colony 1,28,11,35,35,36,285,20627681750,4062965,142203775,Despairing Guard x36,0,0
+Arteria : Top Deck Passage 2,30,12,39,39,40,284,15630628104,3614278,140956842,Frozen Flora Foot Soldier x40,0,0
+Arteria : Top Deck Passage 4,30,12,39,39,40,284,15630628104,3614278,140956842,"Frozen Flora Foot Soldier x19,Frozen Flora Magician x21",0,0
+Arteria : Top Deck Passage 6,30,12,39,39,40,284,15630628104,3614278,140956842,Frozen Flora Magician x40,0,0
+Arteria : Top Deck Passage 7,30,12,39,39,40,284,15630628104,3614278,140956842,"Frozen Flora Foot Soldier x20,Frozen Flora Magician x20",0,0
+Arteria : Top Deck Passage 8,30,13,39,39,40,284,15630628104,3614278,140956842,"Frozen Flora Foot Soldier x20,Frozen Flora Magician x20",0,0
+Arteria : Top Deck Passage 1,24,12,35,35,36,284,15630628104,3614278,126499730,Frozen Flora Foot Soldier x36,0,0
+Arteria : Top Deck Passage 3,24,12,35,35,36,284,15630628104,3614278,126499730,"Frozen Flora Foot Soldier x16,Frozen Flora Magician x20",0,0
+Arteria : Top Deck Passage 5,24,12,35,35,36,284,15630628104,3614278,126499730,Frozen Flora Magician x36,0,0
+Arteria : Bottom Deck Passage 6,30,13,39,39,40,283,15405075504,3572010,139308390,High Flora Longswordsman x40,0,0
+Arteria : Bottom Deck Passage 5,30,13,39,39,40,283,15405075504,3572010,139308390,High Flora Longswordsman x40,0,0
+Arteria : Bottom Deck Passage 4,24,13,35,35,36,283,15405075504,3572010,125020350,High Flora Longswordsman x36,0,0
+Arteria : Bottom Deck Passage 2,30,13,39,39,40,282,15171614640,3524768,137465952,High Flora Armored Soldier x40,0,0
+Arteria : Bottom Deck Passage 3,30,13,39,39,40,282,15171614640,3524768,137465952,High Flora Armored Soldier x40,0,0
+Arteria : Bottom Deck Passage 1,24,13,35,35,36,282,15171614640,3524768,123366880,High Flora Armored Soldier x36,0,0
+Empress Road : Combat Zone Outskirts 2,26,12,39,39,40,281,14949403560,3482914,135833646,High Flora Magician x40,0,0
+Empress Road : Eastern Outskirts,34,31,39,39,40,281,14949403560,3482914,135833646,High Flora Magician x40,0,0
+Empress Road : Southern Outskirts,26,10,35,35,36,281,14949403560,3482914,121901990,High Flora Magician x36,0,0
+Empress Road : Combat Zone Outskirts 1,26,12,39,39,40,280,14728826112,3436027,134005053,High Flora Foot Soldier x40,0,0
+Empress Road : Western Outskirts,34,31,39,39,40,280,14728826112,3436027,134005053,High Flora Foot Soldier x40,0,0
+Empress Road : Northern Outskirts,26,9,35,35,36,280,14728826112,3436027,120260945,High Flora Foot Soldier x36,0,0
+Shangri-La : Harsh Winter 3,30,15,38,38,39,279,11161447920,3059716,116269208,Ink-Winged Owl x39,0,0
+Shangri-La : Harsh Winter 4,30,15,38,38,39,279,11161447920,3059716,116269208,Ink-Winged Owl x39,0,0
+Shangri-La : Harsh Winter 5,31,15,38,38,39,279,11161447920,3059716,116269208,Ink-Winged Owl x39,0,0
+Shangri-La : Harsh Winter 2,30,15,38,38,39,278,11071437784,3037247,115415386,"Ink-Winged Owl x18,Harsh Winter Researcher x21",0,0
+Shangri-La : Harsh Winter 1,30,15,33,33,34,278,10994286240,3017988,99593604,Harsh Winter Researcher x34,0,0
+Shangri-La : Drowsy Autumn 2,30,15,38,38,39,277,10828381200,2981010,113278380,"Inkblot Sable x19,Drowsy Autumn Researcher x20",0,0
+Shangri-La : Drowsy Autumn 3,30,15,38,38,39,277,10828381200,2981010,113278380,Inkblot Sable x39,0,0
+Shangri-La : Drowsy Autumn 4,30,16,38,38,39,277,10828381200,2981010,113278380,Inkblot Sable x39,0,0
+Shangri-La : Drowsy Autumn 5,31,17,38,38,39,277,10828381200,2981010,113278380,Inkblot Sable x39,0,0
+Shangri-La : Drowsy Autumn 1,26,14,33,33,34,277,10828381200,2981010,98373330,Drowsy Autumn Researcher x34,0,0
+Shangri-La : Gentle Summer 3,29,16,38,38,39,276,10663732800,2939616,111705408,Ink-Shaded Red-Crowned Crane x39,0,0
+Shangri-La : Gentle Summer 4,29,16,38,38,39,276,10663732800,2939616,111705408,Ink-Shaded Red-Crowned Crane x39,0,0
+Shangri-La : Gentle Summer 2,30,16,38,38,39,276,10663732800,2939616,111705408,"Ink-Shaded Red-Crowned Crane x18,Gentle Summer Researcher x21",0,0
+Shangri-La : Gentle Summer 5,32,16,38,38,39,276,10663732800,2939616,111705408,Ink-Shaded Red-Crowned Crane x39,0,0
+Shangri-La : Gentle Summer 1,30,15,33,33,34,276,10663732800,2939616,97007328,Gentle Summer Researcher x34,0,0
+Shangri-La : Blooming Spring 2,30,14,38,38,39,275,10500341040,2903024,110314912,"Ink-Shaded Butterfly x16,Withered Spring Researcher x23",0,0
+Shangri-La : Blooming Spring 3,30,16,38,38,39,275,10500341040,2903024,110314912,Ink-Shaded Butterfly x39,0,0
+Shangri-La : Blooming Spring 4,30,16,38,38,39,275,10500341040,2903024,110314912,Ink-Shaded Butterfly x39,0,0
+Shangri-La : Blooming Spring 5,31,16,38,38,39,275,10500341040,2903024,110314912,Ink-Shaded Butterfly x39,0,0
+Shangri-La : Blooming Spring 1,30,14,33,33,34,275,10500341040,2903024,95799792,Withered Spring Researcher x34,0,0
+Odium : Laboratory Behind Locked Door 4,30,12,38,38,39,274,7952744540,2582906,98150428,Failed Subject x39,0,0
+Odium : Laboratory Behind Locked Door 3,30,12,38,38,39,274,7952744540,2582906,98150428,Failed Subject x39,0,0
+Odium : Laboratory Behind Locked Door 2,30,11,36,36,37,273,7892538427,2565024,92340864,"Disintegrating Test Subject x18,Failed Subject x19",0,0
+Odium : Laboratory Behind Locked Door 1,24,10,33,33,34,273,7828987530,2546149,84022917,Disintegrating Test Subject x34,0,0
+Odium : Sunny Laboratory 3,30,14,38,38,39,272,7706197200,2513634,95518092,Guard Agate x39,0,0
+Odium : Sunny Laboratory 2,30,14,36,36,37,272,7706197200,2513634,90490824,"Guard Corundum x19,Guard Agate x18",0,0
+Odium : Sunny Laboratory 1,24,14,33,33,34,272,7706197200,2513634,82949922,Guard Corundum x34,0,0
+Odium : Captured Alley 4,32,12,38,38,39,271,7584373550,2481337,94290806,Angler Robot Type C x39,0,0
+Odium : Captured Alley 3,32,10,36,36,37,271,7584373550,2481337,89328132,"Angler Robot Type B x18,Angler Robot Type C x19",0,0
+Odium : Captured Alley 1,28,8,33,33,34,271,7584373550,2481337,81884121,Angler Robot Type A x34,0,0
+Odium : Captured Alley 2,28,8,33,33,34,271,7584373550,2481337,81884121,Angler Robot Type B x34,0,0
+Odium : Road to the Castle's Gate 4,30,11,38,38,39,270,7463516580,2445217,92918246,Enhanced Corallite Guardian x39,0,0
+Odium : Road to the Castle's Gate 5,30,12,38,38,39,270,7463516580,2445217,92918246,Enhanced Corallite Guardian x39,0,0
+Odium : Road to the Castle's Gate 3,33,10,36,36,37,270,7463516580,2445217,88027812,Enhanced Olivine Guardian x37,0,0
+Odium : Road to the Castle's Gate 2,24,10,33,33,34,270,7463516580,2445217,80692161,"Enhanced Olivine Guardian x15,Enhanced Diamond Guardian x19",0,0
+Odium : Road to the Castle's Gate 1,24,11,33,33,34,270,7463516580,2445217,80692161,Enhanced Diamond Guardian x34,0,0
+Hotel Arcus : Train with No Destination 6,33,9,37,37,38,269,5648943300,2174274,80448138,Houndbot x38,0,0
+Hotel Arcus : Train with No Destination 5,22,9,33,33,34,269,5648943300,2174274,71751042,Houndbot x34,0,0
+Hotel Arcus : Train with No Destination 4,22,11,33,33,34,269,5648943300,2174274,71751042,Houndbot x34,0,0
+Hotel Arcus : Train with No Destination 3,33,10,37,37,38,268,5557463600,2145596,79387052,Conductorbot x38,0,0
+Hotel Arcus : Train with No Destination 1,22,11,33,33,34,268,5557463600,2145596,70804668,Conductorbot x34,0,0
+Hotel Arcus : Train with No Destination 2,22,11,33,33,34,268,5557463600,2145596,70804668,Conductorbot x34,0,0
+Hotel Arcus : Nostalgic Drive-in Theater 6,24,10,33,33,34,267,5470563800,2113572,69747876,Puxillian Scrounger x34,0,0
+Hotel Arcus : Nostalgic Drive-in Theater 4,25,9,33,33,34,267,5470563800,2113572,69747876,Puxillian Scrounger x34,0,0
+Hotel Arcus : Nostalgic Drive-in Theater 5,26,10,32,32,33,267,5470563800,2113572,67634304,Puxillian Scrounger x33,0,0
+Hotel Arcus : Nostalgic Drive-in Theater 3,31,12,38,38,39,266,5380537500,2085219,79238322,Puxillian Rover x39,0,0
+Hotel Arcus : Nostalgic Drive-in Theater 1,22,9,33,33,34,266,5380537500,2085219,68812227,Puxillian Rover x34,0,0
+Hotel Arcus : Nostalgic Drive-in Theater 2,26,9,33,33,34,266,5380537500,2085219,68812227,Puxillian Rover x34,0,0
+Hotel Arcus : Outlaw-Infested Wastes 4,30,11,38,38,39,265,5295023500,2056974,78165012,Ironshot Desperado x39,0,0
+Hotel Arcus : Outlaw-Infested Wastes 3,30,11,37,37,38,265,5295023500,2056974,76108038,Ironshot Desperado x38,0,0
+Hotel Arcus : Outlaw-Infested Wastes 1,26,10,33,33,34,265,5295023500,2056974,67880142,Sandblade Marauder x34,0,0
+Hotel Arcus : Outlaw-Infested Wastes 2,27,10,33,33,34,265,5295023500,2056974,67880142,Sandblade Marauder x34,0,0
+Burning Cernium : Burning Royal Library Section 3,28,12,38,38,39,264,4004962000,1828409,69479542,Ebonstar Bombardier x39,0,0
+Burning Cernium : Burning Royal Library Section 6,28,13,38,38,39,264,4004962000,1828409,69479542,Ebonstar Magician x39,0,0
+Burning Cernium : Burning Royal Library Section 1,24,8,33,33,34,264,4004962000,1828409,60337497,Ebonstar Bombardier x34,0,0
+Burning Cernium : Burning Royal Library Section 2,24,8,33,33,34,264,4004962000,1828409,60337497,Ebonstar Bombardier x34,0,0
+Burning Cernium : Burning Royal Library Section 4,24,9,33,33,34,264,4004962000,1828409,60337497,Ebonstar Magician x34,0,0
+Burning Cernium : Burning Royal Library Section 5,24,9,33,33,34,264,4004962000,1828409,60337497,Ebonstar Magician x34,0,0
+Limina : End of the World 2-8,18,13,32,39,33,264,1355525600,865496,27695872,Powerful Embrion x33,0,0
+Limina : End of the World 2-6,18,10,32,32,33,264,677762800,721247,23079904,Embrion x33,0,0
+Limina : End of the World 2-5,18,12,32,32,33,264,677762800,721247,23079904,Embrion x33,0,0
+Limina : End of the World 2-7,27,8,32,32,33,264,677762800,721247,23079904,Embrion x33,0,0
+Burning Cernium : Eastern City Ramparts in Battle 3,30,10,38,38,39,263,3937401000,1800203,68407714,Flora Assassin x39,0,0
+Burning Cernium : Eastern City Ramparts in Battle 6,29,11,37,37,38,263,3937401000,1800203,66607511,Flora Heavy Infantry x38,0,0
+Burning Cernium : Eastern City Ramparts in Battle 1,20,10,33,33,34,263,3937401000,1800203,59406699,Flora Assassin x34,0,0
+Burning Cernium : Eastern City Ramparts in Battle 2,22,10,33,33,34,263,3937401000,1800203,59406699,Flora Assassin x34,0,0
+Burning Cernium : Eastern City Ramparts in Battle 4,22,10,33,33,34,263,3937401000,1800203,59406699,Flora Heavy Infantry x34,0,0
+Burning Cernium : Eastern City Ramparts in Battle 5,25,9,32,32,33,263,3937401000,1800203,57606496,Flora Heavy Infantry x33,0,0
+Limina : End of the World 1-9,22,11,34,34,35,263,1332658800,852145,28972930,Powerful Foreberion x35,0,0
+Limina : End of the World 1-8,22,10,34,34,35,263,666329400,710121,24144114,Foreberion x35,0,0
+Limina : End of the World 1-6,22,13,34,34,35,263,666329400,710121,24144114,Foreberion x35,0,0
+Limina : End of the World 2-4,18,11,32,32,33,263,673258733,716864,22939648,"Embrion x20,Foreberion x13",0,0
+Limina : End of the World 2-3,18,10,31,31,32,263,666329400,710121,22013751,Foreberion x32,0,0
+Limina : End of the World 1-7,22,8,31,31,32,263,666329400,710121,22013751,Foreberion x32,0,0
+Burning Cernium : Western City Ramparts in Battle 4,30,10,37,37,38,262,3873233000,1775159,65680883,Flora Magician x38,0,0
+Burning Cernium : Western City Ramparts in Battle 3,30,11,37,37,38,262,3873233000,1775159,65680883,Flora Magician x38,0,0
+Burning Cernium : Western City Ramparts in Battle 2,24,9,33,33,34,262,3873233000,1775159,58580247,Flora Foot Soldier x34,0,0
+Burning Cernium : Western City Ramparts in Battle 1,24,11,33,33,34,262,3873233000,1775159,58580247,Flora Foot Soldier x34,0,0
+Limina : World's Sorrow Midpoint 4,15,18,33,33,34,262,1310940400,840290,27729570,Powerful Ascendion x34,0,0
+Limina : World's Sorrow Midpoint 3,15,18,33,33,34,262,655470200,700242,23107986,Ascendion x34,0,0
+Limina : End of the World 1-4,22,10,31,31,32,262,655470200,700242,21707502,Ascendion x32,0,0
+Limina : End of the World 1-5,22,9,30,30,31,262,661775541,705978,21179340,"Ascendion x13,Foreberion x18",0,0
+Cernium : Royal Library Section 6,28,11,37,37,38,261,3806790000,1750290,64760730,Curious Scholar Ghost x38,0,0
+Cernium : Cernium Eastern City Ramparts 3,29,12,37,37,38,261,3806790000,1750290,64760730,Fire Spirit x38,0,0
+Cernium : Royal Library Section 3,33,11,37,37,38,261,3806790000,1750290,64760730,Wandering Scholar Ghost x38,0,0
+Cernium : Royal Library Section 1,24,9,33,33,34,261,3806790000,1750290,57759570,Wandering Scholar Ghost x34,0,0
+Cernium : Royal Library Section 4,24,9,33,33,34,261,3806790000,1750290,57759570,Curious Scholar Ghost x34,0,0
+Cernium : Royal Library Section 5,24,10,33,33,34,261,3806790000,1750290,57759570,Curious Scholar Ghost x34,0,0
+Cernium : Cernium Eastern City Ramparts 2,25,11,33,33,34,261,3806790000,1750290,57759570,Fire Spirit x34,0,0
+Cernium : Royal Library Section 2,24,10,32,32,33,261,3806790000,1750290,56009280,Wandering Scholar Ghost x33,0,0
+Cernium : Cernium Eastern City Ramparts 1,25,11,32,32,33,261,3806790000,1750290,56009280,Fire Spirit x33,0,0
+Limina : World's Sorrow Midpoint 2,15,17,33,33,34,261,650178811,695625,22955625,"Ascendion x18,Transcendion x16",0,0
+Limina : World's Sorrow Midpoint 1,15,19,33,33,35,261,644226000,690432,22784256,Transcendion x35,0,0
+Limina : World's Sorrow Depths 3,37,8,33,33,34,261,644226000,690432,22784256,Transcendion x34,0,0
+Cernium : Cernium Western City Ramparts 3,32,12,38,38,39,260,3743688000,1725461,65567518,Monster Gull x39,0,0
+Cernium : Rocky Overlook 4,32,11,37,37,38,260,3743688000,1725461,63842057,Ebonstar Archer x38,0,0
+Cernium : Rocky Overlook 3,32,12,37,37,38,260,3743688000,1725461,63842057,Ebonstar Archer x38,0,0
+Cernium : Rocky Overlook 2,23,10,33,33,34,260,3743688000,1725461,56940213,Ebonstar Foot Soldier x34,0,0
+Cernium : Rocky Overlook 1,23,11,33,33,34,260,3743688000,1725461,56940213,Ebonstar Foot Soldier x34,0,0
+Cernium : Cernium Western City Ramparts 1,25,11,33,33,34,260,3743688000,1725461,56940213,Monster Gull x34,0,0
+Cernium : Cernium Western City Ramparts 2,22,12,32,32,33,260,3743688000,1725461,55214752,Monster Gull x33,0,0
+Limina : World's Sorrow Depths 2,43,8,33,33,34,260,639828847,686399,22651167,"Ancestion x14,Transcendion x20",0,0
+Limina : World's Sorrow Depths 1,40,8,32,32,35,260,633547200,680638,21780416,Ancestion x35,0,0
+Tenebris : Labyrinth of Suffering Deep Core 2,22,11,34,34,35,259,622956400,670940,22811960,Silent Watchman x35,0,0
+Tenebris : Labyrinth of Suffering Deep Core 1,25,11,34,34,35,259,622956400,670940,22811960,"Silent Watchman x15,Silent Assassin x20",0,0
+Tenebris : Labyrinth of Suffering Deep Core 3,19,14,33,33,35,259,622956400,670940,22141020,Despairing Soul x35,0,0
+Tenebris : Labyrinth of Suffering Deep Core 4,20,15,33,33,35,259,622956400,670940,22141020,"Despairing Soul x15,Despairing Prisoner x20",0,0
+Tenebris : Labyrinth of Suffering Deep Core 5,25,10,33,33,35,259,622956400,670940,22141020,Despairing Prisoner x35,0,0
+Tenebris : Labyrinth of Suffering Deep Core 6,27,10,33,33,35,259,622956400,670940,22141020,Silent Assassin x35,0,0
+Tenebris : Labyrinth of Suffering Core 4,23,12,36,36,37,258,611993800,661261,23805396,"Silent Knight x13,Silent Scout x12,Silent Rogue x12",0,0
+Tenebris : Labyrinth of Suffering Core 6,21,12,35,36,37,258,611993800,661261,23144135,Silent Scout x37,0,0
+Tenebris : Labyrinth of Suffering Core 5,19,12,33,36,33,258,611993800,661261,21821613,Silent Knight x33,0,0
+Tenebris : Labyrinth of Suffering Core 7,20,13,33,33,35,258,611993800,661261,21821613,Silent Rogue x35,0,0
+Tenebris : Labyrinth of Suffering Core 3,23,12,35,36,38,257,601583400,650504,22767640,Despairing Blade x38,0,0
+Tenebris : Labyrinth of Suffering Core 2,19,11,34,34,35,257,601583400,650504,22117136,"Despairing Wing x15,Despairing Blade x20",0,0
+Tenebris : Labyrinth of Suffering Core 1,19,13,34,34,35,257,601583400,650504,22117136,Despairing Wing x35,0,0
+Tenebris : Labyrinth of Suffering Interior 4,22,11,34,34,35,256,591261000,640971,21793014,Dark Miscreation x35,0,0
+Tenebris : Labyrinth of Suffering Interior 5,22,13,33,33,35,256,591261000,640971,21152043,"Dark Miscreation x18,Dark Construct x17",0,0
+Tenebris : Labyrinth of Suffering Interior 6,25,12,33,33,35,256,591261000,640971,21152043,Dark Construct x35,0,0
+Tenebris : Labyrinth of Suffering Interior 3,19,11,34,34,35,255,581026600,631458,21469572,Faith Fragment x35,0,0
+Tenebris : Labyrinth of Suffering Interior 2,19,12,34,34,35,255,581026600,631458,21469572,"Entangled Fragment x17,Faith Fragment x18",0,0
+Tenebris : Labyrinth of Suffering Interior 1,22,11,34,34,35,255,581026600,631458,21469572,Entangled Fragment x35,0,0
+Moonbridge : Void Current 2,36,12,39,39,39,254,570438000,622041,24259599,Burst Glare x39,0,0
+Moonbridge : Void Current 1,27,12,34,35,35,254,570438000,622041,21149394,Crushing Glare x35,0,0
+Moonbridge : Void Current 6,27,12,33,35,34,254,570438000,622041,20527353,"Crushing Glare x17,Burst Glare x17",0,0
+Moonbridge : Void Current 4,27,13,33,35,33,254,570438000,622041,20527353,Crushing Glare x33,0,0
+Moonbridge : Void Current 5,27,13,33,35,33,254,570438000,622041,20527353,Burst Glare x33,0,0
+Moonbridge : Void Current 3,27,10,32,32,34,254,570438000,622041,19905312,"Crushing Glare x18,Burst Glare x16",0,0
+Moonbridge : Mysterious Fog 5,22,13,35,35,38,253,560384000,612643,21442505,Soot Core x38,0,0
+Moonbridge : Mysterious Fog 2,27,11,32,32,33,253,560384000,612643,19604576,Soot Core x33,0,0
+Moonbridge : Mysterious Fog 3,27,13,37,37,37,252,555805027,608358,22509246,"Soot Slug x17,Soot Core x20",0,0
+Moonbridge : Mysterious Fog 4,27,14,37,37,37,252,550418000,603318,22322766,Soot Slug x37,0,0
+Moonbridge : Mysterious Fog 6,22,15,36,36,36,252,555401000,607980,21887280,"Soot Slug x18,Soot Core x18",0,0
+Moonbridge : Mysterious Fog 1,27,14,35,35,35,252,550418000,603318,21116130,Soot Slug x35,0,0
+Sellas : Star-Swallowing Sea 6,32,11,39,39,40,251,540540000,594040,23167560,Angelus x40,0,0
+Moonbridge : Last Horizon 5,27,13,35,35,36,251,540540000,594040,20791400,Soot Talon x36,0,0
+Moonbridge : Last Horizon 2,27,8,33,33,34,251,540540000,594040,19603320,Soot Talon x34,0,0
+Sellas : Star-Swallowing Sea 5,21,12,31,31,32,251,540540000,594040,18415240,Angelus x32,0,0
+Sellas : Star-Swallowing Sea 4,24,8,24,24,25,251,540540000,594040,14256960,Angelus x25,0,0
+Moonbridge : Last Horizon 6,22,13,38,38,39,250,535268461,589068,22384584,"Soot Beast x21,Soot Talon x18",0,0
+Sellas : Star-Swallowing Sea 3,28,12,38,38,39,250,530750000,584807,22222666,Lilli Borea x39,0,0
+Moonbridge : Last Horizon 1,27,13,37,37,41,250,530750000,584807,21637859,Soot Beast x41,0,0
+Moonbridge : Last Horizon 4,22,12,37,37,38,250,530750000,584807,21637859,Soot Beast x38,0,0
+Moonbridge : Last Horizon 3,27,12,35,35,36,250,536188888,589936,20647760,"Soot Beast x16,Soot Talon x20",0,0
+Sellas : Star-Swallowing Sea 2,25,11,32,32,33,250,530750000,584807,18713824,Lilli Borea x33,0,0
+Sellas : Star-Swallowing Sea 1,19,8,24,24,25,250,530750000,584807,14035368,Lilli Borea x25,0,0
+Esfera : Radiant Temple 4,32,12,38,39,38,249,473680000,553217,21022246,Dark Executor x38,0,0
+Sellas : Plunging Depths 6,30,14,37,37,40,249,473680000,553217,20469029,Denebola x40,0,0
+Sellas : Plunging Depths 5,23,12,32,32,33,249,473680000,553217,17702944,Denebola x33,0,0
+Sellas : Plunging Depths 4,15,11,25,25,26,249,473680000,553217,13830425,Denebola x26,0,0
+Esfera : Radiant Temple 3,32,13,39,39,41,248,469416585,548944,21408816,"Light Executor x20,Dark Executor x21",0,0
+Esfera : Radiant Temple 2,32,12,38,39,38,248,464940000,544459,20689442,Light Executor x38,0,0
+Sellas : Plunging Depths 3,26,12,38,38,38,248,464940000,544459,20689442,Hyades x38,0,0
+Sellas : Plunging Depths 2,23,14,33,33,33,248,464940000,544459,17967147,Hyades x33,0,0
+Sellas : Plunging Depths 1,20,9,25,25,26,248,464940000,544459,13611475,Hyades x26,0,0
+Sellas : The Final Edge of Light 9,31,10,37,37,40,247,456280000,535749,19822713,Oceanleli x40,0,0
+Esfera : Mirror-touched Sea 7,24,11,31,31,45,247,456280000,535749,16608219,Keeper of Darkness x45,0,0
+Sellas : The Final Edge of Light 8,26,10,31,31,32,247,456280000,535749,16608219,Oceanleli x32,0,0
+Sellas : The Final Edge of Light 7,25,9,25,25,26,247,456280000,535749,13393725,Oceanleli x26,0,0
+Sellas : The Final Edge of Light 6,31,11,38,38,40,246,447700000,527106,20030028,Volar x40,0,0
+Sellas : The Final Edge of Light 5,22,11,32,32,33,246,447700000,527106,16867392,Volar x33,0,0
+Esfera : Mirror-touched Sea 6,24,11,29,29,39,246,451880000,531316,15408164,"Keeper of Light x20,Keeper of Darkness x19",0,0
+Esfera : Mirror-touched Sea 5,24,11,28,30,44,246,447700000,527106,14758968,Keeper of Light x44,0,0
+Sellas : The Final Edge of Light 4,21,9,25,25,26,246,447700000,527106,13177650,Volar x26,0,0
+Sellas : The Final Edge of Light 3,33,11,37,37,39,245,439566000,518511,19184907,Veritate x39,0,0
+Sellas : The Final Edge of Light 2,22,11,32,32,33,245,439566000,518511,16592352,Veritate x33,0,0
+Esfera : Mirror-touched Sea 4,24,10,26,26,35,245,439566000,518511,13481286,Aranea x35,0,0
+Sellas : The Final Edge of Light 1,23,9,25,26,25,245,439566000,518511,12962775,Veritate x25,0,0
+Morass : That Day in Trueffet 4,43,19,30,33,32,244,436670250,515572,15467160,"Thralled Wizard x11,Thralled Archer x21",0,0
+Esfera : Mirror-touched Sea 3,24,10,23,23,33,244,435226363,514108,11824484,"Aranya x17,Aranea x16",0,0
+Esfera : Mirror-touched Sea 2,24,10,23,23,27,244,431142000,509964,11729172,Aranya x27,0,0
+Esfera : Living Spring 7,35,12,39,39,40,243,422798000,501461,19556979,Bellalis x40,0,0
+Morass : That Day in Trueffet 3,42,20,35,35,37,243,426631729,505367,17687845,"Thralled Warhammer Knight x20,Thralled Wizard x17",0,0
+Esfera : Living Spring 5,35,11,38,38,38,242,414534000,494006,18772228,Bellalion x38,0,0
+Esfera : Living Spring 6,35,11,36,36,38,242,418883473,497929,17925444,"Bellalion x18,Bellalis x20",0,0
+Morass : That Day in Trueffet 2,42,11,27,39,28,242,417780571,496934,13417218,"Thralled Guard x17,Thralled Warhammer Knight x11",0,0
+Esfera : Living Spring 4,35,11,39,39,40,241,406700000,485614,18938946,Atus x40,0,0
+Morass : Abandoned Area 2,55,10,38,38,43,241,406700000,485614,18453332,"Experiment Gone Wrong x15,Big Experiment Gone Wrong x28",0,0
+Morass : Abandoned Area 3,38,11,37,39,45,241,406700000,485614,17482104,Big Experiment Gone Wrong x45,0,0
+Morass : Abandoned Area,42,9,31,34,32,241,406700000,485614,15054034,Experiment Gone Wrong x32,0,0
+Esfera : Living Spring 3,35,12,39,39,44,240,366778909,478891,18676749,"Ahtuin x20,Atus x24",0,0
+Esfera : Living Spring 2,35,12,39,39,39,240,318873600,470824,18362136,Ahtuin x39,0,0
+Morass : Shadowdance Hall 4,33,10,33,33,49,240,318873600,470824,15537192,Red Shadow x49,0,0
+Arcana : Beneath the Spirit Tree,31,12,29,29,32,240,318873600,470824,13653896,Discordant Spirit x32,0,0
+Arcana : Labyrinthine Cavern - Lower Path,26,12,28,28,29,240,318873600,470824,13183072,Discordant Spirit x29,0,0
+Morass : Shadowdance Hall 3,33,10,37,37,46,239,316360486,467633,17302421,"Blue Shadow x18,Red Shadow x28",0,0
+Morass : Shadowdance Hall 2,33,10,37,37,49,239,312451200,462670,17118790,Blue Shadow x49,0,0
+Arcana : Labyrinthine Cavern - Upper Path,25,12,28,28,34,239,315473505,466507,13062196,"Mournful Spirit x18,Discordant Spirit x16",0,0
+Arcana : Labyrinthine Cavern - Side Path,27,12,28,28,36,239,315305600,466294,13056232,"Mournful Spirit x20,Discordant Spirit x16",0,0
+Arcana : Deep in the Cavern - Lower Path 2,26,12,23,23,28,239,312451200,462670,10641410,Mournful Spirit x28,0,0
+Morass : Bully Blvd.,46,11,39,39,53,238,306363200,454564,17727996,Powerful Gangster x53,0,0
+Morass : Bully Blvd. 3,37,14,35,39,48,238,306363200,454564,15455176,Strong Gangster x48,0,0
+Arcana : Labyrinthine Cavern,28,13,32,32,35,238,309320228,458501,14672032,"Anguished Spirit x18,Mournful Spirit x17",0,0
+Morass : Bully Blvd. 2,32,11,31,35,39,238,306363200,454564,14091484,"Powerful Gangster x20,Strong Gangster x19",0,0
+Arcana : The Deepest Part of the Cavern - Lower Path,25,11,28,28,31,238,309309006,458486,12837608,"Anguished Spirit x16,Mournful Spirit x15",0,0
+Arcana : Deep in the Cavern - Upper Path 2,37,12,28,28,42,238,306363200,454564,12727792,Anguished Spirit x42,0,0
+Arcana : The Deepest Part of the Cavern - Upper Path,28,12,26,26,38,238,309246989,458403,11918478,"Anguished Spirit x20,Mournful Spirit x18",0,0
+Arcana : Deep in the Cavern - Lower Path 1,26,12,22,22,30,238,306671253,455126,10012772,"Befuddled Spirit x14,Mournful Spirit x16",0,0
+Morass : Street Cat Area,32,12,39,39,52,237,300065600,446505,17413695,Nameless Cat x52,0,0
+Morass : Street Cat Area 2,32,11,38,38,48,237,300065600,446505,16967190,Nameless Cat x48,0,0
+Arcana : Deep in the Cavern - Upper Path 1,37,13,32,32,45,237,303564266,450982,14431424,"Befuddled Spirit x20,Anguished Spirit x25",0,0
+Arcana : Cavern Upper Path,33,14,29,36,29,237,300065600,446505,12948645,Befuddled Spirit x29,0,0
+Arcana : Cavern Lower Path,20,13,20,20,25,237,300065600,446505,8930100,Befuddled Spirit x25,0,0
+Morass : Path to the Coral Forest 4,30,15,39,39,72,236,294096000,439402,17136678,Xenoroid Echo Type B x72,0,0
+Morass : Path to the Coral Forest 3,26,14,38,38,51,236,294096000,439402,16697276,"Xenoroid Echo Type A x26,Xenoroid Echo Type B x25",0,0
+Morass : Path to the Coral Forest 2,41,11,35,35,47,236,294096000,439402,15379070,Xenoroid Echo Type A x47,0,0
+Arcana : The Volatile Forest,34,8,27,31,27,236,294096000,439402,11863854,Volatile Spirit x27,0,0
+Arcana : The Volatile and Toxic Forest 2,33,9,31,32,31,235,291426064,435814,13510234,"Toxic Spirit x14,Volatile Spirit x17",0,0
+Arcana : The Volatile and Toxic Forest 1,33,9,29,29,30,235,291140000,435430,12627470,"Toxic Spirit x15,Volatile Spirit x15",0,0
+Arcana : Forest of Toxins,33,9,27,29,30,235,288184000,431459,11649393,Toxic Spirit x30,0,0
+Arcana : Thunder Cloud Clearing,33,10,25,25,31,234,282072000,423542,10588550,Thunder Cloud Spirit x31,0,0
+Arcana : Between Frost and Thunder 1,33,8,22,22,24,233,279175200,419622,9231684,"Snow Cloud Spirit x12,Thunder Cloud Spirit x12",0,0
+Arcana : Snow Cloud Clearing,33,8,22,22,26,233,276278400,415702,9145444,Snow Cloud Spirit x26,0,0
+Arcana : Between Frost and Thunder 2,33,6,20,25,23,233,278797356,419110,8382200,"Snow Cloud Spirit x13,Thunder Cloud Spirit x10",0,0
+Arcana : The Forest of Earth,28,8,28,29,31,232,270291200,408778,11445784,Earth Spirit x31,0,0
+Arcana : The Forest of Sunlight,28,9,27,28,39,231,264616000,401055,10828485,Sun Spirit x39,0,0
+Arcana : Where Earth and Sunlight Meet,28,11,25,29,40,231,267737360,405302,10132550,"Sun Spirit x18,Earth Spirit x22",0,0
+Arcana : Where Water and Sunlight Meet,28,9,33,33,35,230,261726948,397098,13104234,"Water Spirit x18,Sun Spirit x17",0,0
+Arcana : The Forest of Water,28,10,28,28,38,230,258998400,393361,11014108,Water Spirit x38,0,0
+Clocktower : Hidden Nightmare Clocktower,11,31,27,34,27,229,506876800,402466,10866582,Red-eyed Gargoyle x27,0,1
+Eree Valley : Hidden Torrent Zone,56,5,26,38,26,229,506876800,402466,10464116,"Blue Catfish x13,Boss Rhyturtle x13",0,1
+Skywhale Mountain : Hidden Skywhale Mountain,24,15,19,19,28,229,506876800,402466,7646854,"Patriarch Crilia x16,Patriarch Birdshark x12",0,1
+Slurpy Forest : Hidden Slurpy Forest,18,10,19,19,25,229,506876800,402466,7646854,"Ripe Wolfruit x12,Angry Flyon x13",0,1
+Lachelein Ballroom : Hidden Dance Floor,20,10,16,16,30,229,506876800,402466,6439456,Red Dancing Shoes x30,0,1
+Night Market : Hidden Plate Street,18,9,14,14,28,229,506876800,402466,5634524,Crooked Victory Plate x28,0,1
+Lachelein Clocktower : Nightmare Clocktower 4F,11,33,31,32,33,228,226241600,363430,11266330,Red-eyed Gargoyle x33,0,0
+Lachelein Clocktower : Nightmare Clocktower 3F,11,32,28,36,29,227,221273220,356216,9974048,Blue-eyed Gargoyle x29,0,0
+Lachelein Clocktower : Nightmare Clocktower 5F,11,33,27,36,27,227,223849417,359956,9718812,"Blue-eyed Gargoyle x13,Red-eyed Gargoyle x14",0,0
+Lachelein Clocktower : Nightmare Clocktower 2F,11,32,28,36,28,226,216357400,349836,9795408,Dreamkeeper x28,0,0
+Lachelein Clocktower : Nightmare Clocktower 1F,11,31,26,35,26,226,216357400,349836,9095736,Dreamkeeper x26,0,0
+Lachelein Ballroom : Occupied Dance Floor 2,26,10,30,30,40,225,211494140,342720,10281600,Red Dancing Shoes x40,0,0
+Lachelein Ballroom : Occupied Dance Floor 1,28,11,28,28,32,224,206683440,335675,9398900,Weakened Dreamkeeper x32,0,0
+Lachelein Ballroom : Revelation Place 2,20,8,21,22,27,224,206683440,335675,7049175,Insane Masquerade Citizen x27,0,0
+Lachelein Ballroom : Revelation Place 1,28,9,30,30,41,223,201925300,329417,9882510,Angry Masquerade Citizen x41,0,0
+Lachelein Night Market : Victory Plate Street 2,23,10,30,30,40,223,201925300,329417,9882510,Crooked Victory Plate x40,0,0
+Lachelein Ballroom : Revelation Place 3,20,8,21,21,28,223,204644237,332993,6992853,"Angry Masquerade Citizen x12,Insane Masquerade Citizen x16",0,0
+Lachelein Night Market : Victory Plate Street 1,23,8,30,30,40,222,197219720,322473,9674190,Angry Victory Plate x40,0,0
+Lachelein Night Market : Chicken Festival 2,23,7,22,22,23,222,197219720,322473,7094406,Gallus x23,0,0
+Lachelein Night Market : Chicken Festival 3,28,11,38,38,40,221,194893210,319394,12136972,"Gallina x20,Gallus x20",0,0
+Lachelein Alley : Outlaw's Street 3,26,9,29,29,43,221,192566700,316316,9173164,Wood Board Alley Citizen x43,0,0
+Lachelein Night Market : Chicken Festival 1,23,9,26,26,40,221,192566700,316316,8224216,Gallina x40,0,0
+Lachelein Alley : Outlaw's Street 2,26,9,29,29,44,220,189848246,312270,9055830,"Paper Bag Alley Citizen x26,Wood Board Alley Citizen x18",0,0
+Lachelein Alley : Outlaw's Street 1,26,8,27,27,40,220,187966240,309470,8355690,Paper Bag Alley Citizen x40,0,0
+Yum Yum Island : Hidden Mushbud Forest,26,8,26,26,27,220,187966240,309470,8046220,"Potent Monkeyrog x13,Potent Bunshroom x14",0,0
+Yum Yum Island : Hidden Illiard Field,26,8,26,26,27,220,187966240,309470,8046220,"Potent Lytone x14,Potent Stonepy x13",0,0
+Yum Yum Island : Hidden Fungos Forest,26,8,26,26,27,220,187966240,309470,8046220,"Potent Kumpider x12,Potent Squirrelnon x15",0,0
+Skywhale Mountain : Colossal Tail,24,16,29,29,30,219,150754800,303394,8798426,Patriarch Birdshark x30,0,0
+Skywhale Mountain : Skywhale Peak,24,15,27,27,28,219,150754800,303394,8191638,Patriarch Crilia x28,0,0
+Yum Yum Island : Fungos Forest 2,26,9,26,26,27,219,150754800,303394,7888244,"Kumpider x15,Squirrelnon x12",0,0
+Yum Yum Island : Fungos Forest 5,26,10,26,26,27,219,150754800,303394,7888244,"Kumpider x12,Squirrelnon x15",0,0
+Yum Yum Island : Fungos Forest 1,26,8,25,25,26,219,150754800,303394,7584850,Kumpider x26,0,0
+Yum Yum Island : Fungos Forest 4,26,8,25,25,26,219,150754800,303394,7584850,Kumpider x26,0,0
+Yum Yum Island : Fungos Forest 3,26,9,25,25,26,219,150754800,303394,7584850,Squirrelnon x26,0,0
+Yum Yum Island : Fungos Forest 6,26,10,25,25,26,219,150754800,303394,7584850,Squirrelnon x26,0,0
+Black Heaven : Black Heaven Maze 6,31,15,40,40,50,219,8066531,33198,1327920,"Alloy Xenoroid DX x14,Alloy Xenoroid DX x8,Alloy Xenoroid EX x18,Alloy Xenoroid EX x7,Modded Megaroid x3(300)",0,0
+Black Heaven : Black Heaven Junction 3,23,18,39,40,43,219,5707555,23404,912756,"Alloy Xenoroid EX x31,Alloy Xenoroid EX x9,Modded Megaroid x3(300)",0,0
+Black Heaven : Black Heaven Maze 7,23,20,35,40,37,219,5797040,23776,832160,"Alloy Xenoroid DX x27,Alloy Xenoroid DX x8,Modded Megaroid x2(300)",0,0
+Black Heaven : Black Heaven Maze 5,24,16,32,33,35,219,5384866,22065,706080,"Alloy Xenoroid EX x26,Alloy Xenoroid EX x7,Modded Megaroid x2(300)",0,0
+Skywhale Mountain : Skywhale Mountainside 2,24,15,27,27,28,218,147060000,296653,8009631,Birdshark x28,0,0
+Yum Yum Island : Illiard Field 3,26,9,25,25,26,218,147060000,296653,7416325,Stonepy x26,0,0
+Yum Yum Island : Illiard Field 6,26,9,25,25,26,218,147060000,296653,7416325,Stonepy x26,0,0
+Black Heaven : Black Heaven Maze 4,20,17,29,31,33,218,7654827,31565,915385,"Steel Xenoroid DX x20,Steel Xenoroid DX x9,Modded Megaroid x4(300)",0,0
+Black Heaven : Black Heaven Junction 2,21,12,21,21,33,218,5254242,21574,453054,"Steel Xenoroid DX x26,Steel Xenoroid DX x7",0,0
+Skywhale Mountain : Skywhale Mountainside 1,24,15,27,27,28,217,145873157,294765,7958655,"Crilia x19,Patriarch Crilia x9",0,0
+Yum Yum Island : Illiard Field 2,26,9,26,26,27,217,145375200,293776,7638176,"Lytone x13,Stonepy x14",0,0
+Skywhale Mountain : Mountain's Mouth,24,16,26,26,27,217,143560800,290679,7557654,Crilia x27,0,0
+Yum Yum Island : Illiard Field 5,26,8,25,25,26,217,145041230,293206,7330150,"Lytone x15,Stonepy x11",0,0
+Yum Yum Island : Illiard Field 1,26,9,25,25,26,217,143560800,290679,7266975,Lytone x26,0,0
+Yum Yum Island : Illiard Field 4,26,9,25,25,26,217,143560800,290679,7266975,Lytone x26,0,0
+Dark World Tree : Upper-left Stem,20,13,24,24,25,217,24475456,101634,2439216,"Dark Demon Shieldbearer x3,Dark Demon Shieldmaster x7,Dark Demon Wolfrider x4,Dark Demon Wolfmaster x11",0,0
+Dark World Tree : Upper Stem Crossroad,20,11,24,25,24,217,24469358,101596,2438304,"Dark Demon Shieldbearer x2,Dark Demon Shieldmaster x5,Dark Demon Wolfrider x10,Dark Demon Wolfmaster x7",0,0
+Dark World Tree : Upper-right Stem,20,13,24,24,25,217,24379536,101285,2430840,"Dark Demon Shieldbearer x3,Dark Demon Shieldmaster x9,Dark Demon Wolfrider x4,Dark Demon Wolfmaster x9",0,0
+Black Heaven : Black Heaven Maze 3,18,12,17,17,34,217,6470800,26682,453594,"Scrap Xenoroid DX x13,Scrap Xenoroid DX x4,Steel Xenoroid EX x12,Steel Xenoroid EX x5",0,0
+Black Heaven : Black Heaven Maze 2,18,14,23,23,32,217,4543150,18686,429778,"Scrap Xenoroid EX x26,Scrap Xenoroid EX x6",0,0
+Eree Valley : Torrent Zone 1,57,10,28,38,28,216,139950000,284043,7953204,Blue Catfish x28,0,0
+Eree Valley : Below the Falls,57,11,25,39,28,216,139950000,284043,7101075,Boss Rhyturtle x28,0,0
+Yum Yum Island : Mushbud Forest 6,26,8,25,25,26,216,139950000,284043,7101075,Bunshroom x26,0,0
+Yum Yum Island : Mushbud Forest 3,26,8,24,24,25,216,139950000,284043,6817032,Bunshroom x25,0,0
+Black Heaven : Black Heaven Junction 1,24,12,24,24,35,216,19458788,81146,1947504,"Inner Guard EX x22,Scrap Xenoroid DX x6,Scrap Xenoroid DX x7",0,0
+Black Heaven : Black Heaven Maze 1,24,12,22,22,43,216,20746888,86538,1903836,"Inner Guard EX x29,Scrap Xenoroid EX x5,Scrap Xenoroid EX x9",0,0
+Eree Valley : Torrent Zone 3,57,10,28,38,28,215,138240000,281090,7870520,"Rhyturtle x14,Boss Rhyturtle x14",0,0
+Eree Valley : Torrent Zone 2,57,9,26,38,29,215,136530000,278138,7231588,Rhyturtle x29,0,0
+Yum Yum Island : Mushbud Forest 5,26,8,24,24,25,215,138582000,281681,6760344,"Monkeyrog x10,Bunshroom x15",0,0
+Yum Yum Island : Mushbud Forest 2,26,8,24,24,25,215,138171600,280972,6743328,"Monkeyrog x13,Bunshroom x12",0,0
+Yum Yum Island : Mushbud Forest 4,26,8,24,24,25,215,136530000,278138,6675312,Monkeyrog x25,0,0
+Yum Yum Island : Mushbud Forest 1,26,9,24,24,25,215,136530000,278138,6675312,Monkeyrog x25,0,0
+Black Heaven Decks : Black Heaven Deck 3,34,13,29,34,33,215,22755000,95362,2765498,"Outer Guard EX x29,Demolishizer x4(300)",0,0
+Black Heaven Decks : Black Heaven Deck 2,25,11,22,23,26,215,22755000,95362,2097964,"Outer Guard EX x22,Salvoroid Blue x4(300)",0,0
+Eree Valley : Chu Chu Village Entrance,57,9,26,38,27,214,133003200,271621,7062146,Green Catfish x27,0,0
+Dark World Tree : Climbing right Stem 1,20,16,29,29,29,214,22511772,94437,2738673,"Dark Demon Axeman x12,Dark Demon Axemaster x17",0,0
+Dark World Tree : Climbing left Stem 1,20,16,26,26,27,214,22450214,94203,2449278,"Dark Demon Axeman x14,Dark Demon Axemaster x13",0,0
+Dark World Tree : Path to the Upper Stem,20,15,23,27,24,214,22461100,94244,2167612,"Dark Demon Axeman x12,Dark Demon Axemaster x12",0,0
+Dark World Tree : Climbing right Stem 2,20,14,22,22,22,214,22541254,94549,2080078,"Dark Demon Axeman x8,Dark Demon Axemaster x14",0,0
+Dark World Tree : Climbing left Stem 2,20,14,20,24,20,214,22519880,94468,1889360,"Dark Demon Axeman x8,Dark Demon Axemaster x12",0,0
+Skyline : Skyline Edge,24,11,13,15,16,214,22167200,93127,1210651,"Modded Buffroid x13,Salvoroid Red x3(30)",0,0
+Reverse City : Hidden M Tower,21,29,39,39,55,213,129519600,265808,10366512,"Strong Exterminator T-Drone Model A x27,Strong Exterminator T-Drone Model B x28",0,0
+Slurpy Forest : Bitty-Bobble Forest 2,21,11,29,29,30,213,129519600,265808,7708432,Angry Flyon x30,0,0
+Slurpy Forest : Dealie-Bobber Forest 2,30,9,28,28,29,213,129519600,265808,7442624,Ripe Wolfruit x29,0,0
+Slurpy Forest : Slurpy Forest Depths,18,11,26,26,27,213,129519600,265808,6911008,"Angry Flyon x14,Ripe Wolfruit x13",0,0
+Black Heaven Decks : Black Heaven Entrance,40,9,30,30,35,213,22151954,93179,2795370,"Outer Guard EX x15,Repairoid x16,Salvoroid Blue x4(300)",0,0
+Black Heaven Decks : Black Heaven Deck 1,40,18,21,40,24,213,21586600,91134,1913814,"Repairoid x21,Salvoroid Blue x3(300)",0,0
+Skyline : Skyline 2,26,20,20,40,23,213,21586600,91134,1822680,"Salvoroid Red x3(30),Repairoid x20",0,0
+Slurpy Forest : Dealie-Bobber Forest 1,27,9,27,27,28,212,126219600,260047,7021269,Unripe Wolfruit x28,0,0
+Slurpy Forest : Bitty-Bobble Forest 1,21,7,24,24,25,212,126219600,260047,6241128,Flyon x25,0,0
+Dark World Tree : Winding left Stem 2,20,19,27,32,27,212,21321785,90183,2434941,"Dark Demon Swordsman x13,Dark Demon Swordmaster x14",0,0
+Dark World Tree : Winding right Stem 2,20,19,26,28,26,212,21311600,90146,2343796,"Dark Demon Swordsman x13,Dark Demon Swordmaster x13",0,0
+Dark World Tree : Winding left Stem 1,20,17,25,30,25,212,21388600,90423,2260575,"Dark Demon Swordsman x9,Dark Demon Swordmaster x16",0,0
+Dark World Tree : Winding right Stem 1,20,17,25,28,25,212,21388600,90423,2260575,"Dark Demon Swordsman x9,Dark Demon Swordmaster x16",0,0
+Dark World Tree : Winding right Stem 3,20,17,24,28,24,212,21403266,90475,2171400,"Dark Demon Swordsman x8,Dark Demon Swordmaster x16",0,0
+Dark World Tree : Winding left Stem 3,20,17,23,26,23,212,21371382,90361,2078303,"Dark Demon Swordsman x9,Dark Demon Swordmaster x14",0,0
+Dark World Tree : Winding Stem Crossroad,10,16,19,19,20,212,21311600,90146,1712774,"Dark Demon Swordsman x10,Dark Demon Swordmaster x10",0,0
+Skyline : Upper Skyline,31,12,17,17,20,212,21575047,91094,1548598,"Modded Laseroid x4,Modded Deliverbot x13,Salvoroid Red x3(30)",0,0
+Skyline : Skyline 1,26,11,13,13,19,212,21322650,90186,1172418,"Modded Laseroid x2,Modded Deliverbot x14,Salvoroid Red x3(30)",0,0
+Five-Color Hill : Mottled Forest 1,27,9,31,31,32,211,122820000,253673,7863863,Bighorn Pinedeer x32,0,0
+Five-Color Hill : Within Five-Color Hill,30,9,30,30,31,211,122820000,253673,7610190,Ramanana x31,0,0
+Reverse City : Hidden Underground Train,24,7,20,20,31,211,124245638,256345,5126900,"Strong Combat T-Drone Model A x18,Strong Combat T-Drone Model B x13",0,0
+Dark World Tree : Lower-right Stem,27,10,20,20,21,211,20470000,86974,1739480,Defiled Tree Sap x21,0,0
+Five-Color Hill : Mottled Forest 2,24,9,33,33,34,210,119599200,248003,8184099,Ewenana x34,0,0
+Five-Color Hill : Hill Path,27,9,33,33,34,210,119599200,248003,8184099,Pinedeer x34,0,0
+Five-Color Hill : Mottled Forest 3,33,7,28,28,29,210,121265131,250935,7026180,"Ewenana x14,Ramanana x15",0,0
+Reverse City : Hidden Research Train,24,8,27,27,28,210,119599200,248003,6696081,"Strong Seeker T-Drone Model A x15,Strong Seeker T-Drone Model B x13",0,0
+Dark World Tree : Lower Stem Crossroad,20,17,28,28,29,210,20247875,86169,2412732,"Polluted Tree Sap x12,Defiled Tree Sap x17",0,0
+Dark World Tree : Lower-left Stem,27,10,20,20,21,210,19933200,85029,1700580,Polluted Tree Sap x21,0,0
+Dark World Tree : Path to the Lower Stem,20,17,19,25,19,210,20159221,85847,1631093,"Polluted Tree Sap x11,Defiled Tree Sap x8",0,0
+Lake of Oblivion : Hidden Lakeshore,33,11,36,36,37,209,100894560,207204,7459344,Joyful Erda x37,0,0
+Cave of Repose : Hidden Cave,36,8,29,29,29,209,100894560,207204,6008916,Arma's Follower x29,0,0
+Extinction Zone : Hidden Fire Zone,22,11,26,26,26,209,100894560,207204,5387304,Soulful Erda x26,0,0
+Reverse City : M Tower 3,21,28,39,39,49,209,58208400,124322,4848558,"Exterminator T-Drone Model A x29,Exterminator T-Drone Model B x20",0,0
+Reverse City : M Tower 4,21,28,39,39,45,209,58208400,124322,4848558,Exterminator T-Drone Model B x45,0,0
+Reverse City : M Tower 2,21,28,39,39,42,209,58208400,124322,4848558,Exterminator T-Drone Model A x42,0,0
+Cave of Repose : Arma's Hideout,36,8,25,25,26,209,58208400,124322,3108050,Arma's Follower x26,0,0
+Reverse City : Underground Train 3,24,7,26,26,27,208,56571000,121453,3157778,Combat T-Drone Model B x27,0,0
+Reverse City : Surface Train 3,24,7,26,26,27,208,56571000,121453,3157778,Combat T-Drone Model B x27,0,0
+Scrapyard : Scrapyard Hill 5,31,10,21,23,21,208,19266980,82515,1732815,"Chaseroid Blue x13,Hunterizer Blue x8",0,0
+Scrapyard : Scrapyard Lot,28,4,15,20,15,208,18857000,80968,1214520,Chaseroid Blue x15,0,0
+Reverse City : Surface Train 1,24,8,26,26,27,207,55019400,118598,3083548,Combat T-Drone Model A x27,0,0
+Reverse City : Surface Train 2,24,7,25,25,26,207,55795200,120025,3000625,"Combat T-Drone Model A x13,Combat T-Drone Model B x13",0,0
+Reverse City : Underground Train 2,24,7,25,25,26,207,55616169,119696,2992400,"Combat T-Drone Model A x16,Combat T-Drone Model B x10",0,0
+Reverse City : Underground Train 1,24,7,25,25,26,207,55019400,118598,2964950,Combat T-Drone Model A x26,0,0
+Cave of Repose : Forked Road 1,29,8,15,23,15,207,55019400,118598,1778970,Tranquil Erda x15,0,0
+Cave of Repose : Western Cave Path 1,36,7,13,29,13,207,55019400,118598,1541774,Tranquil Erda x13,0,0
+Cave of Repose : Western Cave Path 2,36,7,13,29,13,207,55019400,118598,1541774,Tranquil Erda x13,0,0
+Cave of Repose : Eastern Cave Path 1,36,7,13,29,13,207,55019400,118598,1541774,Tranquil Erda x13,0,0
+Cave of Repose : Eastern Cave Path 2,36,7,13,29,13,207,55019400,118598,1541774,Tranquil Erda x13,0,0
+Cave of Repose : Below the Cave,36,7,13,29,13,207,55019400,118598,1541774,Tranquil Erda x13,0,0
+Cave of Repose : Forked Road 2,36,8,13,29,13,207,55019400,118598,1541774,Tranquil Erda x13,0,0
+Cave of Repose : Above the Cave,36,8,13,29,13,207,55019400,118598,1541774,Tranquil Erda x13,0,0
+Cave of Repose : Cave Depths,36,8,13,29,13,207,55019400,118598,1541774,Tranquil Erda x13,0,0
+Reverse City : T-Boy's Research Train 2,24,8,27,27,28,206,53487000,115470,3117690,"Seeker T-Drone Model A x14,Seeker T-Drone Model B x14",0,0
+Reverse City : T-Boy's Research Train 1,24,8,26,26,27,206,53487000,115470,3002220,Seeker T-Drone Model A x27,0,0
+Reverse City : T-Boy's Research Train 3,24,8,26,26,27,206,53487000,115470,3002220,Seeker T-Drone Model B x27,0,0
+Extinction Zone : Spirit Zone,22,9,25,25,26,206,53487000,115470,2886750,Soulful Erda x26,0,0
+Extinction Zone : Fire Spirit Zone,28,10,28,28,29,205,52704310,114017,3192476,"Blazing Erda x15,Soulful Erda x14",0,0
+Extinction Zone : Fire Zone,22,15,26,26,27,205,51973800,112662,2929212,Blazing Erda x27,0,0
+Reverse City : Subway Tunnel 5,23,8,26,26,27,205,51973800,112662,2929212,"Erda Rat x14,Monto x13",0,0
+Reverse City : Subway Tunnel 1,23,8,25,25,26,205,51973800,112662,2816550,Erda Rat x26,0,0
+Reverse City : Subway Tunnel 2,23,8,25,25,26,205,51973800,112662,2816550,"Erda Rat x13,Monto x13",0,0
+Reverse City : Subway Tunnel 3,23,8,25,25,26,205,51973800,112662,2816550,Monto x26,0,0
+Reverse City : Subway Tunnel 4,23,8,25,25,26,205,51973800,112662,2816550,Erda Rat x26,0,0
+Reverse City : Subway Tunnel 6,23,8,25,25,26,205,51973800,112662,2816550,Monto x26,0,0
+Extinction Zone : Rock Zone,22,12,28,28,29,204,50419200,109886,3076808,Stone Erda x29,0,0
+Extinction Zone : Fire Rock Zone,30,11,27,27,28,204,51140978,111174,3001698,"Stone Erda x15,Blazing Erda x13",0,0
+Scrapyard : Scrapyard Hill 3,32,11,25,36,25,204,16806400,73257,1831425,Chaseroid Red x25,0,0
+Scrapyard : Scrapyard Hill 4,28,8,17,35,17,204,17227470,74790,1271430,"Chaseroid Red x10,Hunterizer Red x7",0,0
+Lake of Oblivion : Weathered Land of Joy,21,11,24,24,26,203,48945600,107125,2571000,Joyful Erda x26,0,0
+Lake of Oblivion : Weathered Land of Sorrow and Joy,27,10,25,25,26,202,48218400,105613,2640325,"Sad Erda x13,Joyful Erda x13",0,0
+Lake of Oblivion : Weathered Land of Sorrow,21,12,25,25,26,202,47491200,104101,2602525,Sad Erda x26,0,0
+Scrapyard : Scrapyard Hill 2,39,11,27,40,27,202,15830400,69400,1873800,Modded Broken Android x27,0,0
+Lake of Oblivion : Weathered Land of Rage and Sorrow,24,9,25,25,26,201,46718400,102640,2566000,"Raging Erda x14,Sad Erda x12",0,0
+Lake of Oblivion : Weathered Land of Rage,21,12,25,25,26,201,46056000,101389,2534725,Raging Erda x26,0,0
+Lake of Oblivion : Weathered Land of Happiness and Rage,24,11,28,28,29,200,45372413,100094,2802632,"Happy Erda x14,Raging Erda x15",0,0
+Lake of Oblivion : Weathered Land of Happiness,21,11,25,25,26,200,44640000,98708,2467700,Happy Erda x26,0,0
+Scrapyard : Scrapyard Hill 1,43,9,26,40,26,200,15245538,67187,1746862,"Modded Scaredroid x16,Modded Broken Android x10",0,0
+Scrapyard : Scrapyard Entrance,37,11,23,30,23,200,14880000,65805,1513515,Modded Scaredroid x23,0,0
+Beyond the Clouds : Guardian Walkway 3,32,9,26,26,39,199,14414400,64028,1664728,"Sky Guardian x1(300),Wind Guardian x38",0,0
+Twilight Perion : Closed Area,34,16,35,40,35,198,51634240,122816,4298560,[*] Ancient Mixed Golem x35,0,0
+Twilight Perion : Warrior Grounds,44,17,26,40,26,198,13955200,64640,1680640,Ancient Mixed Golem x26,0,0
+Beyond the Clouds : Guardian Walkway 2,32,9,25,25,37,198,14184800,63145,1578625,"Cloud Guardian x18,Sky Guardian x1(300),Wind Guardian x18",0,0
+Beyond the Clouds : Guardian Walkway,28,8,19,19,29,198,13955200,62262,1182978,"Cloud Guardian x28,Sky Guardian x1(300)",0,0
+Twilight Perion : Excavation Intermission Area,19,17,32,34,32,197,49958880,119035,3809120,[*] Ancient Dark Golem x32,0,0
+Fox Point Village : Fox Tree Midway 3,18,23,35,35,56,197,13502400,60344,2112040,Stormy Stjartmes x56,0,0
+Twilight Perion : Rough Canyon,28,12,21,27,21,197,13696457,63502,1333542,"Ancient Dark Golem x12,Ancient Mixed Golem x9",0,0
+Fox Point Village : Fox Tree Midway 2,18,24,38,38,59,196,13275416,59466,2259708,"Snowy Stjartmes x30,Stormy Stjartmes x29",0,0
+Fox Point Village : Fox Tree Midway 1,18,22,34,34,45,196,13056000,58618,1993012,Snowy Stjartmes x45,0,0
+Twilight Perion : Forsaken Excavation Site 4,19,18,30,36,30,196,12979200,60857,1825710,Sinister Steel Mask x30,0,0
+Twilight Perion : Rough Wilderness,28,10,21,23,21,196,13374857,62137,1304877,"Ancient Golem x6,Ancient Dark Golem x15",0,0
+Twilight Perion : Spirit Zone Limbo,28,12,21,31,21,196,13056000,60857,1277997,Ancient Golem x21,0,0
+Fox Valley : Fox Tree Lower Path 3,25,9,29,29,32,195,12632600,56902,1650158,Vicious Squirrel x32,0,0
+Twilight Perion : Forsaken Excavation Site 3,29,10,27,27,31,195,12923296,60569,1635363,"Sinister Rocky Mask x5,Sinister Steel Mask x26",0,0
+Twilight Perion : Forsaken Excavation Site 2,31,10,24,24,27,195,12632600,59075,1417800,Sinister Rocky Mask x27,0,0
+Twilight Perion : Forsaken Excavation Site 1,20,14,28,28,28,194,12198600,57312,1604736,Sinister Wooden Mask x28,0,0
+Fox Valley : Fox Tree Lower Path,28,10,29,29,36,194,12198600,55202,1600858,Nettled Squirrel x36,0,0
+Twilight Perion : Gale Plateau,31,14,27,40,27,194,12048000,57312,1547424,Pillaging Fire Boar x27,0,0
+Fox Valley : Fox Tree Lower Path 2,21,10,24,24,35,194,12397000,55979,1343496,"Nettled Squirrel x19,Vicious Squirrel x16",0,0
+Crimsonwood Mountain : Upper Ascent,22,18,24,28,24,194,12198600,51853,1244472,Corrupted Stormcaster x24,0,1
+Phantom Forest : Hidden Evil,30,3,14,14,15,194,12198600,51853,725942,Corrupted Stormcaster x15,0,1
+Phantom Forest : Creeping Evil,30,3,14,14,15,194,12198600,51853,725942,Corrupted Stormcaster x15,0,1
+Twilight Perion : Fevered Land,37,11,31,37,31,193,11878225,56240,1743440,"Iron Boar Raider x19,Pillaging Fire Boar x12",0,0
+Fox Valley : Fox Tree Side Path,25,9,25,25,43,193,11771000,53520,1338000,Spiney Puff Bush x43,0,0
+Twilight Perion : Dusty Wind Canyon,22,11,26,27,26,192,42403295,102287,2659462,[*] Pillaging Wild Boar x26,0,0
+Twilight Perion : Tempest Grave,33,15,38,40,38,192,11349800,53835,2045730,Swollen Axe Stump x38,0,0
+Fox Valley : Fox Tree Top Path 3,25,11,29,29,41,192,11349800,51853,1503737,Pom Puff Bush x41,0,0
+Twilight Perion : Fiery Ravine,34,11,27,34,27,192,11460350,53835,1453545,Pillaging Wild Boar x27,0,0
+Twilight Perion : Fiery Rocky Hills,38,10,25,32,25,192,11659166,54941,1373525,"Pillaging Wild Boar x9,Iron Boar Raider x16",0,0
+Phantom Forest : Swamp Bog,30,7,16,21,16,192,11349800,51853,829648,Corrupted Shadowknight x16,0,1
+Twilight Perion : Weathered Rocky Zone,28,16,39,40,40,191,11169215,53064,2069496,"Swollen Stump x3,Swollen Dark Stump x12,Swollen Axe Stump x25",0,0
+Fox Valley : Fox Tree Top Path 2,28,8,30,30,41,191,11135273,50967,1529010,"Flutterbuzz x22,Pom Puff Bush x19",0,0
+Fox Valley : Fox Tree Top Path,25,9,29,29,34,191,10950000,50203,1455887,Flutterbuzz x34,0,0
+Crimsonwood Mountain : The Path of Strength,22,20,20,31,26,191,11330438,51101,1022020,"Corrupted Windreaver x11,Corrupted Stormcaster x10,Corrupted Stormcaster x5(1200)",0,1
+Phantom Forest : Crossroads,30,7,21,21,21,191,11283571,47080,988680,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x2,Corrupted Stormcaster x15",0,1
+Phantom Forest : The Evil Dead,30,3,14,14,16,191,11197787,46633,652862,"Phantom Tree x1,Phantom Tree x2,Phantom Tree x2,Corrupted Stormcaster x11",0,1
+Phantom Forest : Evil Rising,30,3,14,14,15,191,11131066,46285,647990,"Phantom Tree x2,Phantom Tree x1,Phantom Tree x2,Corrupted Stormcaster x10",0,1
+Twilight Perion : Desolate North Rocky Road,26,14,30,40,30,190,39002440,95796,2873880,[*] Swollen Stump x30,0,0
+Crimsonwood Mountain : Lower Ascent,27,28,40,40,44,190,10541200,50419,2016760,Corrupted Flamekeeper x44,0,1
+MesoGears : Fire Chamber,28,25,40,40,43,190,10541200,50419,2016760,Fire Tusk x43,0,0
+MesoGears : Soul Corridor,25,25,37,39,44,190,10541200,50419,1865503,Killa Bee x44,0,0
+MesoGears : Wolf Spider Cavern,31,20,37,37,64,190,10541200,50419,1865503,Wolf Spider x64,0,0
+MesoGears : Ice Chamber,28,20,35,35,35,190,10541200,50419,1764665,Electrophant x35,0,0
+MesoGears : Deity Room,25,19,28,28,37,190,10541200,50419,1411732,"Killa Bee x25,Fire Tusk x12",0,0
+Twilight Perion : Lonely Rocky Road,36,9,26,33,26,190,10902830,51924,1350024,"Swollen Stump x3,Swollen Dark Stump x23",0,0
+Twilight Perion : Deserted Southern Ridge,26,13,25,40,25,190,10541200,50419,1260475,Swollen Stump x25,0,0
+Twilight Perion : Desolate Rocky Road,26,11,24,27,24,190,10762633,51340,1232160,"Swollen Stump x11,Swollen Dark Stump x13",0,0
+Twilight Perion : Desolate Hills,24,10,17,26,23,190,10541200,50419,857123,Swollen Stump x23,0,0
+Phantom Forest : Phantom Road,30,3,14,14,20,189,10154900,46601,652414,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x1,Corrupted Windreaver x15",0,1
+Crimsonwood Mountain : The Path of Peril,29,25,24,40,24,188,10065825,46700,1120800,"Elderwraith x5,Corrupted Flamekeeper x19",0,1
+Phantom Forest : Crossroads,30,7,21,21,21,188,10099714,46056,967176,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x2,Corrupted Windreaver x15",0,1
+Phantom Forest : Crossroads,30,7,21,21,21,188,10099714,46056,967176,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x2,Corrupted Flamekeeper x15",0,1
+Phantom Forest : Bent Tree,30,12,20,21,20,188,9836440,42044,840880,"Corrupted Master x8,Corrupted Master x4,Corrupted Windreaver x8",0,1
+NO-NAME,30,12,16,16,20,188,9836440,42044,672704,"Corrupted Master x8,Corrupted Master x4,Corrupted Windreaver x8",0,1
+NO-NAME,24,6,13,13,21,188,9702200,40449,525837,"Corrupted Master x15,Corrupted Flamekeeper x6",1,1
+Crimsonwood Mountain : Cavern of Pain,24,6,13,13,21,188,9702200,40449,525837,"Corrupted Master x15,Corrupted Flamekeeper x6",0,0
+Kingdom Road : Corrupted Magic Forest 3,20,11,24,24,28,187,9366600,36461,875064,Corrupted Advanced Magician x28,0,0
+Phantom Forest : Forgotten Path,30,3,14,14,21,187,9260714,36086,505204,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x2,Corrupted Master x15",0,1
+Kingdom Road : Forest of Sorrows 5,20,8,18,27,18,186,8996000,35149,632682,Permeating Vanity x18,0,0
+Kingdom Road : Forest of Sorrows 4,20,8,18,27,18,185,8631000,33855,609390,Permeating Anxiety x18,0,0
+Crimsonwood Mountain : Valley of Heroes 1,43,20,40,40,45,184,8259400,32569,1302760,Elderwraith x45,0,1
+Kingdom Road : Darkness Forest 2,20,11,27,27,27,184,8615281,33809,912843,"Permeating Rage x9,Permeating Anxiety x10,Permeating Vanity x8",0,0
+Knight Stronghold : Knights' Chamber 5,18,13,22,29,22,184,8259400,32568,716496,Advanced Knight E x22,0,0
+Kingdom Road : Forest of Sorrows 3,20,8,17,27,17,184,8259400,32569,553673,Permeating Rage x17,0,0
+Polluted Sewer : Foul Glooger Habitat 3,28,9,17,17,32,184,8259400,32569,553673,Spine Glooger x32,0,0
+Phantom Forest : Haunted Hill,30,7,14,14,21,184,8469857,33306,466284,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x2,Elderwraith x15",0,1
+Phantom Forest : Twisted Paths,30,3,14,14,20,184,8443550,33214,464996,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x1,Elderwraith x15",0,1
+Phantom Forest : Twisted Paths,30,3,14,14,20,184,8443550,33214,464996,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x1,Elderwraith x15",0,1
+Phantom Forest : Twisted Paths,30,3,14,14,20,184,8443550,33214,464996,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x1,Elderwraith x15",0,1
+Phantom Forest : Twisted Paths,30,3,14,14,20,184,8443550,33214,464996,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x1,Elderwraith x15",0,1
+Phantom Forest : Twisted Paths,30,3,14,14,20,184,8443550,33214,464996,"Phantom Tree x2,Phantom Tree x2,Phantom Tree x1,Elderwraith x15",0,1
+Root Abyss : Neglected Garden,32,3,20,20,23,184,1478260,14869,297380,"Elite Blazing Imp x12,Elite Pointy Imp x11",1,1
+Kingdom Road : Forest of Sorrows 2,20,8,19,27,19,183,7906000,31301,594719,Permeating Terror x19,0,0
+Polluted Sewer : Foul Glooger Habitat 2,28,8,17,17,28,183,8082700,31935,542895,"Blob Glooger x14,Spine Glooger x14",0,0
+Polluted Sewer : Foul Glooger Habitat 1,28,8,17,17,24,183,7906000,31301,532117,Blob Glooger x24,0,0
+Brawl 'n' Bash Club : Dingy Brawl 'n' Bash Club 3,29,9,29,33,30,182,7546800,30045,871305,Mangy Spectral Mutt x30,0,0
+Knight Stronghold : Knights' Chamber 4,14,10,19,19,21,182,7546800,30046,570874,Advanced Knight D x21,0,0
+Kingdom Road : Forest of Sorrows 1,20,8,19,27,19,182,7546800,30045,570855,Permeating Solitude x19,0,0
+Kingdom Road : Forest of Darkness 1,20,8,17,27,17,182,7736964,30709,522053,"Permeating Solitude x8,Permeating Terror x9",0,0
+Brawl 'n' Bash Club : Dingy Brawl 'n' Bash Club 1,29,10,33,33,33,181,7205000,28800,950400,Hazard's Grubby Crony x33,0,0
+Brawl 'n' Bash Club : Dingy Brawl 'n' Bash Club 2,29,10,30,33,30,181,7375900,29422,882660,"Hazard's Grubby Crony x15,Mangy Spectral Mutt x15",0,0
+Kingdom Road : Corrupted Magic Forest 2,20,8,17,17,18,181,7205000,28800,489600,Corrupted Intermediate Magician x18,0,0
+Inside the Mothership : Corridor H03,20,7,15,15,16,180,34344000,82722,1240830,[*] Gray Luxury Saucer x16,0,0
+Knight Stronghold : Hall of Honor,16,14,25,25,25,180,7177904,28720,718000,"Advanced Knight A x5,Advanced Knight B x5,Advanced Knight C x4,Advanced Knight D x5,Advanced Knight E x6",0,0
+Knight Stronghold : Knights' Chamber 3,14,13,17,28,17,180,6868800,27574,468758,Advanced Knight C x17,0,0
+Krakian Jungle : Excavation Site,31,9,17,17,33,180,6868800,27574,468758,Jr. Alien Miner x33,0,0
+Kingdom Road : Forest of Laments 5,18,8,12,27,12,180,6868800,27574,330888,Burning Vanity x12,0,0
+Phantom Forest : Crossroads,30,7,15,40,15,180,6868800,0,0,Mysterious Knight x15,1,1
+Phantom Forest : Haunted Hill,30,8,14,14,15,180,6868800,0,0,Mysterious Monster x15,1,1
+Black Market : Sketchy Back-Alley 3,30,9,27,27,27,179,6666400,26864,725328,Dangerous Nutria x27,0,0
+Knight Stronghold : Knights' Chamber 2,18,13,18,29,18,179,6666400,26865,483570,Advanced Knight B x18,0,0
+Inside the Mothership : Control Room 1,22,10,18,20,18,179,6666400,26864,483552,Black Robosaucer x18,0,0
+Krakian Jungle : Sacrificial Altar,25,6,18,18,37,179,6666400,26864,483552,Gryphon Warrior x37,0,0
+Krakian Jungle : Hidden Excavation Base,31,7,17,17,30,179,6666400,26865,456705,Jr. Alien Cog x30,0,0
+Kingdom Road : Forest of Laments 4,18,8,14,27,15,179,6666400,26864,376096,Burning Anxiety x15,0,0
+Inside the Mothership : Corridor H02,20,7,15,15,15,178,33138000,80175,1202625,"[*] Gray Commuter Saucer x9,[*] Gray Luxury Saucer x6",0,0
+Inside the Mothership : Corridor H01,20,7,15,15,20,178,32334000,78477,1177155,[*] Gray Commuter Saucer x20,0,0
+Black Market : Sketchy Back-Alley 2,30,9,26,27,26,178,6574276,26538,689988,"Sketchy Hooligan x12,Dangerous Nutria x14",0,0
+Black Market : Sketchy Back-Alley 1,30,9,26,27,26,178,6466800,26159,680134,Sketchy Hooligan x26,0,0
+Kingdom Road : Scorching Forest 2,20,11,22,27,22,178,6658218,26833,590326,"Burning Rage x8,Burning Anxiety x7,Burning Vanity x7",0,0
+Inside the Mothership : Control Room 2,22,9,20,20,22,178,6566600,26511,530220,"White Robosaucer x11,Black Robosaucer x11",0,0
+Inside the Mothership : Control Room 3,22,9,18,20,18,178,6466800,26159,470862,White Robosaucer x18,0,0
+Krakian Jungle : Scorched Altar,21,7,15,15,24,178,6466800,26159,392385,Jungle Monkey Warrior x24,0,0
+Kingdom Road : Forest of Laments 3,20,8,14,27,15,178,6466800,26159,366226,Burning Rage x15,0,0
+NO-NAME,22,10,18,20,18,177,6270000,25551,459918,MT-09 x18,0,0
+Knight Stronghold : Hallowed Ground,14,10,18,19,18,177,6270000,25550,459900,Thunder x18,0,0
+Kingdom Road : Forest of Laments 2,20,8,17,27,17,177,6270000,25551,434367,Burning Terror x17,0,0
+Inside the Mothership : Air Vent D-4,18,8,16,16,19,177,6270000,25551,408816,MT-09 x19,0,0
+Krakian Jungle : Krakian Altar,21,7,15,15,30,177,6270000,25551,383265,Jungle Bear Warrior x30,0,0
+Knight Stronghold : Knights' Chamber 1,14,7,11,19,11,177,6270000,25550,281050,Advanced Knight A x11,0,0
+Krakian Jungle : Where the Valley Ends,21,18,24,27,24,176,6076000,24859,596616,Gryphon x24,0,0
+Krakian Jungle : Where the Cliff Splits,15,23,24,24,40,176,6076000,24859,596616,Aggressive Gryphon x40,0,0
+Knight Stronghold : Knight District 4,14,10,20,20,20,176,6076000,24859,497180,Official Knight E x20,0,0
+Inside the Mothership : Air Vent D-3,21,8,19,19,31,176,6157354,25149,477831,"Mecateon x18,MT-09 x13",0,0
+Inside the Mothership : Air Vent D-2,18,8,18,18,28,176,6076000,24859,447462,Mecateon x28,0,0
+Kingdom Road : Scorching Forest 1,20,9,17,27,18,176,6162222,25166,427822,"Burning Solitude x10,Burning Terror x8",0,0
+Kingdom Road : Forest of Laments 1,20,8,16,27,16,176,6076000,24859,397744,Burning Solitude x16,0,0
+Scrapyard : Seedy Scrapyard 3,22,10,15,24,15,176,6076000,24859,372885,Foul Ooze Waste x15,0,0
+Knight Stronghold : Armory 2,14,11,15,15,24,175,29589166,72872,1093080,"[*] Official Knight D x10,[*] Official Knight E x14",0,0
+Scrapyard : Seedy Scrapyard 2,22,8,21,24,21,175,5994057,24565,515865,"Prickly Hedgehog x9,Foul Ooze Waste x12",0,0
+Krakian Jungle : Excavated Jungle,31,10,21,21,38,175,5884800,24173,507633,I.AM.ROBOT x38,0,0
+Kingdom Road : Corrupted Magic Forest 1,20,11,19,24,19,175,5884800,24173,459287,Corrupted Basic Magician x19,0,0
+Scrapyard : Seedy Scrapyard 1,22,9,19,24,19,175,5884800,24173,459287,Prickly Hedgehog x19,0,0
+Krakian Jungle : Monkey Valley,28,10,19,19,41,175,5884800,24173,459287,Violent Jungle Monkey x41,0,0
+Knight Stronghold : Hallowed Ground,14,9,17,17,17,175,5884800,24171,410907,Night x17,0,0
+Inside the Mothership : Corridor 202,20,7,14,18,21,175,5884800,24173,338422,Gray Luxury Saucer x21,0,0
+Krakian Jungle : Krakian Jungle Path,23,11,12,12,37,175,5884800,24173,290076,Mighty Maple Eater x37,0,0
+Knight Stronghold : Knight District 3,15,11,19,21,21,174,5696400,23495,446405,Official Knight D x21,0,0
+Inside the Mothership : Corridor 203,20,7,18,18,23,174,5754713,23703,426654,"Gray Commuter Saucer x8,Gray Luxury Saucer x15",0,0
+Kingdom Road : Forest of Pain 5,20,8,16,27,16,174,5696400,23495,375920,Frozen Vanity x16,0,0
+Krakian Jungle : Krakian Jungle Ruins,25,10,13,13,30,174,5696400,23495,305435,Sinister Jungle Monkey x30,0,0
+Zipangu : Ninja Castle Long Corridor <The>,25,7,11,11,26,173,23000000,66654,733194,"Sakura Chunin x13,Sakura Kunoichi x13",1,1
+Inside the Mothership : Corridor 204,20,7,18,18,21,173,5510800,22823,410814,Gray Commuter Saucer x21,0,0
+Knight Stronghold : Hallowed Ground,15,9,18,18,18,173,5510800,22822,410796,Wind x18,0,0
+Kingdom Road : Freezing Forest 2,20,8,17,27,17,173,5511788,22853,388501,"Frozen Rage x6,Frozen Anxiety x5,Frozen Vanity x6",0,0
+Kingdom Road : Forest of Pain 4,20,8,14,27,14,173,5510800,22823,319522,Frozen Anxiety x14,0,0
+Krakian Jungle : Krakian Jungle Entrance,25,9,13,13,21,173,5510800,22823,296699,Krakia Jungle Bug x21,0,0
+Zipangu : Phantom's Room,8,3,3,3,5,173,23300000,83678,251034,"Sakura Jonin x1,Sakura Ninto x2,Sakura Kunoichi x2",1,1
+Zipangu : Phantom's Room,8,3,3,3,6,173,23000000,82771,248313,"Sakura Jonin x3,Sakura Ashigaru x3",1,1
+Knight Stronghold : Armory 1,14,11,17,17,26,172,27490153,68454,1163718,"[*] Official Knight C x14,[*] Official Knight D x12",0,0
+Zipangu : Castle Corridor,25,7,11,11,37,172,22500000,81235,893585,"Sakura Jonin x28,Sakura Ninto x9",0,1
+Zipangu : Castle Corridor,25,7,11,11,35,172,22500000,81235,893585,"Sakura Jonin x25,Sakura Ninto x9,Sakura Musha x1(39600)",0,1
+Masteria : City Outskirts 3,23,11,27,27,45,172,5328000,22238,600426,Boomer x45,0,0
+Knight Stronghold : Knight District 2,15,11,18,20,18,172,5328000,22238,400284,Official Knight C x18,0,0
+Kingdom Road : Forest of Pain 3,20,8,17,27,17,172,5328000,22238,378046,Frozen Rage x17,0,0
+Zipangu : Phantom's Room,8,3,3,3,6,172,22500000,81235,243705,"Sakura Jonin x3,Sakura Ninto x3",1,1
+Zipangu : Ninja Castle Long Corridor <Daimyo>,26,8,12,12,41,171,22451219,63799,765588,"Sakura Genin x10,Sakura Chunin x12,Sakura Jonin x9,Sakura Kunoichi x10",1,1
+Zipangu : Castle Corridor,25,7,11,11,43,171,22034883,64830,713130,"Sakura Genin x10,Sakura Chunin x10,Sakura Jonin x13,Sakura Ninto x10",0,1
+Zipangu : Ninja Castle Long Corridor <Identity>,25,7,11,11,25,171,22060000,56701,623711,"Sakura Genin x18,Sakura Ashigaru x7",1,1
+Zipangu : Castle Corridor,21,8,9,9,41,171,22451219,63799,574191,"Sakura Genin x10,Sakura Chunin x12,Sakura Jonin x9,Sakura Kunoichi x10",0,1
+Masteria : City Outskirts 2,23,11,24,24,45,171,5148000,21579,517896,Street Slime x45,0,0
+Inside the Mothership : Corridor 103,20,7,18,18,23,171,5148000,21579,388422,Ultra Gray x23,0,0
+Knight Stronghold : Hallowed Ground,14,9,18,18,18,171,5148000,21578,388404,Blaze x18,0,0
+Kingdom Road : Forest of Pain 2,20,8,17,27,17,171,5148000,21579,366843,Frozen Terror x17,0,0
+Zipangu : Inside the Castle Gate,30,15,23,23,39,170,21500000,45965,1057195,Sakura Genin x39,0,0
+Zipangu : Ninja Castle Long Corridor <The>,26,7,12,12,23,170,21500000,45965,551580,Sakura Genin x23,1,1
+Masteria : City Outskirts 1,32,12,26,26,36,170,4970800,20927,544102,Urban Fungus x36,0,0
+Zipangu : Ninja Castle Long Corridor <Of>,25,7,11,11,21,170,21500000,45965,505615,Sakura Chunin x21,1,1
+Kingdom Road : Freezing Forest 1,20,8,18,27,18,170,5059400,21253,382554,"Frozen Solitude x9,Frozen Terror x9",0,0
+Kingdom Road : Forest of Pain 1,20,8,18,27,18,170,4970800,20927,376686,Frozen Solitude x18,0,0
+Zipangu : Parlor,24,5,13,15,15,170,6518600,24197,314561,"Yakuza Shotcaller x13,Yakuza Underboss x1(600),Yakuza Officer x1",1,1
+Zipangu : Phantom's Room,8,3,3,3,5,170,21700000,53019,159057,"Sakura Genin x2,Sakura Chunin x2,Sakura Jonin x1",1,1
+Knight Stronghold : Second Drill Hall,15,12,20,20,32,169,24043062,61079,1221580,"[*] Official Knight A x15,[*] Official Knight B x17",0,0
+Inside the Mothership : Corridor 101,20,7,18,18,29,169,4796400,20280,365040,Barnard Gray x29,0,0
+Knight Stronghold : Hallowed Ground,14,9,15,15,16,169,4796400,20280,304200,Dawn x16,0,0
+Knight Stronghold : First Drill Hall,15,15,26,26,49,168,23971346,60928,1584128,"[*] Official Knight A x25,[*] Official Knight B x24",0,0
+Knight Stronghold : Knight District 1,14,9,21,21,21,168,4773085,20235,424935,"Official Knight A x12,Official Knight B x9",0,0
+Ravaged Forest : Dreamy Forest Trail,25,11,14,24,14,168,4624800,19716,276024,Mutant Ribbon Pig x14,0,0
+Zipangu : Finance of Flaming Raccoon,22,5,11,23,12,168,3193827,20754,228294,Yakuza Lieutenant x12,1,1
+Knight Stronghold : Stronghold Entrance,16,3,5,8,5,168,4624800,16431,82155,Official Knight A x5,0,1
+Zipangu : Nightmare's End,16,4,3,7,3,168,4209542,20255,60765,"Yakuza Enforcer x1,Yakuza Lieutenant x1,Yakuza Shotcaller x1",1,1
+Omega Sector : Boswell Field III,24,9,20,21,20,167,4464000,19084,381680,Plateon x20,0,0
+Ravaged Forest : Suspicious Hill,20,10,18,18,18,167,4497633,19226,346068,"Mutant Slime x7,Mutant Ribbon Pig x11",0,0
+Dark Ereve : Mutant Tiguru Forest,16,9,15,15,15,167,4464000,19083,286245,Mutant Tiguru x15,0,0
+Ravaged Forest : Hill North of Henesys Ruins,26,14,25,33,25,166,4297800,18457,461425,Mutant Slime x25,0,0
+Zipangu : Parking Lot,33,6,23,23,25,166,4464000,19084,438932,Yakuza Enforcer x25,1,1
+Zipangu : Showa Street 3,37,9,18,24,20,166,4464000,19084,343512,Yakuza Enforcer x20,0,0
+Omega Sector : Boswell Field IV,19,10,16,16,16,166,4323125,18570,297120,"Mateon x7,Plateon x9",0,0
+Omega Sector : Boswell Field II,19,8,14,16,17,166,4350352,18669,261366,"Mateon x6,Plateon x11",0,0
+Dimensional Schism : Distorted Temple of Time 2,31,3,8,8,15,166,4297800,18457,147656,Corrupted Guardian Trainee x15,1,1
+Time Lane : Detour to Oblivion 4,20,14,16,19,16,165,20905125,54080,865280,"[*] Eye of Time x1,[*] Oblivion Guardian x3,[*] Chief Oblivion Guardian x12",0,0
+Omega Sector : Boswell Field I,24,10,16,21,16,165,4142000,17910,286560,Mateon x16,0,0
+Dark Ereve : Mutant Tiru Forest,15,11,15,15,15,165,4142000,17910,268650,Mutant Tiru x15,0,0
+Singing Mushroom Forest Ruins : Creepy Humming Forest Trail,15,13,16,18,16,164,3981200,17297,276752,Mutant Orange Mushroom x16,0,0
+Singing Mushroom Forest Ruins : Dark Spore Hill,14,11,15,15,15,164,3981200,17297,259455,Mutant Orange Mushroom x15,0,0
+Dimensional Schism : Distorted Temple of Time 1,31,3,8,8,15,164,3981200,17297,138376,Corrupted Chief Memory Guardian x15,1,1
+Time Lane : Detour to Oblivion 3,28,7,13,20,13,163,19442923,50852,661076,"[*] Eye of Time x2,[*] Oblivion Guardian x11",0,0
+Zipangu : Showa Street 2,28,6,21,21,22,163,2650505,18045,378945,"Yakuza Grunt x10,Yakuza Bruiser x12",0,0
+Dark Ereve : Mutant Tino Forest,17,9,21,21,21,163,3823200,16759,351939,Mutant Tino x21,0,0
+Zipangu : Creepy Bridge,37,6,11,15,11,163,6104972,25212,277332,"Green Boogie x1,Kappa x5,Dark Night Samurai x5",0,0
+Stone Colossus Innards : Inside the Stone Colossus 3,27,7,15,27,15,163,3823200,16759,251385,Corrupted Rock Spirit x15,0,0
+Commerci Republic : Sospetto Forest Walking Path,15,8,6,6,9,163,720000,8057,48342,Nightpriest Assassin x9,0,0
+Kerning Tower : 6F Hair Salons <4>,26,9,23,23,27,162,18375000,48474,1114902,[*] Harried Hair Roller x27,0,0
+Kerning Tower : 6F Hair Salons <5>,24,9,21,21,27,162,18375000,48474,1017954,[*] Peeved Perm Machine x27,0,0
+Henesys Ruins : Henesys Ruins Park,28,11,25,25,25,162,3675000,16158,403950,Mutant Snail x25,0,0
+Henesys Ruins : Henesys Ruins Market,28,8,21,21,21,162,3675000,16158,339318,Mutant Snail x21,0,0
+Stone Colossus Innards : Inside the Stone Colossus 1,27,8,18,26,18,162,3675000,16158,290844,Polluted Rock Spirit x18,0,0
+Stone Colossus Innards : Inside the Stone Colossus 2,27,7,15,26,15,162,3783680,16598,248970,"Polluted Rock Spirit x4,Corrupted Rock Spirit x11",0,0
+Commerci Republic : Sospetto Forest Crossroads,22,9,10,10,11,162,700000,7861,78610,Nightwhip Assassin x11,0,0
+Time Lane : Detour to Oblivion 2,20,13,21,22,21,161,18304571,48314,1014594,"[*] Eye of Time x1,[*] Oblivion Monk Trainee x20",0,0
+Kerning Tower : 5F Cosmetics Shops <4>,25,8,19,21,19,161,17612000,46692,887148,[*] Deadly Dressing Table x19,0,0
+Kerning Tower : 5F Cosmetics Shops <5>,24,8,19,19,19,161,17612000,46692,887148,[*] Killer Cosmetics x19,0,0
+Commerci Republic : Sospetto Forest Heart,14,12,14,15,14,161,17857142,26939,377146,"Nightcutter Assassin x4,Nightwhip Assassin x6,Nightpriest Assassin x4",0,1
+Stone Colossus Body : Stone Colossus Torso 3,18,9,18,27,18,161,3522400,15563,280134,Corrupted Tree Spirit x18,0,0
+Commerci Republic : Sospetto Forest Clearing,23,7,10,10,13,161,17846153,26916,269160,"Nightcutter Assassin x4,Nightwhip Assassin x5,Nightpriest Assassin x4",0,1
+Zipangu : Hunting Lodge,27,6,11,11,12,161,5786245,24056,264616,"Black Boogie x1,Dark Specter x6,Sleepy Ghost x5",0,0
+Zipangu : Vanished Village,32,5,10,13,10,161,5950014,24577,245770,"Blue Boogie x1,Tengu's Shadow x1,Paper Lantern Ghost x3,Black Crow x5",0,0
+Time Lane : Detour to Oblivion 1,20,10,17,20,17,160,16896000,45123,767091,"[*] Eye of Time x2,[*] Oblivion Monk x15",0,0
+Zipangu : Showa Street 1,31,6,21,21,24,160,3097856,15844,332724,"Yakuza Soldier x16,Yakuza Grunt x8",0,0
+Stone Colossus Body : Stone Colossus Torso 2,18,10,17,27,17,160,3438164,15255,259335,"Polluted Tree Spirit x10,Corrupted Tree Spirit x7",0,0
+Zipangu : The Secret Spa (M),23,9,16,20,16,160,3379200,15041,240656,Silver Slime x16,0,1
+Zipangu : The Secret Spa (F),23,9,16,20,16,160,3379200,15041,240656,Silver Slime x16,0,1
+Zipangu : Deserted House,14,10,10,10,13,160,5485245,22928,229280,"Red Boogie x1,Field Fox x9,Night Fox x2,Blue Mushdad x1(180)",0,0
+Stone Colossus Body : Stone Colossus Torso 1,24,9,12,27,14,160,3379200,15041,180492,Polluted Tree Spirit x14,0,0
+Zipangu : Armory,32,5,12,13,14,160,3379200,15041,180492,Dusk Viper x14,1,1
+Zipangu : Village Entrance,32,6,9,13,9,160,5674350,19654,176886,Crow x9,0,0
+Zipangu : Towards the Graveyard,25,13,8,14,12,160,4055040,18049,144392,"Dark Specter x8,Mammoth Moon Bunny x4(100)",0,0
+Commerci Republic : Sospetto Forest Outskirts,18,8,8,8,10,160,660000,7464,59712,Nightcutter Assassin x10,0,0
+Colossus Road : Swarm Stronghold,19,12,23,30,23,159,12144000,43386,997878,[*] General Hornet x23,0,0
+Kerning Tower : 4F Music Shops <4>,26,9,23,23,23,159,12144000,43386,997878,[*] Red Headphones x23,0,0
+Kerning Tower : 4F Music Shops <5>,24,9,21,21,23,159,12144000,43386,911106,[*] Yellow Headphones x23,0,0
+Colossus Road : Swarm Habitat 3,22,9,14,30,14,158,3166100,14205,198870,"Poison Hornet x7,General Hornet x7",0,0
+Commerci Republic : Sospetto Forest Trail,19,8,9,9,13,158,310000,4843,43587,Dusky Lupo x13,0,0
+Kerning Tower : 3F Arts & Entertainment Shops <4>,26,8,28,29,28,157,11092500,40143,1124004,[*] Blue Notebook x28,0,0
+Kerning Tower : 3F Arts & Entertainment Shops <5>,24,8,27,27,28,157,11092500,40143,1083861,[*] Green Notebook x28,0,0
+Honnou-ji : Honnou-ji Temple Plaza,45,4,40,40,40,157,2218500,13381,535240,Oda Samurai Captain x40(5),1,1
+Colossus Road : Swarm Habitat 2,19,10,14,30,14,157,3016200,13624,190736,"Hornet x8,Poison Hornet x6",0,0
+Colossus Road : Swarm Habitat 1,19,8,14,30,14,157,2958000,13381,187334,Hornet x14,0,0
+Commerci Republic : Suspicious Forest Entrance,20,9,9,9,11,157,300000,4705,42345,Dirty Lupo x11,0,0
+Stone Colossus Exploration Site : Colossus East Road 3,26,9,18,30,18,156,2824600,12878,231804,Dark Flora x18,0,0
+Kerning Tower : 2F Cafe <4>,26,8,24,29,24,155,10101000,36975,887400,[*] Enraged Espresso Machine x24,0,0
+Kerning Tower : 2F Cafe <5>,24,8,24,27,24,155,10101000,36975,887400,[*] Grape Jelly Juice x24,0,0
+Honnou-ji : Honnou-ji Southern Grounds,44,4,39,39,39,155,2020200,12325,480675,Oda Warrior x39(5),1,1
+Kerning Tower : 6F Hair Salons <2>,26,9,21,21,25,155,2020200,12325,258825,"Harried Hair Roller x11,Peeved Perm Machine x14",0,0
+Kerning Tower : 6F Hair Salons <3>,26,9,21,21,25,155,2020200,12325,258825,Peeved Perm Machine x25,0,0
+Kerning Tower : 5F Cosmetics Shops <3>,25,8,20,21,20,155,2020200,12325,246500,Deadly Dressing Table x20,0,0
+Kerning Tower : 6F Hair Salons <1>,26,9,20,21,20,155,2020200,12325,246500,Harried Hair Roller x20,0,0
+Stone Colossus Exploration Site : Colossus East Road 2,16,14,15,31,15,155,2754733,12582,188730,"Flora x8,Dark Flora x7",0,0
+Stone Colossus Exploration Site : Colossus East Road 1,21,11,14,30,14,155,2693600,12324,172536,Flora x14,0,0
+Kerning Tower : 5F Cosmetics Shops <1>,26,9,21,21,22,154,1919700,11832,248472,Killer Cosmetics x22,0,0
+Kerning Tower : 5F Cosmetics Shops <2>,25,8,20,21,20,154,1969950,12078,241560,"Killer Cosmetics x10,Deadly Dressing Table x10",0,0
+Time Lane : Road to Oblivion 5,24,10,15,22,15,154,1919700,11832,177480,Chief Oblivion Guardian x15,0,0
+Stone Colossus Exploration Site : Colossus Dangerous Road,17,12,14,30,14,154,2559600,11831,165634,Poison Mantis x14,0,0
+Momiji Hills : Hidden Field of Momiji Hills 2,19,9,21,21,24,153,1868650,13040,273840,"Contaminated Goblin 1 x13,Contaminated Goblin 2 x11",1,1
+Kerning Tower : 4F Music Shops <3>,26,9,21,21,22,153,1825200,11294,237174,Red Headphones x22,0,0
+Momiji Hills : Hidden Field of Momiji Hills 1,19,10,18,21,18,153,1872600,13063,235134,"Contaminated Goblin 1 x9,Contaminated Goblin 2 x9",1,1
+Stone Colossus Exploration Site : Colossus West Road 3,23,10,18,28,18,153,2433600,11293,203274,Blood Mantis x18,0,0
+Kerning Tower : 4F Music Shops <2>,26,9,21,21,22,152,1783063,11074,232554,"Yellow Headphones x10,Red Headphones x12",0,0
+Momiji Hills : Near Momiji Hills 3,19,9,18,21,19,152,1733000,12311,221598,Seasoned Oda Scout x19,1,1
+Kerning Tower : 4F Music Shops <1>,28,9,19,23,19,152,1732500,10811,205409,Yellow Headphones x19,0,0
+Time Lane : Road to Oblivion 4,20,14,16,24,16,152,1849987,11451,183216,"Eye of Time x1,Oblivion Guardian x3,Chief Oblivion Guardian x12",0,0
+Stone Colossus Exploration Site : Colossus West Road 1,21,11,13,27,13,152,2310000,10811,140543,Mantis x13,0,0
+Stone Colossus Exploration Site : Colossus West Road 2,21,8,12,27,12,152,2371800,11052,132624,"Mantis x6,Blood Mantis x6",0,0
+Commerci Republic : Canal 4,27,7,12,12,15,152,250000,4004,48048,Voodoo Delfino x15,0,0
+Kerning Tower : 3F Arts & Entertainment Shops <3>,26,8,24,24,28,151,1641600,10286,246864,Blue Notebook x28,0,0
+Time Lane : Road to Oblivion 2,20,13,21,22,21,151,1701800,10646,223566,"Eye of Time x1,Oblivion Monk Trainee x20",0,0
+Time Lane : Road to Oblivion 3,28,7,13,22,13,151,1711753,10687,138931,"Eye of Time x2,Oblivion Guardian x11",0,0
+Commerci Republic : Canal 3,27,9,12,12,14,151,240000,3861,46332,Sureshot Delfino x14,0,0
+Minar Forest : The Dragon Nest Left Behind 2,16,17,19,27,19,150,8284736,31219,593161,"[*]Skelegon x8,[*]Skelosaurus x11",0,0
+Minar Forest : The Dragon Nest Left Behind 1,16,17,17,27,17,150,8185764,30906,525402,"[*]Skelegon x8,[*]Skelosaurus x9",0,0
+Momiji Hills : Near Momiji Hills 2,19,9,21,21,24,150,1682625,12026,252546,"Seasoned Oda Warrior x13,Seasoned Oda Scout x11",1,1
+Kerning Tower : 3F Arts & Entertainment Shops <2>,26,8,24,24,29,150,1616787,10166,243984,"Green Notebook x13,Blue Notebook x16",0,0
+Kerning Tower : 3F Arts & Entertainment Shops <1>,26,8,20,21,20,150,1586250,10019,200380,Green Notebook x20,0,0
+Momiji Hills : Near Momiji Hills 1,19,10,17,21,17,150,1640000,11786,200362,Seasoned Oda Warrior x17,1,1
+Hidden Street : The Restoring Memory,16,17,17,22,17,150,1637152,8584,145928,"Skelegon x8,Skelosaurus x9",0,0
+Minar Forest : Peak of the Big Nest,16,10,11,11,11,150,1643563,8612,94732,"Skelegon x5,Skelosaurus x6",0,0
+Minar Forest : Dangerous Dragon Nest,16,14,11,16,11,150,1586250,8349,91839,Nest Golem x11,0,0
+Minar Forest : Nest of a Dead Dragon,16,14,20,20,23,149,7909826,30032,600640,"[*]Skelegon x14,[*]Skelosaurus x9",0,0
+Commerci Republic : Canal 6,25,7,11,11,17,149,11264705,17031,187341,"Cutthroat Delfino x5,Sureshot Delfino x5,Voodoo Delfino x4,Ripclaw Delfino x3",0,1
+Commerci Republic : Canal 5,25,7,11,11,13,149,11153846,17026,187286,"Cutthroat Delfino x4,Sureshot Delfino x3,Voodoo Delfino x3,Ripclaw Delfino x3",0,1
+Time Lane : Road to Oblivion 1,20,10,17,18,17,149,1576447,9940,168980,"Eye of Time x2,Oblivion Monk x15",0,0
+Kerning Tower : 2F Cafe <3>,26,8,29,29,31,148,1486887,9494,275326,"Grape Jelly Juice x26,Enraged Espresso Machine x5",0,0
+Commerci Republic : Canal 2,27,7,12,12,16,148,225000,3661,43932,Ripclaw Delfino x16,0,0
+Kerning Tower : 2F Cafe <2>,26,8,29,29,31,147,1473300,9427,273383,"Blue Raspberry Jelly Juice x8,Grape Jelly Juice x18,Enraged Espresso Machine x5",0,0
+The Bund : Diabolic Jiangshi Base,19,9,15,17,16,147,2851200,14698,220470,"Poison Jiangshi x15,Diabolic Jiangshi x1(900)",0,0
+Time Lane : Road of Regrets 4,24,14,21,32,22,147,1466386,9396,197316,"Eye of Time x3,Qualm Guardian x2,Chief Qualm Guardian x17",0,0
+Kerning Tower : 2F Cafe <1>,26,8,21,24,22,147,1435254,9237,193977,"Blue Raspberry Jelly Juice x20,Enraged Espresso Machine x2",0,0
+Shaolin Temple : Sutra Depository 5-6 F,14,10,11,11,14,147,1547794,11810,129910,"Mini Gold Martial Artist x8,Golden Giant x6",0,1
+Commerci Republic : Canal 1,27,7,12,12,12,147,220000,3594,43128,Cutthroat Delfino x12,0,0
+The Bund : Jiangshi Den 2,16,12,17,19,17,146,2747700,14285,242845,Blood Jiangshi x17,0,0
+Mount Song - Shaolin Area : Mountainside,22,13,21,21,24,146,1373850,10714,224994,"White Tiger Swordsman x10,Eagle Swordsman x14",0,1
+Kerning Tower : B1 Electronics Store <2>,26,9,24,24,25,146,1373850,8928,214272,Next-gen Speaker x25,0,0
+Kerning Tower : B1 Electronics Store <3>,26,9,24,24,25,146,1373850,8928,214272,Next-gen Speaker x25,0,0
+Mount Song - Shaolin Area : Mountain Path 2,19,13,18,18,21,146,1373850,10714,192852,"White Tiger Swordsman x12,Eagle Swordsman x9",0,1
+Time Lane : Road of Regrets 3,20,13,19,31,19,146,1416600,9114,173166,"Eye of Time x3,Qualm Guardian x16",0,0
+Forest of Tranquility : Path of Stone 2,24,9,16,16,20,146,1373850,10714,171424,Haunted Graystone x20,0,1
+Forest of Tranquility : Path of Stone 3,24,9,16,16,18,146,1373850,10714,171424,Haunted River Rock x18,0,1
+Forest of Tranquility : Path of Stone 1,24,9,16,16,16,146,1373850,10714,171424,Haunted Sandstone x16,0,1
+Time Lane : Road of Regrets 2,18,13,19,30,19,146,1390042,8992,170848,"Eye of Time x2,Qualm Monk Trainee x17",0,0
+Kerning Tower : B1 Electronics Store <1>,26,8,16,21,16,146,1373850,8928,142848,Next-gen Speaker x16,0,0
+Shaolin Temple : Sutra Depository 7-8 F,14,10,11,11,16,146,1402200,10845,119295,"Blue Zhanshi Spirit x8,Haunted Helmet x8",0,1
+Shaolin Temple : Sutra Depository 9-10 F,14,10,11,11,16,146,1402200,10845,119295,"Red Zhanshi Spirit x8,Haunted Helmet x8",0,1
+Shaolin Temple : Sutra Depository 1-2 F,14,8,11,11,16,146,1373850,10714,117854,"Mini Bronze Martial Artist x10,Bronze Staffman x6",0,1
+Time Lane : Road of Regrets 5,16,10,10,21,10,146,1398600,9032,90320,"Eye of Time x3,Chief Qualm Guardian x7",0,0
+Mount Song - Shaolin Area : Foot of the Mountain,28,14,28,30,28,145,1326150,10357,289996,"Male Thief x13,Female Thief x15",1,1
+Mount Song - Shaolin Area : Mountain Path 1,16,19,24,26,24,145,1326150,10357,248568,"Male Thief x14,Female Thief x10",0,1
+Kerning Square : 7th & 8th Floor Area D,25,7,22,23,22,145,1326150,8631,189882,"Greatest Oldies Album x12,Latest Hits Album x10",0,0
+Kerning Square : 7th & 8th Floor Area B,25,7,22,23,22,145,1326150,8631,189882,"Greatest Oldies Album x12,Latest Hits Album x10",0,0
+The Bund : Riverside Path,16,10,14,14,14,145,2254455,12083,169162,Traveler Jiangshi x14,0,0
+The Bund : Jiangshi Den 1,19,9,12,16,12,145,2652300,13810,165720,Pale Jiangshi x12,0,0
+Mount Song - Shaolin Area : Temple Plaza,27,11,16,19,16,145,1326150,10357,165712,"Censer x11,Wooden Fish x5",0,1
+Time Lane : Road of Regrets 1,28,7,15,31,15,145,1335710,8717,130755,"Eye of Time x2,Qualm Monk x13",0,0
+Shaolin Temple : Sutra Depository 3-4 F,14,8,11,11,16,145,1409034,10896,119856,"Silver Giant x5,Silver Spearman x11",0,1
+Minar Forest : Destroyed Dragon Nest,16,13,14,15,14,145,1344728,5336,74704,"Jr. Newtie x8,Jr. Newtie x5,Nest Golem x1",0,0
+Commerci Republic : San Commerci West Entrance,37,8,15,17,15,145,210000,3458,51870,Calico Timcat x15,0,0
+Commerci Republic : Commerci West Coast,32,7,15,15,19,145,210000,3458,51870,Calico Timcat x19,0,0
+Nanjing Road : Shopping Center,27,11,16,16,20,144,2169413,11729,187664,Shopper Jiangshi x20,0,0
+Partem : Keeper's Path 6,28,10,25,25,31,143,1227000,8127,203175,Searing Ruins Guardian x31,0,0
+Outskirts of Shanghai : Mount Song Pathway,18,14,19,19,23,143,1254886,7424,141056,"Bonkers Cow x12,Mad Plow Ox x10,Mammoth Centipede x1(300)",0,0
+Time Lane : Memory Lane 5,20,14,15,31,15,143,1238460,8172,122580,"Eye of Time x3,Chief Memory Guardian x12",0,0
+Time Lane : Memory Lane 4,28,7,13,31,13,143,1250301,8241,107133,"Eye of Time x1,Memory Guardian x3,Chief Memory Guardian x9",0,0
+Nanjing Road : Three-way Intersection,29,13,24,29,24,142,1801600,10319,247656,"Stoplight Ghost x22,Shopper Jiangshi x2",0,0
+Outskirts of Shanghai : Vast Plains,30,11,28,28,32,142,1196381,7169,200732,"Loony Sheep x3,Unhinged Goat x14,Batty Goat x10,Bonkers Cow x5",0,0
+Partem : Keeper's Path 5,28,10,25,25,42,142,1202887,7983,199575,"Frenzied Ruins Sentinel x21,Searing Ruins Guardian x21",0,0
+Partem : Keeper's Path 4,28,10,25,25,33,142,1178775,7839,195975,Frenzied Ruins Sentinel x33,0,0
+Hidden Street : The Hidden Dragon Tomb II,21,20,19,40,19,142,1178775,6533,124127,Dark Cornian x19,0,0
+Time Lane : Memory Lane 3,20,10,13,27,13,142,1194876,7948,103324,"Eye of Time x3,Memory Guardian x10",0,0
+Minar Forest : The Forest That Disappeared,21,16,14,24,14,142,1178775,6533,91462,Dark Cornian x14,0,0
+Commerci Republic : Berry Coast,32,7,15,15,16,142,195000,3250,48750,Gray Tomcat x16,0,0
+Minar Forest : Black Wyvern's Nest,16,21,19,26,20,141,5671500,22782,432858,[*]Dark Wyvern x20,0,0
+Minar Forest : Canyon : West Road,8,21,13,13,19,141,5671500,22782,296166,[*]Dark Wyvern x19,0,0
+Partem : Keeper's Path 3,28,10,25,25,32,141,1134300,7594,189850,Broiling Ruins Guardian x32,0,0
+Time Lane : Memory Lane 2,20,14,20,33,20,141,1165128,7765,155300,"Eye of Time x3,Memory Monk Trainee x17",0,0
+Outskirts of Shanghai : Abandoned Farms,24,12,18,29,18,141,1154946,6959,125262,"Nutty Sheep x8,Loony Sheep x7,Unhinged Goat x3",0,0
+Minar Forest : Canyon : East Road,8,22,12,15,13,141,1134300,6328,75936,Dark Wyvern x13,0,0
+Minar Forest : Entrance to Dragon Nest,16,11,6,6,6,141,1134300,6328,37968,"Dark Wyvern x4(1),Dark Wyvern x2(60)",0,0
+Herb Town : Isolated Swamp,36,14,40,40,60,140,1087800,7352,294080,Mr. Alli x60,0,0
+Nanjing Road : Busy Street,28,13,23,26,23,140,1649895,9639,221697,"Bicycle Ghost x17,Sign Ghost x6",0,0
+Partem : Keeper's Path 2,28,9,27,27,42,140,1108835,7461,201447,"Fettered Ruins Sentinel x23,Broiling Ruins Guardian x19",0,0
+Partem : Keeper's Path 1,28,10,27,27,30,140,1087800,7352,198504,Fettered Ruins Sentinel x30,0,0
+Nanjing Road : Eastern Hotel District,24,13,20,20,22,140,1688768,9814,196280,"Bicycle Ghost x4,Sign Ghost x18",0,0
+Time Lane : Memory Lane 1,20,13,21,32,21,140,1125442,7547,158487,"Eye of Time x4,Memory Monk x17",0,0
+Outskirts of Shanghai : Residential Area,22,13,22,29,23,140,1097732,6683,147026,"Raving Chicken x6,Cuckoo Chicken x7,Deranged Duck x10",0,0
+Herb Town : Red-Nose Pirate Den 3,17,12,16,16,18,140,1118800,7513,120208,"Kru x6,Captain x12",0,0
+Herb Town : Red-Nose Pirate Den 2,20,11,16,16,21,140,1107728,7455,119280,"Kru x12,Captain x9",0,0
+Herb Town : Old Swamp,21,11,16,16,21,140,1087800,7352,117632,"Mr. Alli x19,Kru x2",0,0
+Herb Town : Red-Nose Pirate Den 1,19,11,14,14,17,140,1087800,7352,102928,"Mr. Alli x3,Kru x14",0,0
+Korean Folk Town : Goblin House,17,8,11,15,12,140,1087800,7352,80872,Yellow King Goblin x12,0,0
+Wu Tien Mountain : 1500m Up: Mountainside,17,18,7,17,7,140,1134300,6328,44296,"Wu Tien Eagle x2,Wu Tien Eagle x3,Wu Tien Eagle x2",0,1
+Wu Tien Time Attack : 1500m Up,17,18,7,17,7,140,1134300,6328,44296,"Wu Tien Eagle x2,Wu Tien Eagle x3,Wu Tien Eagle x2",0,1
+Wu Tien Mountain : 1900m Up: Mountainside,17,21,6,21,6,140,1134300,6328,37968,"Wu Tien Eagle x2,Wu Tien Eagle x2,Wu Tien Eagle x2",0,1
+Wu Tien Time Attack : 1900m Up,17,21,6,21,6,140,1134300,6328,37968,"Wu Tien Eagle x2,Wu Tien Eagle x2,Wu Tien Eagle x2",0,1
+Wu Tien Mountain : 900m Up: Mountainside,17,21,5,22,5,140,1134300,6328,31640,"Wu Tien Eagle x3,Wu Tien Eagle x1,Wu Tien Eagle x1",0,1
+Wu Tien Time Attack : 900m Up: Mountainside,17,21,5,22,5,140,1134300,6328,31640,"Wu Tien Eagle x3,Wu Tien Eagle x1,Wu Tien Eagle x1",0,1
+Herb Town : 10-Year-Old Herb Garden,38,12,40,40,74,139,1042200,7111,284440,"Jar x56,Ginseng Jar x18",0,0
+Herb Town : 100-Year-Old Herb Garden,32,12,40,40,69,139,1042200,7111,284440,"Bellflower Root x51,Sr. Bellflower Root x18",0,0
+Herb Town : Bellflower Valley,32,10,37,37,56,139,1042200,7111,263107,"Bellflower Root x11,Sr. Bellflower Root x45",0,0
+Partem : Extra Creepy Crawly Copse 3,27,11,25,25,28,139,1042200,7111,177775,Blazin' Sparkinstone Bugs x28,0,0
+Crimsonheart Castle : Guardsman Crossway,25,14,21,26,21,139,1066085,7237,151977,"Elite Scarlet Phoenix x10,Elite Azure Ocelot x11",0,1
+Herb Town : 60-Year-Old Herb Garden,15,10,13,13,20,139,1042200,7111,92443,"Ginseng Jar x5,Bellflower Root x15",0,0
+Herb Town : 80-Year-Old Herb Garden,13,11,12,12,13,139,1042200,7111,85332,"Ginseng Jar x1,Bellflower Root x12",0,0
+Herb Town : 50-Year-Old Herb Garden,13,10,11,11,13,139,1042200,7111,78221,"Jar x4,Ginseng Jar x9",0,0
+Mu Lung Garden : Peach Farm 2,43,14,40,40,76,138,1000125,6836,273440,"Cute Reindeer x35,Peach Monkey x41",0,0
+Mu Lung Garden : Wild Bear Area 2,40,10,40,40,72,138,1000125,6836,273440,"Grizzly x29,Panda x43",0,0
+Mu Lung Garden : Goblin Forest 1,37,13,40,40,64,138,1000125,6836,273440,Sage Cat x64,0,0
+Mu Lung Garden : Wild Bear Area 3,43,11,40,40,62,138,1000125,6836,273440,Panda x62,0,0
+Mu Lung Garden : Peach Farm 3,38,12,40,40,60,138,1000125,6836,273440,"Cute Reindeer x24,Peach Monkey x36",0,0
+Mu Lung Garden : Foggy Forest,31,11,40,40,58,138,1000125,6836,273440,"Cute Reindeer x4,The Book Ghost x54",0,0
+Mu Lung Garden : Wild Bear Area 1,35,11,40,40,53,138,1000125,6836,273440,Grizzly x53,0,0
+Crimsonheart Castle : Hall of the Night 2,26,13,25,25,25,138,1000125,6835,170875,Elite Nightshadow x25,0,1
+Partem : Extra Creepy Crawly Copse 2,27,11,22,22,26,138,1021162,6973,153406,"Blazin' Log-a-Rhythmic Bugs x13,Blazin' Sparkinstone Bugs x13",0,0
+Partem : Extra Creepy Crawly Copse 1,27,10,22,22,26,138,1000125,6836,150392,Blazin' Log-a-Rhythmic Bugs x26,0,0
+Golden Temple : Room of Suffering,17,14,20,20,23,138,1000125,6836,136720,Stone Goblin Guardian x23,0,0
+Mu Lung Garden : Virtuous Forest,18,11,15,15,25,138,1000125,6836,102540,"The Book Ghost x20,Sage Cat x5",0,0
+Korean Folk Town : Haunted House,19,6,12,17,12,138,1021162,6973,83676,"Blue King Goblin x6,Green King Goblin x6",0,0
+Mu Lung : Goblin Forest 2,16,9,12,13,12,138,1000125,6836,82032,Sage Cat x12,0,0
+Mu Lung Garden : Territory of Wandering Bear,15,9,11,11,14,138,1000125,6836,75196,Panda x14,0,0
+Hidden Street : Leviathan's Canyon,8,17,12,12,17,138,1018583,5789,69468,"Red Wyvern x3,Blue Wyvern x6,Dark Wyvern x8",0,0
+Mu Lung Garden : Peach Farm 1,17,11,9,9,31,138,1000125,6836,61524,"Cute Reindeer x6,Peach Monkey x25",0,0
+Mu Lung Garden : Deep in the Sky Forest,38,11,40,40,72,137,956250,6603,264120,Black Porky x72,0,0
+Mu Lung Garden : Where the Sky Forest Ends,37,9,40,40,65,137,956250,6603,264120,Red Flower Serpent x65,0,0
+Crimsonheart Castle : Hall of the Night 1,23,11,25,28,25,137,956250,6603,165075,Crimson Stirge x25,0,1
+Mu Lung Garden : Sky Forest : The Trail,20,7,16,16,24,137,956250,6603,105648,Red Porky x24,0,0
+Golden Temple : Ascetic Room 1,12,11,13,13,21,137,956250,6603,85839,Stone Goblin x21,0,0
+Golden Temple : Ascetic Room 2,12,11,13,13,19,137,956250,6603,85839,Strong Stone Goblin x19,0,0
+Korean Folk Town : Goblin Ridge,16,11,14,14,22,137,765000,5282,73948,Blin x22,0,0
+Mu Lung Garden : Snake Area,15,8,11,11,21,137,956250,6603,72633,Blue Flower Serpent x21,0,0
+Minar Forest : Wyvern Canyon,8,20,12,13,15,137,975075,5585,67020,"Red Wyvern x5,Blue Wyvern x5,Dark Wyvern x5",0,0
+Hidden Street : Blue Wyvern's Nest,8,22,12,14,12,137,956250,5502,66024,Blue Wyvern x12,0,0
+El Nath : The Cave of Trials III,52,8,34,40,41,136,4578750,19107,649638,[*]Bain x41,0,0
+Mu Lung : Practice Field : Normal Level,23,11,22,22,28,136,915750,6369,140118,"Straw Target Dummy x12,Wooden Target Dummy x16",0,0
+Partem : Sproutstead 3,27,11,22,22,26,136,915750,6369,140118,Flared Chargin' Sprout x26,0,0
+Mu Lung : Practice Field : Advanced Level,20,14,21,27,21,136,915750,6369,133749,Wooden Target Dummy x21,0,0
+Crimsonheart Castle : Hall of Gales 2,18,13,21,21,25,136,915750,6369,133749,Elite Windraider x25,0,1
+Korean Folk Town : Fox Ridge,21,9,18,19,20,136,915750,6369,114642,Samiho x20,0,0
+Mu Lung : Practice Field : Easy Level,20,6,15,17,15,136,915750,6369,95535,"Straw Target Dummy x12,Wooden Target Dummy x3",0,0
+Mu Lung Garden : Entrance to Sky Forest,19,8,15,15,19,136,915750,6369,89166,Chipmunk x19,0,0
+Golden Temple : Guardian Room 2,14,8,14,15,14,136,915750,6369,89166,Blue Goblin x14,0,0
+Golden Temple : Guardian Room 1,14,9,14,15,14,136,915750,6369,89166,Blue Goblin x14,0,0
+Hidden Street : The Hidden Dragon Tomb I,18,22,15,37,15,136,915750,5307,79605,Green Cornian x15,0,0
+Korean Folk Town : Moonlight Ridge,17,8,13,15,19,136,836407,5796,75348,"Samiho x9,Blin x10",0,0
+Golden Temple : Room of Trials 2,12,9,11,11,17,136,915750,6369,70059,Red Goblin x17,0,0
+Golden Temple : Room of Trials 1,12,11,11,11,16,136,915750,6369,70059,Red Goblin x16,0,0
+Mu Lung : Practice Field : Beginner,20,3,9,11,11,136,915750,6369,57321,Straw Target Dummy x11,0,0
+Minar Forest : The Burning Forest,19,18,10,25,10,136,915750,5307,53070,Green Cornian x10,0,0
+Crimsonheart Castle : Hall of Gales 1,18,14,23,23,25,135,876000,6138,141174,Elderwraith x25,0,1
+Partem : Sproutstead 2,27,11,22,22,30,135,895875,6253,137566,"Flared Hoppin' Sprout x15,Flared Chargin' Sprout x15",0,0
+Partem : Sproutstead 1,27,11,22,22,28,135,876000,6138,135036,Flared Hoppin' Sprout x28,0,0
+Korean Folk Town : Black Mountain <Valley>,11,12,13,13,20,135,889912,6218,80834,"Hogul x13,Samiho x7",0,0
+Korean Folk Town : Tiger Ridge,20,11,10,19,15,135,876000,6138,67518,"Hogul x14,Hogul x1(60)",0,0
+Minar Forest : Canyon : Crossroad,8,21,10,13,12,135,895462,5214,52140,"Red Wyvern x6,Blue Wyvern x6",0,0
+El Nath : The Cave of Trials II,34,8,21,40,26,134,4188966,17785,373485,"[*]Cerebes x25,[*]Bain x1",0,0
+Rose Garden : Hidden Garden 3,35,8,19,19,21,134,4173375,17733,336927,[*] Garden Golem x21,0,0
+Crimsonheart Castle : Hall of Magic 2,18,13,21,21,25,134,556450,4926,103446,Elite Firebrand x25,0,1
+Golden Temple : Forest of Training 4,18,9,17,18,17,134,858983,6044,102748,"Teeny White Monkey x7,Mean Mama Monkey x10",0,0
+Golden Temple : Forest of Training 3,14,11,17,17,18,134,853041,6011,102187,"Teeny White Monkey x10,Mean Mama Monkey x8",0,0
+Korean Folk Town : Tiger Forest II,19,9,15,15,19,134,854250,6018,90270,"Hodori x10,Hogul x9",0,0
+Korean Folk Town : Tiger Forest I,16,9,14,14,17,134,834675,5911,82754,Hodori x17,0,0
+Hidden Street : Red Wyvern's Nest,8,23,9,13,9,134,834675,4926,44334,Red Wyvern x9,0,0
+Minar Forest : The Dragon Canyon,8,21,8,12,8,134,865068,5070,40560,"Red Wyvern x6,Blue Wyvern x2",0,0
+Crimsonheart Castle : Hall of Magic 1,26,11,24,24,25,133,796500,6822,163728,Leprechaun x25,0,1
+Golden Temple : Forest of Training 2,14,9,15,15,16,133,796500,5685,85275,Mama Monkey x16,0,0
+Korean Folk Town : Around the Pond,19,9,13,17,15,133,798380,6194,80522,"Dark Axe Stump x7,Hodori x8",0,0
+Minar Forest : Dragon Forest III,29,13,10,26,10,133,796500,4737,47370,Brexton x10,0,0
+El Nath : Dead Mine III,17,15,28,29,36,132,3784500,16296,456288,[*]Miner Zombie x36,0,0
+El Nath : Dead Mine II,18,14,27,27,38,132,3784500,16296,439992,[*]Miner Zombie x38,0,0
+El Nath : Dead Mine I,18,14,25,25,29,132,3784500,16296,407400,[*]Miner Zombie x29,0,0
+El Nath : Dead Mine IV,16,16,24,29,35,132,3784500,16296,391104,[*]Miner Zombie x35,0,0
+El Nath : The Cave of Trials I,30,8,21,40,30,132,3784500,16296,342216,[*]Jr. Cerebes x30,0,0
+Rose Garden : Hidden Garden 2,35,9,19,19,21,132,3784500,16296,309624,[*] Keymaster Rousseau x21,0,0
+Korean Folk Town : Small Well,16,15,18,26,22,132,756900,6518,117324,Dark Axe Stump x22,0,0
+Golden Temple : Forest of Training 1,14,11,16,16,18,132,756900,5432,86912,Wild Monkey x18,0,0
+Rose Garden : Castle Wall's Edge,35,8,19,19,21,132,504600,4527,86013,Garden Golem x21,0,0
+Crimsonheart Castle : Hall of Storms 2,28,11,23,23,24,131,720300,5212,119876,Elite Stormbreaker x24,0,1
+Korean Folk Town : Black Mountain <Corner>,15,11,13,13,17,131,727067,5891,76583,"Moon Bunny x7,Dark Axe Stump x10",0,0
+Minar Forest : Dragon Forest II,29,16,15,33,15,131,720300,4344,65160,Rexton x15,0,0
+Rose Garden : Hidden Garden 1,35,9,19,19,19,130,3422250,14988,284772,[*] Frozen Rose x19,0,0
+Crimsonheart Castle : Hall of Storms 1,18,15,23,23,25,130,684450,4996,114908,Typhon x25,0,1
+Rose Garden : Soul's Rest,35,9,19,19,21,130,456300,4163,79097,Keymaster Rousseau x21,0,0
+Korean Folk Town : Black Mountain Entrance,23,17,13,40,18,130,684450,4996,64948,Moon Bunny x18,0,0
+Neo City : <Year 2215> Bombed City Center Retail District,18,7,14,15,14,130,684450,4163,58282,Robby x14,1,1
+Minar Forest : Dragon Forest I,35,15,19,33,19,128,410000,3806,72314,Red Dragon Turtle x19,0,0
+Rose Garden : Abandoned Garden,35,9,19,19,19,128,410000,3806,72314,Frozen Rose x19,0,0
+Minar Forest : Entrance to Dragon Forest,29,13,14,26,14,127,387600,3632,50848,Blue Dragon Turtle x14,0,0
+Lion King's Castle : Tall Castle Walls 2,20,8,10,14,10,127,387600,3632,36320,Castle Golem x10,0,0
+Lion King's Castle : Very Tall Castle Walls,21,10,10,14,10,127,387600,3632,36320,Castle Golem x10,0,0
+Lion King's Castle : Tall Castle Walls 1,20,8,9,14,9,127,387600,3632,32688,Castle Golem x9,0,0
+Crimsonwood Keep : Eternal Vigilance,17,13,7,11,7,126,118000,2546,17822,Crimson Guardian x7,0,0
+Lion King's Castle : Short Castle Walls 1,20,8,13,16,13,125,359950,3429,44577,Grey Vulture x13,0,0
+Lion King's Castle : Short Castle Walls 2,21,7,12,13,12,125,359950,3429,41148,Grey Vulture x12,0,0
+Lion King's Castle : Short Castle Walls 3,20,9,11,13,11,125,359950,3429,37719,Grey Vulture x11,0,0
+El Nath : Forest of Dead Trees II,31,8,21,21,24,124,522060,4012,84252,Coolie Zombie x24,0,0
+El Nath : Forest of Dead Trees I,40,9,15,15,26,124,522060,4012,60180,Coolie Zombie x26,0,0
+El Nath : Forest of Dead Trees IV,28,9,15,15,25,124,522060,4012,60180,Coolie Zombie x25,0,0
+El Nath : Forest of Dead Trees III,26,8,9,9,18,124,522060,4012,36108,Coolie Zombie x18,0,0
+Fantasy Theme World : Extreme Station <3>,23,12,31,32,31,123,504495,3910,121210,Soaring Scarlion x31,0,0
+Fantasy Theme World : Extreme Station <3>,23,12,31,32,31,123,504495,3910,121210,Soaring Scarlion x31,0,0
+Fantasy Theme World : Fantasy Station <2>,20,11,14,20,14,123,504495,3910,54740,Bearic the White x14,0,0
+Fantasy Theme World : Fantasy Station <2>,20,11,14,20,14,123,504495,3910,54740,Bearic the White x14,0,0
+Fantasy Theme World : Fantasy Station <1>,24,9,14,20,14,123,504495,3910,54740,Jellybus x14,0,0
+Fantasy Theme World : Fantasy Station <1>,24,9,14,20,14,123,504495,3910,54740,Jellybus x14,0,0
+El Nath : Wolves' Territory 2,10,23,12,20,13,123,504495,3910,46920,Lycanthrope x13,0,0
+El Nath : Wolves' Territory 3,11,23,12,20,12,123,504495,3910,46920,Lycanthrope x12,0,0
+Fantasy Theme World : Fantasy Crittertorium <Entrance>,19,9,9,11,9,123,504495,3910,35190,"Jellybus x2,Bearic the White x7",0,0
+Fantasy Theme World : Fantasty Animal Show <Entrance>,19,9,9,11,9,123,504495,3910,35190,"Jellybus x2,Bearic the White x7",0,0
+Ludibrium : Forgotten Passage,30,12,19,29,19,122,2436150,11424,217056,[*]Thanatos x19,0,0
+Fantasy Theme World : Funky Station <3>,21,11,20,22,20,122,487230,3808,76160,Canterbear x20,0,0
+Fantasy Theme World : Funky Station <3>,21,11,18,22,18,122,487230,3808,68544,Canterbear x18,0,0
+El Nath : Wolves' Territory 1,10,23,16,21,16,122,487230,3808,60928,Werewolf x16,0,0
+Fantasy Theme World : Extreme Station <2>,18,13,13,22,13,122,487230,3808,49504,Colabear x13,0,0
+Fantasy Theme World : Extreme Station <2>,18,13,13,22,13,122,487230,3808,49504,Colabear x13,0,0
+El Nath : The Passage,14,42,15,20,15,122,487230,3174,47610,Flyeye x15,0,0
+Lion King's Castle : Castle Ramparts 4,20,10,15,15,15,122,324820,3174,47610,Bearwolf x15,0,0
+El Nath : Dangerous Cliff,10,22,12,20,12,122,487230,3808,45696,Werewolf x12,0,0
+Lion King's Castle : Castle Ramparts 5,20,10,12,12,13,122,324820,3174,38088,Bearwolf x13,0,0
+Fantasy Theme World : Extreme Station <1>,20,11,10,10,18,122,487230,3808,38080,Clowning Scarlion x18,0,0
+Fantasy Theme World : Extreme Station <1>,20,11,10,10,18,122,487230,3808,38080,Clowning Scarlion x18,0,0
+Fantasy Theme World : Funky Station <2>,23,12,31,31,38,121,470265,3708,114948,"Ratacula x21,Ghost x17",0,0
+Fantasy Theme World : Ghost Mansion,32,11,28,40,28,121,470265,3708,103824,"Ratacula x6,Ghost x22",0,0
+El Nath : Sharp Cliff 4,11,23,16,21,16,121,470265,5562,88992,Dark Yeti and Pepe x16,0,0
+Fantasy Theme World : Funky Station <1>,20,11,21,21,23,121,470265,3708,77868,Creeper Scarlion x23,0,0
+Fantasy Theme World : Funky Station <1>,20,11,21,21,23,121,470265,3708,77868,Creeper Scarlion x23,0,0
+Fantasy Theme World : Funky Station <2>,21,9,17,21,17,121,470265,3708,63036,Ratacula x17,0,0
+Hidden Street : Twisted Time,20,32,26,40,26,120,2268000,10824,281424,[*]Gigantic Spirit Viking x26,0,0
+Ludibrium : Warped Passage,30,8,19,26,19,120,2268000,10824,205656,[*]Gatekeeper x19,0,0
+Hidden Street : Forbidden Time,23,28,18,40,18,120,2268000,10824,194832,[*]Grim Phantom Watch x18,0,0
+El Nath : Sharp Cliff 3,11,21,14,19,14,120,453600,5412,75768,Yeti and Pepe x14,0,0
+Lion King's Castle : Castle Ramparts 3,20,9,13,13,14,120,302400,3007,39091,Blood Reindeer x14,0,0
+Dimensional Schism : Dimensional Schism,31,3,7,8,7,120,155000,2677,18739,Clouded Chief Guardian x7,0,1
+Dimensional Schism : Path of Darkness 1,31,3,6,10,6,120,160000,2308,13848,"Clouded Chief Guardian x3,Clouded Monk Trainee x3",0,1
+Dimensional Schism : Path of Darkness 2,31,3,7,10,7,120,165000,1940,13580,Clouded Monk Trainee x7,0,1
+Fox's Bluff : The Rock Pile,19,13,10,13,10,120,250,26,260,Stone Golem x10,1,1
+Ludibrium : Forgotten Path of Time<4>,25,26,26,40,26,119,2186175,10824,281424,[*]Phantom Watch x26,0,0
+Hidden Street : Unbalanced Time,17,33,21,40,21,119,2186175,10530,221130,[*]Dual Ghost Pirate x21,0,0
+Hidden Street : Lost Time,23,25,17,40,17,119,2186175,10530,179010,[*]Master Death Teddy x17,0,0
+Ludibrium : Warped Path of Time<4>,21,26,16,40,16,119,2186175,10530,168480,[*]Spirit Viking x16,0,0
+El Nath : Sharp Cliff II,10,20,15,18,16,119,437235,2632,39480,"Dark Jr. Yeti x4,Dark Yeti x12",0,0
+Ludibrium : Forgotten Path of Time<3>,25,18,27,37,28,118,2105850,10242,276534,[*]Death Teddy x28,0,0
+Ludibrium : Warped Path of Time<3>,21,27,24,40,24,118,2105850,10242,245808,[*]Ghost Pirate x24,0,0
+Lion King's Castle : Castle Ramparts 2,20,9,13,17,13,118,280780,2845,36985,Reindeer x13,0,0
+Crimsonwood Keep : The Inferno Chamber,17,13,7,11,7,118,101000,2261,15827,Firebrand x7,0,0
+Crimsonwood Keep : The Wrath of Night,17,13,7,11,7,118,101000,2261,15827,Nightshadow x7,0,0
+El Nath : Sharp Cliff I,10,23,16,23,16,117,406890,2504,40064,"Jr. Yeti x4,Yeti x12",0,0
+Hidden Street : Valley of Snowman,10,13,10,11,10,117,406890,3339,33390,Yeti x10,0,0
+Ludibrium : Forgotten Path of Time<2>,25,20,28,40,30,116,1982800,9825,275100,"[*]Klock x20,[*]Dark Klock x10",0,0
+Ludibrium : Warped Path of Time<2>,21,28,27,40,27,116,1985669,9835,265545,"[*]Buffoon x17,[*]Deep Buffoon x10",0,0
+Crimsonwood Keep : Tornado Corridor,17,13,7,11,7,116,97000,2191,15337,Windraider x7,0,0
+Crimsonwood Keep : Stormhall,17,13,7,11,7,116,97000,2191,15337,Stormbreaker x7,0,0
+Ludibrium : Forgotten Path of Time<1>,25,23,39,40,40,115,1912222,9543,372177,"[*]Soul Teddy x26,[*]Master Soul Teddy x14",0,0
+Ludibrium : Warped Path of Time<1>,21,25,34,40,34,115,1920525,9578,325652,"[*]Buffy x18,[*]Lazy Buffy x16",0,0
+Tyrant's Castle : Tyrant's Castle 3rd Floor Hallway,19,7,13,15,13,115,755250,3411,44343,Reaper Specter x13,0,0
+Ludibrium : Lost Time <2>,14,12,14,14,32,115,377625,3148,44072,Master Chronos x32,0,0
+Ludibrium : The Path of Time <3>,15,10,13,13,42,115,377625,3148,40924,Chronos x42,0,0
+Ludibrium : The Path of Time <2>,15,9,13,13,37,115,377625,3148,40924,Chronos x37,0,0
+Ludibrium : The Path of Time <4>,16,10,13,13,26,115,377625,3148,40924,Master Chronos x26,0,0
+Treglow's Laboratory : Laboratory B1 Area 2,19,7,11,15,11,115,755250,3411,37521,Reaper Specter x11,0,0
+Ludibrium : Lost Time <1>,15,10,11,11,29,115,377625,3148,34628,Platoon Chronos x29,0,0
+Ludibrium : The Path of Time <1>,12,9,11,11,22,115,377625,3148,34628,Platoon Chronos x22,0,0
+Lion King's Castle : Castle Ramparts 1,19,9,13,16,13,115,251750,2624,34112,Crocky the Gatekeeper x13,0,0
+Victor's Workshop : Workshop 1st Floor Area 2,13,7,10,10,11,115,755250,3411,34110,Reaper Specter x11,0,0
+Ludibrium : Crossroad of Time,13,15,20,20,36,114,362700,3055,61100,Tick x36,0,0
+Ludibrium : Whirlpool of Time,16,12,16,16,38,114,362700,3055,48880,Tick-Tock x38,0,0
+Ludibrium : Toy Factory <Process 2> Zone 2,18,7,13,13,19,114,362700,3055,39715,Master Robo x19,0,0
+Ludibrium : Toy Factory <Process 2> Zone 4,19,7,13,13,15,114,362700,3055,39715,Master Robo x15,0,0
+Ludibrium : Toy Factory <Process 2> Zone 3,19,6,12,14,12,114,362700,3055,36660,Master Robo x12,0,0
+Ludibrium : Toy Factory <Process 2> Zone 1,19,7,12,13,12,114,362700,3055,36660,Master Robo x12,0,0
+Ludibrium : Toy Factory <Main Process 2>,19,7,11,13,12,114,362700,3055,33605,Master Robo x12,0,0
+Ludibrium : Toy Factory <Process 1> Zone 3,18,7,18,20,18,113,348075,2963,53334,Robo x18,0,0
+Ludibrium : Toy Factory <Apparatus Room>,14,20,13,19,13,113,351450,2984,38792,"Robo x10,Master Robo x3",0,0
+Ludibrium : Toy Factory <Main Process 1>,19,8,13,20,15,113,348075,2963,38519,Robo x15,0,0
+Ludibrium : Toy Factory <Process 1> Zone 2,19,7,13,20,13,113,348075,2963,38519,Robo x13,0,0
+Ludibrium : Toy Factory <Process 1> Zone 1,14,12,11,20,14,113,357476,3022,36264,"Robo x5,Master Robo x9",0,0
+Ludibrium : Sky Terrace<5>,20,8,12,17,12,113,348075,2963,35556,Toy Trojan x12,0,0
+Ludibrium : Toy Factory <Process 1> Zone 6,19,7,11,20,11,113,348075,2963,32593,Robo x11,0,0
+Ludibrium : Sky Terrace<3>,15,8,11,11,15,113,348075,2963,32593,Roloduck x15,0,0
+Ludibrium : Toy Factory <Process 1> Zone 5,17,6,10,20,11,113,348075,2963,29630,Robo x11,0,0
+Ludibrium : Cloud Terrace<3>,17,8,10,12,11,113,348075,2963,29630,Roloduck x11,0,0
+Ludibrium : Cloud Terrace<5>,19,8,9,14,9,113,348075,2963,26667,Toy Trojan x9,0,0
+Ludibrium : Terrace Hall,20,8,15,15,16,112,335085,2871,43065,Brown Teddy x16,0,0
+Ludibrium : Cloud Terrace<1>,19,8,13,14,13,112,335085,2871,37323,Brown Teddy x13,0,0
+Ludibrium : Cloud Terrace<4>,19,8,13,13,13,112,335085,2871,37323,Panda Teddy x13,0,0
+Ludibrium : Sky Terrace<1>,19,8,11,14,11,112,335085,2871,31581,Brown Teddy x11,0,0
+Ludibrium : Sky Terrace<2>,19,8,9,14,10,112,335085,2871,25839,Pink Teddy x10,0,0
+Ludibrium : Cloud Terrace<2>,18,8,9,13,12,112,335085,2871,25839,Pink Teddy x12,0,0
+Ludibrium : Sky Terrace<4>,19,8,9,13,9,112,335085,2871,25839,Panda Teddy x9,0,0
+Aqua Road : The Cave of Pianus,15,9,2,2,2,110,27000000,1100000,2200000,"Pianus x1(1800),Pianus x1(2700)",1,1
+Minar Forest : Battlefield of Water and Darkness,25,12,25,25,25,110,1542750,8133,203325,"[*]Black Kentaurus x12,[*]Blue Kentaurus x13",0,0
+Minar Forest : Battlefield of Fire and Darkness,21,15,21,21,24,110,1542750,8133,170793,"[*]Black Kentaurus x11,[*]Red Kentaurus x13",0,0
+Minar Forest : The Area of Black Kentaurus,19,10,13,15,13,110,1542750,8133,105729,[*]Black Kentaurus x13,0,0
+Minar Forest : Battlefield of Fire and Darkness,22,17,24,31,24,110,308550,2711,65064,"Black Kentaurus x12,Red Kentaurus x12",0,0
+Minar Forest : The Area of Blue Kentaurus,28,12,22,33,22,110,308550,2711,59642,Blue Kentaurus x22,0,0
+Minar Forest : Battlefield of Fire and Water,19,15,19,28,19,110,308550,2711,51509,"Red Kentaurus x10,Blue Kentaurus x9",0,0
+Minar Forest : The Area of Red Kentaurus,19,14,14,16,14,110,308550,2711,37954,Red Kentaurus x14,0,0
+Cave of Life : Cave of Light,32,8,21,21,21,110,86714,1674,35154,"Skelegon 2 in Cave x15(1),T-Skelegon in Cave x6(-1)",1,1
+Minar Forest : Griffey Forest,15,4,5,5,7,110,308550,2711,13555,"Black Kentaurus x3,Red Kentaurus x3,Griffey x1(1800)",1,1
+Minar Forest : Manon's Forest,15,4,5,5,7,110,308550,2711,13555,"Blue Kentaurus x6,Manon x1(1800)",1,1
+Minar Forest : Valley of the Antelope 2,19,12,19,22,19,109,987700,6552,124488,[*]Dual Birk x19,0,0
+Aqua Road : The Grave of a Wrecked Ship,14,25,22,22,38,109,294307,2425,53350,"Bombing Fish House x4,Shark x19,Cold Shark x15",0,0
+Minar Forest : Valley of the Antelope 1,16,14,16,22,16,109,197540,2184,34944,Dual Birk x16,0,0
+Minar Forest : Forest : Crossroad,19,15,17,32,17,108,188730,2112,35904,Birk x17,0,0
+Aqua Road : Dangerous Sea Gorge II,10,26,16,16,34,108,195985,2171,34736,"Squid x6,Risell Squid x28",0,0
+Minar Forest : Sky Nest 3,23,14,21,26,21,107,904550,6165,129465,[*]Blood Harp x21,0,0
+Minar Forest : Sky Nest II,19,14,14,17,14,107,904550,6165,86310,[*]Blood Harp x14,0,0
+Treglow's Laboratory : Laboratory B2 Area 2,19,9,14,15,14,107,361820,2672,37408,Red Reagent Rock x14,0,0
+Aqua Road : Deep Sea Gorge II,11,21,16,20,16,107,180910,2055,32880,Bone Fish x16,0,0
+Victor's Workshop : Workshop 2nd Floor Area 2,13,9,11,11,12,107,361820,2672,29392,Blue Totem Staff x12,0,0
+Aqua Road : Dangerous Sea Gorge I,11,20,16,16,29,107,188417,1835,29360,"Bombing Fish House x4,Squid x19,Risell Squid x6",0,0
+Minar Forest : Entrance to Sky Nest,19,15,20,35,21,106,173250,1984,39680,Harp x21,0,0
+Treglow's Laboratory : Laboratory B2 Area 1,21,9,14,17,14,106,346500,2579,36106,Purple Reagent Rock x14,0,0
+Victor's Workshop : Workshop 2nd Floor Area 3,15,8,12,12,12,106,355436,2633,31596,"Red Totem Staff x5,Blue Totem Staff x7",0,0
+Treglow's Laboratory : Laboratory B2 Area 3,21,7,12,17,12,106,354160,2625,31500,"Purple Reagent Rock x6,Red Reagent Rock x6",0,0
+Victor's Workshop : Workshop 1st Floor Area 3,15,7,12,12,13,106,346500,2579,30948,Red Totem Staff x13,0,0
+Aqua Road : Deep Sea Gorge I,10,22,19,19,21,106,179086,1565,29735,"Bombing Fish House x5,Bone Fish x16",0,0
+Treglow's Laboratory : Laboratory B1 Area 3,21,7,10,18,10,106,346500,2579,25790,Purple Reagent Rock x10,0,0
+Victor's Workshop : Workshop 2nd Floor Area 1,15,8,9,12,10,106,346500,2579,23211,Red Totem Staff x10,0,0
+Minar Forest : Sky Nest I,16,12,11,18,11,106,174642,1996,21956,"Harp x9,Blood Harp x2",0,0
+Tyrant's Castle : Tyrant's Castle 3rd Floor Mezzanine,21,7,16,16,23,105,331500,2488,39808,Magician Specter x23,0,0
+Minar Forest : Steep Hill,17,18,19,34,19,105,165750,1914,36366,Hankie x19,0,0
+Tyrant's Castle : Tyrant's Castle 1st Floor Hall,19,7,9,9,10,105,331500,2488,22392,Magician Specter x10,1,1
+Minar Forest : Minar Forest : West Border,29,15,28,40,29,104,157680,1858,52024,Dark Rash x29,0,0
+Treglow's Laboratory : Laboratory B1 Area 1,21,7,17,17,26,104,322188,2446,41582,"Warrior Specter x15,Magician Specter x11",0,0
+Minar Forest : Cranky Forest,28,14,21,39,22,104,161348,1883,39543,"Hoblin x12,Green Hoblin x10",0,0
+Minar Forest : Minar Forest : East Border,14,15,21,26,21,104,157680,1858,39018,Dual Beetle x21,0,0
+Tyrant's Castle : Tyrant's Castle 2nd Floor Mezzanine,20,9,14,14,18,104,315360,2416,33824,Warrior Specter x18,0,0
+Victor's Workshop : Workshop 1st Floor Area 1,15,8,12,12,15,104,325044,2459,29508,"Warrior Specter x6,Magician Specter x9",0,0
+Tyrant's Castle : Tyrant's Castle Foyer,28,7,12,13,12,104,315360,2416,28992,Warrior Specter x12,1,1
+Leafre : Fuzzy Forest,26,14,36,40,36,103,156486,1846,66456,"Rash x6,Dark Rash x30",0,0
+Heliseum Downtown : West Downtown Border,26,9,24,24,28,103,301040,2325,55800,Power Specter x28,0,0
+Leafre : Beetle Forest,28,15,21,34,21,103,156316,1844,38724,"Beetle x4,Dual Beetle x17",0,0
+Minar Forest : West Leafre Forest,22,11,16,21,16,103,150520,1789,28624,Rash x16,0,0
+Minar Forest : Leafre : East Forest,19,14,15,27,15,103,150520,1789,26835,Beetle x15,0,0
+Heliseum Downtown : Road to the Tyrant's Castle,28,11,28,28,37,102,294985,2286,64008,"Power Specter x21,Specter Engineer x16",0,0
+Heliseum Downtown : West Downtown Walkway,27,10,24,24,30,102,287040,2237,53688,Specter Engineer x30,0,0
+Heliseum Downtown : East Downtown Border,27,9,24,24,35,101,273360,2168,52032,Guerrilla Specter x35,0,0
+Heliseum Downtown : Heliseum Downtown Center,29,10,24,24,30,101,273360,2168,52032,Guerrilla Specter x30,0,0
+Nameless Forest : Specter Forward Base,22,11,23,23,32,101,273360,2168,49864,Guerrilla Specter x32,0,0
+Ellin Forest : Fairy Forest 1,18,9,16,16,19,100,130000,1601,25616,"Ancient Fairy x8,Shining Fairy x11",0,0
+Ellin Forest : Fairy Forest 2,19,9,13,13,19,100,130000,1601,20813,Shining Fairy x19,0,0
+Nameless Forest : Predatory Forest,22,9,17,20,17,99,252000,2029,34493,Dinodon x17,0,0
+Ellin Forest : Boulder Mountain Entrance,24,7,8,10,8,99,126000,1561,12488,Primitive Boar x8,0,0
+Ellin Forest : Boulder Mountain Cave,23,3,6,9,6,99,126000,1561,9366,Violent Primitive Boar x6,0,0
+Ellin Forest : Deep Inside the Cave,13,3,4,5,4,99,126000,1561,6244,Violent Primitive Boar x4,0,0
+Zipangu : Cherry Blossom Forest 2,26,17,22,22,24,98,3328397,11537,253814,"Thorn Mushroom x10,Wandering Fire Raccoon x14",0,0
+Forbidden Forest : Yellow Speeyor's Pasture,18,9,16,16,23,98,244000,1978,31648,Yellow Speeyor x23,0,0
+Forbidden Forest : Forest of Coexistence,22,6,15,20,15,98,247733,2001,30015,"Yellow Speeyor x8,Dinodon x7",0,0
+Ellin Forest : Mossy Tree Forest,16,9,13,13,15,98,122000,1522,19786,Tree Rod x15,0,0
+Ellin Forest : Desolate Land,25,7,11,20,11,98,122000,1522,16742,Stone Bug x11,0,0
+Ellin Forest : Mushroom Hillside,18,8,11,11,11,98,122000,1522,16742,Mossy Mushroom x11,0,0
+Ellin Forest : Mushroom Hill Entrance,15,8,10,12,10,98,122000,1522,15220,Mossy Snail x10,0,0
+Heliseum Downtown : East Downtown Walkway,27,10,27,27,37,97,240540,1950,52650,"Specter Battle Hound x18,Specter Tamer x19",0,0
+Heliseum Downtown : Downtown of Willpower,25,12,25,25,31,97,236000,1925,48125,Specter Miner x31,0,0
+Forbidden Forest : Twisted Forest Border,21,7,13,13,14,97,236000,1925,25025,Dinoram x14,0,0
+Nameless Forest : Specter Mine Zone,12,11,12,12,22,97,236000,1925,23100,Specter Miner x22,0,0
+Nameless Forest : Breeding Forest,12,11,11,11,22,97,238181,1935,21285,"Specter Battle Hound x12,Specter Tamer x10",0,0
+Ludibrium : Eos Tower 3rd Floor,7,23,9,14,9,97,118000,1481,13329,King Block Golem x9,0,0
+Ludibrium : Eos Tower 1st Floor,7,24,7,14,7,97,118000,1481,10367,King Block Golem x7,0,0
+Ludibrium : Eos Tower 2nd Floor,7,22,7,12,7,97,118000,1481,10367,King Block Golem x7,0,0
+Heliseum Downtown : Downtown of Valor,25,12,28,28,36,96,228000,1872,52416,Specter Shieldbearer x36,0,0
+Nameless Forest : Path to the Hill,25,11,26,26,28,96,228000,1872,48672,Dinogoth x28,0,0
+Twisted Forest : Red Speeyor's Pasture,25,8,18,18,25,96,228000,1872,33696,Red Speeyor x25,0,0
+Hidden Street : Hidden Tower,7,44,22,22,28,96,116153,1462,32164,"Rombot x1(1200),Rombot x1(1800),Block Golem x12,King Block Golem x10,King Block Golem x4(1)",0,0
+Twisted Forest : Forest of Choices,23,8,17,17,23,96,228000,1872,31824,Specter Shieldbearer x23,0,0
+Ludibrium : Eos Tower 32nd Floor,7,23,14,17,16,96,114000,1440,20160,King Bloctopus x16,0,0
+Ludibrium : Eos Tower 5th Floor,7,26,12,15,12,96,115666,1457,17484,"Block Golem x7,King Block Golem x5",0,0
+Ludibrium : Eos Tower 7th Floor,7,25,11,15,11,96,114000,1440,15840,Block Golem x11,0,0
+Ludibrium : Eos Tower 8th Floor,7,29,10,18,10,96,114000,1440,14400,Block Golem x10,0,0
+Ludibrium : Eos Tower 6th Floor,7,20,10,11,10,96,114000,1440,14400,Block Golem x10,0,0
+Ludibrium : Eos Tower 4th Floor,7,21,7,12,7,96,116857,1469,10283,"Block Golem x2,King Block Golem x5",0,0
+Zenumist Research Institute : Lab - Unit 203,44,7,30,30,65,95,110000,1399,41970,Homunculus x65,0,0
+Alcadno Research Institute : Lab - Area C-2,44,6,30,30,48,95,110000,1399,41970,"Roid x21,Roid x3(1),Roid x1(2),Neo Huroid x22,Neo Huroid x1(1200)",0,0
+Twisted Forest : Savage Dog Forest,27,11,20,20,32,95,220000,1819,36380,Specter Battle Hound x32,0,0
+Twisted Forest : Blue Speeyor's Pasture,25,10,18,25,18,95,220000,1819,32742,Blue Speeyor x18,0,0
+Hidden Street : Authorized Personnel Only,27,7,20,20,30,95,110000,1399,27980,Saitie x30,0,0
+Ludibrium : Eos Tower 33rd Floor,7,26,19,19,22,95,112000,1419,26961,"King Bloctopus x11,Bloctopus x11",0,0
+Ludibrium : Eos Tower 34th Floor,7,25,16,18,19,95,110000,1399,22384,Bloctopus x19,0,0
+Alcadno Research Institute : Lab - Area C-3,16,8,14,22,28,95,110000,1399,19586,"Neo Huroid x26,D. Roy x1(3000),D. Roy x1(4200)",0,0
+Alcadno Research Institute : Lab - Area C-1,16,6,9,22,20,95,110000,1399,13990,Roid x20,0,0
+Zenumist Research Institute : Lab - Unit 202,19,5,9,16,16,95,110000,1399,12591,"Homunculus x14,Homunscullo x2(3000)",0,0
+Alcadno Research Institute : Lab - Area A-1,28,7,25,25,50,94,106000,1358,33950,Reinforced Mithril Mutae x50,0,0
+Ludibrium : Eos Tower 92nd Floor,11,26,23,25,36,94,106000,1358,31234,Chirppy x36,0,0
+Ludibrium : Eos Tower 66th Floor,11,25,20,20,31,94,106000,1358,27160,Drumming Bunny x31,0,0
+Ludibrium : Eos Tower 91st Floor,11,20,18,18,34,94,106000,1358,24444,Chirppy x34,0,0
+Ludibrium : Eos Tower 69th Floor,11,22,17,17,35,94,106000,1358,23086,Drumming Bunny x35,0,0
+Ludibrium : Eos Tower 70th Floor,11,22,17,17,32,94,106000,1358,23086,Drumming Bunny x32,0,0
+Ludibrium : Eos Tower 35th Floor,11,22,16,17,27,94,106000,1358,21728,Helly x27,0,0
+Ludibrium : Eos Tower 9th Floor,11,18,15,15,32,94,106000,1358,20370,Tweeter x32,0,0
+Ludibrium : Eos Tower 68th Floor,11,21,15,15,19,94,106000,1358,20370,Drumming Bunny x19,0,0
+Ludibrium : Eos Tower 67th Floor,11,20,14,15,20,94,106000,1358,19012,Drumming Bunny x20,0,0
+Ludibrium : Eos Tower 31st Floor,11,19,14,14,27,94,106000,1358,19012,Propelly x27,0,0
+Ludibrium : Eos Tower 10th Floor,11,18,13,13,27,94,106000,1358,17654,Planey x27,0,0
+Zenumist Research Institute : Lab - Unit 201,22,6,8,18,14,94,106000,1358,9506,Homun x14,0,0
+Ludibrium : Eos Tower 100th Floor,7,30,17,22,24,93,102000,1316,22372,Ratz x24,0,0
+Ludibrium : Eos Tower 98th Floor,7,23,16,16,20,93,102000,1316,21056,"Ratz x11,Black Ratz x9",0,0
+Ludibrium : Eos Tower 96th Floor,7,25,15,16,18,93,102000,1316,19740,Black Ratz x18,0,0
+Ludibrium : Eos Tower 95th Floor,7,24,15,15,20,93,102000,1316,19740,Black Ratz x20,0,0
+Ludibrium : Eos Tower 99th Floor,7,23,14,14,23,93,102000,1316,18424,Ratz x23,0,0
+Zenumist Research Institute : Lab - Unit 103,22,6,12,30,14,93,102000,1316,14476,Triple Rumo x14,0,0
+Ludibrium : Eos Tower 97th Floor,7,22,11,13,12,93,102000,1316,14476,"Ratz x4,Black Ratz x8",0,0
+Alcadno Research Institute : Lab - Area B-1,20,6,10,16,24,93,102000,1316,13160,Mithril Mutae x24,0,0
+Ludibrium : Eos Tower 93rd Floor,7,26,10,16,18,93,102000,1316,13160,Green Trixter x18,0,0
+Ludibrium : Eos Tower 94th Floor,7,25,9,15,15,93,102000,1316,11844,"Trixter x5,Trixter x10(3)",0,0
+Zenumist Research Institute : Lab - Unit 102,44,7,30,30,60,92,98000,1274,38220,Rumo x60,0,0
+Alcadno Research Institute : Lab - Area A-3,28,8,25,25,50,92,98000,1274,31850,Reinforced Iron Mutae x50,0,0
+Zenumist Research Institute : Lab - Unit 101,19,6,15,15,18,91,94000,1231,18465,Cube Slime x18,0,0
+Alcadno Research Institute : Lab - Area B-3,20,5,12,16,13,91,94000,1231,14772,Iron Mutae x13,0,0
+Sunset Road : Sahel 3,24,12,24,24,40,90,90000,1188,28512,Scorpion x40,0,0
+Sunset Road : The Ruins of Desert Nomads,40,8,24,24,28,90,90000,1188,28512,Sand Dwarf x28,0,0
+Sunset Road : The Desert of Dreams,19,7,14,22,14,90,90000,1188,16632,"Scorpion x4,Dark Sand Dwarf x10",0,0
+Hidden Street : The Giant of the Sunset,17,7,7,11,7,90,90000,1188,8316,"Desert Giant x1,Desert Giant x6(1)",0,0
+The Burning Sands : Outside North Entrance of Ariant,40,8,33,33,38,89,86000,1145,37785,Meerkat x38,0,0
+Sunset Road : North Desert Road 2,40,9,30,30,40,89,86000,1145,34350,Kiyo x40,0,0
+Sunset Road : Sahel 1,33,8,24,24,30,89,86000,1145,27480,Sand Rat x30,0,0
+Sunset Road : The Desert of Red Sand,24,8,15,16,15,89,87600,1162,17430,"Sand Dwarf x6,Kiyo x9",0,0
+The Burning Sands : North Desert Road 1,25,8,13,18,13,89,86000,1145,14885,Meerkat x13,0,0
+Sunset Road : The Desert of Serenity,16,6,12,13,13,89,88461,1171,14052,"Sand Rat x5,Dark Sand Dwarf x8",0,0
+Sunset Road : Sahel 2,19,10,11,15,14,89,88285,1169,12859,"Sand Rat x6,Scorpion x8",0,0
+The Burning Sands : Dry Desert,24,12,34,34,40,88,82000,1100,37400,"Ear Plug Plead x21,Scarf Plead x19",0,0
+The Burning Sands : White Rock Desert,31,9,34,34,40,88,82000,1100,37400,Bellamoa x40,0,0
+Hidden Street : Bellamoa's Cave,15,9,16,16,18,88,82000,1100,17600,Bellamoa x18,0,0
+The Burning Sands : The Scorching Desert,15,7,14,15,16,88,82000,1100,15400,Ear Plug Plead x16,0,0
+Hidden Street : Frilled Field,14,9,14,14,22,88,82000,1100,15400,Scarf Plead x22,0,0
+The Burning Sands : Cactus Desert 2,25,16,34,34,36,87,78000,1056,35904,"Cactus x18,Royal Cactus x18",0,0
+The Burning Sands : Cactus Desert 1,27,9,29,29,35,87,78000,1056,30624,Cactus x35,0,0
+Hidden Street : Royal Cactus Desert,16,6,8,8,10,87,78000,1056,8448,Royal Cactus x10,0,0
+The Burning Sands : Tent of the Entertainers,40,7,28,28,30,86,74000,1012,28336,Brown Hare x30,0,0
+The Burning Sands : Outside the West Entrance of Ariant,20,8,16,18,16,86,74000,1012,16192,Jr. Cactus x16,0,0
+The Burning Sands : Outside East Entrance of Ariant,25,7,9,15,9,86,74000,1012,9108,White Hare x9,0,0
+Hidden Street : Young Cactus Desert,14,6,7,8,7,86,74000,1012,7084,Jr. Cactus x7,0,0
+Gelimer Research Lab : Android Research Lab 2,20,8,13,15,13,85,70000,966,12558,"AF Android x7,Broken DF Android x6",0,0
+Gelimer Research Lab : Android Research Lab 3,26,9,12,20,12,85,70000,966,11592,Broken DF Android x12,0,0
+Gelimer Research Lab : Deep Shaft,20,7,11,15,11,85,70000,966,10626,Ore Muncher x11,0,0
+Gelimer Research Lab : Android Research Lab,20,7,11,14,11,85,70000,966,10626,AF Android x11,0,0
+Verne Mine : Shaft 4,20,8,11,14,11,84,66000,920,10120,Guard Robot L x11,0,0
+Gelimer Research Lab : Security System Research Center 2,20,9,9,15,9,84,66000,920,8280,"Security System x6,Enhanced Security System x3",0,0
+Gelimer Research Lab : Security System Research Center 3,20,9,8,16,8,84,66000,920,7360,Enhanced Security System x8,0,0
+Gelimer Research Lab : Security System Research Center 1,20,7,7,14,7,84,66000,920,6440,Security System x7,0,0
+Verne Mine : Raccoon Nest,20,7,10,14,10,83,62000,875,8750,Racaroni x10,0,0
+Verne Mine : Dangerous Raccoon Nest,26,7,7,19,7,83,62000,875,6125,Raco x7,0,0
+Verne Mine : Shaft 3,20,8,14,14,16,82,58000,827,11578,Cart Bear x16,0,0
+Verne Mine : Shaft 2,20,9,10,14,10,82,58000,827,8270,Big Spider x10,0,0
+El Nath : Ice Valley II,10,24,12,22,12,81,54000,780,9360,White Fang x12,0,0
+Verne Mine : Shaft Entrance 2,20,6,12,13,12,81,54000,780,9360,Guard Robot x12,0,0
+Verne Mine : Shaft Entrance 1,20,7,10,13,10,81,54000,780,7800,Guard Robot x10,0,0
+Verne Mine : Shaft 1,20,9,10,13,10,81,54000,780,7800,Racoco x10,0,0
+El Nath : Ice Valley I,10,19,18,20,18,80,51777,753,13554,"Hector x10,White Fang x8",0,0
+El Nath : Icy Cold Field,28,10,18,18,23,80,50000,732,13176,Hector x23,0,0
+Aqua Road : Forked Road : West Sea,24,9,15,18,15,80,50000,732,10980,"Sparker x4,Freezer x11",0,0
+Aqua Road : Turban Shell Hill,16,10,13,13,26,80,50000,732,9516,"Sparker x18,Freezer x8",0,0
+Aqua Road : Red Coral Forest,24,16,28,39,31,79,46000,684,19152,Poison Poopa x31,0,0
+Omega Sector : Kulan Field V,21,13,21,24,25,79,48080,708,14868,"Ultra Gray x12,Chief Gray x13",0,0
+Aqua Road : Crystal Gorge,20,11,21,21,38,79,46000,684,14364,Poopa x38,0,0
+Omega Sector : Kulan Field IV,24,9,19,19,23,79,46521,690,13110,"Zeta Gray x3,Ultra Gray x14,Chief Gray x6",0,0
+El Nath : Cold Field I,31,10,18,18,27,79,46000,684,12312,Pepe x27,0,0
+El Nath : Cold Field II,31,10,17,17,21,79,46000,684,11628,Dark Pepe x21,0,0
+Hidden Street : The Crown-Flyer,19,12,12,12,22,79,46000,684,8208,"Pepe x12,Dark Pepe x10",0,0
+Aqua Road : Ocean I.C,14,12,17,17,33,78,42000,635,10795,"Scuba Pepe x12,Jr. Seal x21",0,0
+El Nath : Watch Out for Icy Path II,31,8,17,17,20,78,42000,635,10795,"Jr. Yeti x4,Dark Jr. Yeti x16",0,0
+Hidden Street : Penguin's Playground,20,8,16,18,19,78,42000,635,10160,Scuba Pepe x19,0,0
+El Nath : Watch Out for Icy Path I,29,9,14,16,14,78,42000,635,8890,Jr. Yeti x14,0,0
+Orbis : Orbis Tower<B2>,5,24,12,12,19,78,42000,635,7620,Scuba Pepe x19,0,0
+Aqua Road : Forked Road : East Sea,24,10,9,13,12,78,42000,635,5715,Mask Fish x12,0,0
+Sakura Castle : Tsukino Tower 5th Floor,17,3,7,15,8,78,42000,635,4445,Sakura Samurai x8,0,0
+Aqua Road : Sand Castle Playground,20,18,35,39,36,77,38000,584,20440,"Flower Fish x25,Krip x11",0,0
+Aqua Road : Big Fish Valley,16,15,25,25,40,77,38000,584,14600,"Bubble Fish x25,Flower Fish x15",0,0
+Aqua Road : The Seaweed Tower,18,14,23,23,37,77,39189,599,13777,"Krip x26,Mask Fish x11",0,0
+El Nath : Snowy Hill,35,9,19,19,28,77,38000,584,11096,Jr. Pepe x28,0,0
+Omega Sector : Kulan Field II,24,10,17,21,18,77,39555,603,10251,"Barnard Gray x11,Zeta Gray x7",0,0
+Orbis : Orbis Tower <1st Floor>,5,24,16,19,30,77,38000,584,9344,Jr. Pepe x30,0,0
+Hidden Street : The Hidden Town,19,11,15,15,26,77,38000,584,8760,Krip x26,0,0
+Orbis : Orbis Tower <3rd Floor>,5,22,14,14,34,77,38000,584,8176,Dark Leatty x34,0,0
+Orbis : Orbis Tower <5th Floor>,5,22,14,14,32,77,38000,584,8176,Leatty x32,0,0
+Orbis : Orbis Tower <4th Floor>,5,21,13,13,28,77,38000,584,7592,Dark Leatty x28,0,0
+Orbis : Orbis Tower <6th Floor>,5,17,11,11,29,77,38000,584,6424,Leatty x29,0,0
+Orbis : Orbis Tower <2nd Floor>,5,21,10,10,30,77,38000,584,5840,Jr. Pepe x30,0,0
+Orbis : Orbis Tower <19th Floor>,5,22,15,15,25,76,34000,535,8025,Jr. Sentinel x25,0,0
+Aqua Road : Blue Seaweed Road,16,10,14,14,33,76,34000,535,7490,"Cico x17,Krappy x16",0,0
+Orbis : Orbis Tower <20th Floor>,5,22,11,16,20,76,34000,535,6955,Jr. Sentinel x20,0,0
+Hidden Street : Fish Resting Spot,16,9,13,13,19,76,34000,535,6955,"Seacle x13,Cico x6",0,0
+Orbis : Orbis Tower <7th Floor>,5,20,12,12,33,76,34000,535,6420,Ice Sentinel x33,0,0
+Orbis : Orbis Tower <16th Floor>,5,21,11,20,16,76,34000,535,5885,Fire Sentinel x16,0,0
+Orbis : Orbis Tower <17th Floor>,5,17,11,11,28,76,34000,535,5885,"Sentinel x19,Fire Sentinel x9",0,0
+Orbis : Orbis Tower <8th Floor>,5,21,10,10,27,76,34000,535,5350,Ice Sentinel x27,0,0
+Orbis : Orbis Tower <18th Floor>,5,17,10,10,21,76,34000,535,5350,Sentinel x21,0,0
+Orbis : Strolling Path II,41,12,40,40,58,75,30000,484,19360,"Dark Nependeath x51,Dark Nependeath x1(300),Dark Nependeath x1(350),Dark Nependeath x4(400),Dark Nependeath x1(600)",0,0
+Aqua Road : Mushroom Coral Hill,16,14,23,23,40,75,33200,524,12052,"Seacle x12,Krappy x20,Pinboom x8",0,0
+Aqua Road : The Sharp Unknown,16,13,19,19,34,75,30823,494,9386,"Seacle x7,Pinboom x27",0,0
+Orbis : Disposed Flower Garden,23,11,17,17,30,75,30000,484,8228,"Dark Nependeath x12,Nependeath x18",0,0
+Orbis : Strolling Path,27,11,6,16,22,75,30000,484,2904,"Nependeath x6,Nependeath x6(10),Nependeath x2(20),Nependeath x2(30),Nependeath x1(300),Nependeath x2(500),Nependeath x2(600),Nependeath x1(800)",0,0
+The Afterlands : Skyward Branches,32,7,16,22,16,75,1000,10,160,Treasure Thief Moustrosity x16,1,1
+The Afterlands : Field of Perspiration,21,10,15,15,19,75,1000,10,150,"Mushroom Marauder x7,Battle Balrog x12",1,1
+The Afterlands : Field of Longing,21,9,15,15,15,75,1000,10,150,Mushroom Marauder x15,1,1
+The Afterlands : Field of Inspiration,21,9,15,15,15,75,1000,10,150,Battle Balrog x15,1,1
+The Afterlands : Field of Glimmering Trees,24,10,14,21,14,75,1000,10,140,"Rampike x8,Raven x6",1,1
+The Afterlands : Field of Music,32,7,14,18,14,75,1000,10,140,Food Thief Moustrosity x14,1,1
+The Afterlands : Field of Soft Sunlight,32,7,14,18,14,75,1000,10,140,"Food Thief Moustrosity x6,Treasure Thief Moustrosity x8",1,1
+The Afterlands : Field of Glittering White,24,8,13,19,13,75,1000,10,130,"Rampike x12,Raven x1",1,1
+The Afterlands : World of Pure Imagination,20,12,13,18,13,75,1000,10,130,"Papercraft Menace x5,Papercraft Horror x8",1,1
+The Afterlands : Sparkling Field,18,10,13,16,13,75,1000,10,130,"Rampike x3,Raven x10",1,1
+The Afterlands : Field of Melody,20,7,12,18,12,75,1000,10,120,Papercraft Horror x12,1,1
+The Afterlands : Field of Rainbow Balloons,20,10,12,18,12,75,1000,10,120,Papercraft Menace x12,1,1
+Orbis : Cloud Park V,38,24,40,40,72,74,28000,458,18320,Luster Pixie x72,0,0
+Orbis : Cloud Park II,33,13,40,40,60,74,28000,458,18320,Star Pixie x60,0,0
+Orbis : Cloud Park IV,19,20,31,40,36,74,28000,458,14198,Lunar Pixie x36,0,0
+Orbis : Cloud Park III,23,21,29,40,29,74,28000,458,13282,Lunar Pixie x29,0,0
+Orbis : Cloud Park VI,22,18,23,40,28,74,28000,458,10534,Luster Pixie x28,0,0
+Orbis : Garden of Darkness II,14,27,34,40,54,73,26000,433,14722,Lucida x54,0,0
+Sakura Castle : Kappa Creek Forest,19,6,16,16,18,73,26000,433,6928,Sakura Kappa x18,0,0
+Orbis : Stairway to the Sky II,15,15,6,6,8,73,26000,433,2598,Lucida x8,0,0
+Orbis : Garden of Darkness I,26,15,39,40,48,72,24000,408,15912,Jr. Lucida x48,0,0
+Orbis : Cloud Park I,18,20,28,29,28,72,24857,417,11676,"Jr. Lioner x11,Star Pixie x17",0,0
+Orbis : Garden of Yellow II,34,13,40,40,66,71,22000,382,15280,Lioner x66,0,0
+Orbis : Garden of Green II,37,13,40,40,66,71,22000,382,15280,Grupin x66,0,0
+Orbis : Garden of Red II,34,14,40,40,52,71,22000,382,15280,Cellion x52,0,0
+Orbis : Stairway to the Sky I,18,20,24,33,28,71,22000,382,9168,"Cellion x8,Lioner x11,Grupin x9",0,0
+Orbis : Garden of Red I,17,15,18,25,22,70,20000,355,6390,Jr. Cellion x22,0,0
+Orbis : Garden of Green I,17,15,18,22,23,70,20000,355,6390,Jr. Grupin x23,0,0
+Orbis : Garden of Yellow I,17,15,18,22,22,70,20000,355,6390,Jr. Lioner x22,0,0
+Orbis : The Road to Garden of 3 Colors,18,15,13,13,21,70,20000,355,4615,"Jr. Cellion x7,Jr. Lioner x7,Jr. Grupin x7",0,0
+Cursed Temple : Gloomy Temple,20,9,10,12,10,70,20000,355,3550,"Tauromacis x5,Taurospear x5",0,1
+Cursed Temple : Forbidden Altar,15,8,8,9,8,70,20000,355,2840,Taurospear x8,0,1
+Cursed Temple : Endless Hallway,20,8,7,11,9,70,20000,355,2485,"Tauromacis x3,Tauromacis x2(60),Taurospear x4",0,1
+Cursed Temple : Collapsed Temple,19,9,7,11,8,70,20000,355,2485,Tauromacis x8,0,1
+Drake Cave : Cave Exit,17,12,17,17,21,69,19000,342,5814,Dark Drake x21,0,0
+Hidden Street : End of Cave,17,10,13,13,15,69,19000,342,4446,Dark Drake x15,1,1
+Hidden Street : Silent Stillness 2,21,9,11,12,11,69,19000,342,3762,Wild Kargo x11,0,1
+Hidden Street : Silent Stillness 1,21,9,10,12,10,69,19000,342,3420,Wild Kargo x10,0,1
+Cursed Temple : Temple Entrance,21,8,8,12,8,69,19000,342,2736,Wild Kargo x8,0,1
+Drake Cave : Chilly Cave,19,15,24,24,26,68,18000,329,7896,Ice Drake x26,0,0
+Drake Cave : Cold Wind,19,14,22,22,25,68,18000,329,7238,Ice Drake x25,0,0
+Drake Cave : Cave Cliff,14,17,21,21,28,68,18000,329,6909,Red Drake x28,0,0
+Drake Cave : Sunless Area,17,10,21,21,23,67,17000,316,6636,Drake x23,0,0
+Swamp : Silent Swamp,16,15,22,22,23,66,16000,302,6644,Copper Drake x23,0,0
+Swamp : Humid Swamp,21,8,21,22,21,66,16000,302,6342,Copper Drake x21,0,0
+Dark Cave : Ant Tunnel Square 2,34,20,40,40,97,65,15000,289,11560,"Zombie Mushroom x85,Annoyed Zombie Mushroom x12",0,0
+Dark Cave : Ant Tunnel Square 1,34,27,40,40,50,65,15000,289,11560,"Zombie Mushroom x14,Annoyed Zombie Mushroom x36",0,0
+Excavation Site : Prohibited Area,18,12,18,18,19,65,15000,289,5202,Skeleton Commander x19,0,0
+Viking Airship : Galley,30,5,11,18,11,65,15000,289,3179,Master Squid x11,0,0
+Excavation Site : Closed Area,19,16,26,28,28,64,14200,278,7228,Skeleton Officer x28,0,0
+Excavation Site : Military Camp 3,10,20,19,20,22,64,14200,278,5282,Skeleton Officer x22,0,0
+Viking Airship : Ship Deck 2,21,10,12,13,12,64,14200,278,3336,Serious Viking x12,0,0
+Viking Airship : Up In the Sails,9,14,12,12,16,64,14200,278,3336,"Solemn Viking x5,Serious Viking x11",0,0
+Viking Airship : Ship Deck 1,21,9,12,12,12,64,14200,278,3336,Solemn Viking x12,0,0
+Dungeon : Drake's Meal Table,22,33,34,40,37,63,16954,307,10438,"Red Drake x21,Wild Kargo x13,Bob x3",0,0
+Excavation Site : Excavation Danger Zone,16,16,27,28,28,63,13400,266,7182,Skeleton Soldier x28,0,0
+Mushroom Castle : Castle Wall 1,22,14,17,26,17,63,13400,266,4522,Warm Viking x17,0,0
+Excavation Site : Military Camp 2,9,16,16,16,18,63,13400,266,4256,Skeleton Soldier x18,0,0
+Mushroom Castle : Castle Wall 2,26,14,15,28,15,63,13400,266,3990,"Warm Viking x7,Generous Viking x8",0,0
+Mushroom Castle : Castle Wall 3,24,14,15,23,15,63,13400,266,3990,Generous Viking x15,0,0
+Excavation Site : Military Camp 1,9,17,21,22,21,62,12600,256,5376,"Skeledog x5,Mummydog x16",0,0
+Excavation Site : Excavation Intermission Area,16,10,20,20,28,62,12600,256,5120,"Skeledog x17,Mummydog x11",0,0
+Mushroom Castle : On the Castle Walls 2,28,13,18,29,18,62,12600,256,4608,"Exhausted Viking x8,Tired Viking x10",0,0
+Mushroom Castle : On the Castle Walls 3,28,13,16,25,16,62,12600,256,4096,Tired Viking x16,0,0
+Korean Folk Town : Fox Ridge,21,9,16,16,20,62,12600,256,4096,Samiho x20,0,0
+Hidden Street : Moon Ridge,17,8,13,14,18,62,12600,256,3328,Samiho x18,0,0
+Mushroom Castle : On the Castle Walls 1,30,12,11,20,12,62,12600,256,2816,Exhausted Viking x12,0,0
+Excavation Site : Excavation Completion Area,19,10,15,15,21,61,11800,245,3675,Rocky Mask x21,0,0
+Mushroom Castle : Castle Corridor 2,33,5,13,18,13,61,11800,245,3185,Mushroom Knight Armor x13,0,0
+Eternal Forest : Forest Depths 4,27,7,22,24,22,60,5500,194,4268,Bramble x22,0,0
+Excavation Site : Initial Excavation Area,19,10,14,14,18,60,11000,233,3262,Wooden Mask x18,0,0
+Mushroom Castle : Castle Corridor 1,33,5,13,18,13,60,11000,233,3029,Mushroom Chandelier x13,0,0
+Zipangu : Encounter with the Buddha,28,3,13,13,18,60,7275,209,2717,"Samiho x4,Bamboo Warrior x1(2400),Bamboo Warrior x1(3600),Water Goblin x12",0,0
+Burnt Land : Ash-Covered Land,25,10,30,30,35,58,9800,215,6450,Fire Boar x35,0,0
+Burnt Land : Burning Heat,23,12,19,19,20,57,9530,210,3990,"Fire Boar x11,Iron Boar x9",0,0
+Burnt Land : Armor Pig Land,22,13,18,19,18,57,9200,206,3708,Iron Boar x18,0,0
+Zipangu : Vanished Village,28,3,15,15,26,57,7196,198,2970,"Samiho x8,Bamboo Warrior x1(2400),Paper Lantern Ghost x4,Water Goblin x12,Water Goblin x1(1)",0,0
+Burnt Land : Wild Pig Land,25,11,25,25,29,56,8600,197,4925,Iron Hog x29,0,0
+Burnt Land : Wild Boar Land,27,11,29,29,38,55,8000,187,5423,"Wild Boar x22,Terrified Wild Boar x16",0,0
+Riena Strait : Glacial Debris,27,9,19,19,19,54,7600,217,4123,Shaver Bot x19,0,1
+Riena Strait : Glacier Melting Camp,22,8,14,14,14,54,7600,217,3038,Warmer Bot x14,0,1
+Ruenna's Home : 2nd Floor Attic 1,20,10,29,29,29,53,7200,210,6090,"Hay Bundle x14,Dust Bundle x15",0,0
+Elodin : Deepening Forest 3,21,9,28,31,31,53,7200,210,5880,Forest Glimmerfox x31,0,0
+Ruenna's Home : 2nd Floor Attic 2,20,9,28,29,29,53,7200,210,5880,Dust Bundle x29,0,0
+Ruenna's Home : First Floor Corridor,20,10,28,29,29,53,7200,210,5880,Hay Bundle x29,0,0
+Elodin : Twilit Forest 4,21,9,26,28,28,53,7200,210,5460,Deep Spring Sprite x28,0,0
+Elodin : Twilit Forest 3,21,9,24,26,26,53,7200,210,5040,"Blue Spring Sprite x11,Deep Spring Sprite x15",0,0
+Elodin : Silent Forest,21,9,22,30,30,53,7200,210,4620,"Thorny Bramble x13,Forest Howlet x17",0,0
+Elodin : Deepening Forest 4,21,9,21,24,24,53,7200,210,4410,"Forest Glimmerfox x12,Night Glimmerfox x12",0,0
+Elodin : Shadowy Forest,21,9,19,28,28,53,7200,210,3990,"Thorny Bramble x11,Night Howlet x17",0,0
+Elodin : Deepening Forest 5,21,9,19,23,23,53,7200,210,3990,Night Glimmerfox x23,0,0
+Elodin : Quieting Forest,21,9,18,25,25,53,7200,210,3780,"Thorny Bramble x6,Forest Howlet x10,Night Howlet x9",0,0
+Elodin : Twilit Forest 2,21,7,15,18,18,53,7200,210,3150,Blue Spring Sprite x18,0,0
+Riena Strait : Underwater Ice Cave 2,21,3,11,11,11,53,7200,210,2310,"Possibly-Evil Seal x6,Possibly-Evil Walrus x5",0,1
+Riena Strait : Underwater Ice Cave 1,21,3,10,15,15,53,7200,210,2100,Possibly-Evil Seal x15,0,1
+Riena Strait : Underwater Ice Cave 3,21,3,10,10,10,53,7200,210,2100,Possibly-Evil Walrus x10,0,1
+Riena Strait : Polluted Glacier 1,18,8,16,16,16,52,6800,202,3232,Corrupter Barrel x16,0,1
+Riena Strait : Polluted Glacier 3,19,10,16,16,16,52,6800,202,3232,Polluter Barrel x16,0,1
+Riena Strait : Polluted Glacier 2,18,9,12,12,12,52,6800,202,2424,"Corrupter Barrel x6,Polluter Barrel x6",0,1
+Riena Strait : Fossil Foundry 1,17,8,15,15,15,51,6400,194,2910,Ammonite Grumpil x15,0,1
+Riena Strait : Fossil Foundry 3,17,8,15,15,15,51,6400,194,2910,Fish Grumpil x15,0,1
+Riena Strait : Fossil Foundry 2,17,9,15,15,15,51,6400,194,2910,"Ammonite Grumpil x8,Fish Grumpil x7",0,1
+Hidden Street : Cave within a Cave,38,8,14,14,15,51,6400,162,2268,Firebomb x15,0,1
+Swamp Region : Deep Mire,32,12,33,36,34,50,6000,156,5148,Muddy Sprout Monster x34,0,0
+Swamp Region : Unseen Danger,37,11,30,34,37,49,5760,151,4530,"Muddy Swamp Monster x36,Dyle x1(600)",0,0
+Swamp Region : Dangerous Croco,33,11,29,29,29,47,5280,143,4147,Croco x29,0,0
+Swamp Region : Wild Crocodile Swamp,31,12,31,34,31,46,5040,139,4309,Ligator x31,0,0
+Kerning City Subway : Line 2 Area 2,26,8,24,24,45,45,4800,134,3216,Wraith x45,0,0
+Kerning City Subway : Line 2 Area 3,33,8,22,22,64,45,4800,134,2948,Shade x64,0,0
+Swamp Region : The Swamp of Despair,20,8,21,24,27,45,4800,134,2814,Jr. Necki x27,0,0
+Kerning City Subway : Line 2 <Area 3>,39,11,20,20,69,45,4800,134,2680,"Wraith x68,Shade x1(3600)",0,0
+Kerning City Subway : Line 1 <Area 4>,39,11,20,20,57,45,4800,134,2680,"Wraith x56,Shade x1(3600)",0,0
+Kerning City Subway : Line 1 Area 3,24,8,12,12,37,45,4800,134,1608,Wraith x37,0,0
+Land of the Dead : Neglected Cemetary,26,7,9,10,9,45,4800,134,1206,Lost Specter x9,1,1
+Land of the Dead : Neglected Cemetary,26,7,9,10,9,45,4800,134,1206,Lost Specter x9,1,1
+Land of the Dead : Grave of the Wandering Dead,26,8,6,10,6,45,4800,134,804,Lost Specter x6,1,1
+Land of the Dead : Grave of the Wandering Dead,26,8,6,10,6,45,4800,134,804,Lost Specter x6,1,1
+Kerning City Subway : Line 1 Area 1,24,8,16,16,44,44,4600,131,2096,Jr. Wraith x44,0,0
+Zipangu : A Night in the Forest,32,3,15,17,16,44,4040,128,1920,"Samiho x3,Bamboo Warrior x1(2400),Paper Lantern Ghost x5,Paper Lantern Ghost x7(1)",0,0
+Kerning City Subway : Line 2 Area 1,22,8,12,12,50,44,4600,131,1572,Jr. Wraith x50,0,0
+Kerning City Subway : Line 1 Area 2,25,9,11,11,76,44,4668,131,1441,"Stirge x13,Jr. Wraith x24,Wraith x39",0,0
+Kerning City Subway : Transfer Area,14,17,13,13,43,43,4506,129,1677,"Stirge x20,Jr. Wraith x23",0,0
+Kerning City Subway : Along the Railway,19,8,9,9,23,43,4400,127,1143,Stirge x23,0,0
+Elodin : Deepening Forest 2,21,9,24,27,27,42,4607,151,3624,"Deep Forest Wisp x14,Forest Glimmerfox x13",0,0
+Abandoned Offices : Mr. Hazard's Lair 3,29,11,21,30,21,42,4200,124,2604,Hazard's Mean Crony x21,0,0
+Gold Beach : Hardwave Beach,24,8,14,14,14,42,4200,124,1736,Seashell Octopus Slime x14,0,0
+South Pantheon : Heretic Temple 3,22,12,24,24,30,41,7680,162,3888,Heretic Leader x30,0,0
+East Pantheon : Enchanted Forest,19,9,17,17,23,41,8242,155,2635,Gravi Stonegar x23,0,0
+Gold Beach : Softwave Beach 2,24,8,18,18,18,41,4000,119,2142,Starfish Octopus Slime x18,0,0
+South Pantheon : Heretic Temple 2,26,12,28,28,38,40,7440,157,4396,Heretic Monk Apprentice x38,0,0
+Abandoned Offices : Mr. Hazard's Lair 2,29,11,25,30,25,40,3992,119,2975,"Hazard's Rotten Crony x13,Hazard's Mean Crony x12",0,0
+South Pantheon : Anti-Magic Forest,19,9,16,17,23,40,7892,149,2384,Onyx Stonegar x23,0,0
+Abandoned Offices : Mr. Hazard's Lair 1,29,9,17,24,17,40,3800,115,1955,Hazard's Rotten Crony x17,0,0
+Gold Beach : Softwave Beach 1,24,8,17,17,17,40,3800,115,1955,Flying Fish Slime x17,0,0
+South Pantheon : Heretic Temple 1,20,11,17,17,35,39,7098,148,2516,Heretic Monk Initiate x35,0,0
+Gold Beach : Shallow Sea 3,24,8,17,17,17,39,3600,112,1904,Shrimp Slime x17,0,0
+Gold Beach : Shallow Sea 1,24,9,15,15,15,38,3400,107,1605,Red Tube Slime x15,0,0
+Gold Beach : Shallow Sea 2,24,8,14,14,14,38,3400,107,1498,Blue Tube Slime x14,0,0
+Brawl 'n' Bash Club : Stray Dog Alley 2,29,10,36,40,36,37,3200,103,3708,Mutant Specter Stray Dog x36,0,0
+Gold Beach : Gold Beach Seaside 3,24,7,16,17,17,37,3200,103,1648,Seagull Slime x17,0,0
+Gold Beach : Gold Beach Seaside 2,24,6,17,17,17,36,3000,100,1700,Violet Clam Slime x17,0,0
+Gold Beach : Gold Beach Seaside 1,24,6,14,14,14,36,3000,100,1400,Emerald Clam Slime x14,0,0
+Mandraky Field : Onion Farm,21,8,24,26,26,35,2800,114,2736,Oniony x26,0,0
+Mandraky Field : Turnip Plantation,16,9,19,22,22,35,2800,114,2166,Turnipy x22,0,0
+Gold Beach : Beachgrass Dunes 3,24,6,16,16,16,35,2800,95,1520,Palm Tree Slime x16,0,0
+Gold Beach : Beachgrass Dunes 2,24,8,15,16,16,35,2800,95,1425,"Palm Tree Slime x5,Coconut Slime x11",0,0
+Dry Road : Ore Trail,20,9,12,15,12,35,2800,95,1140,Big Boulder Muncher x12,0,0
+Gold Beach : Beachgrass Dunes 1,24,6,11,11,11,35,2800,95,1045,Coconut Slime x11,0,0
+Ellinel Fairy Academy : Third Floor: Library,33,8,32,32,32,34,2600,108,3456,Raging Tome x32,0,0
+Ellinel Fairy Academy : Third Floor: Corridor,20,8,15,15,15,34,2600,108,1620,Raging Tome x15,0,0
+Ellinel Fairy Academy : Second Floor: Corridor,33,8,28,28,28,33,2400,103,2884,Grumpy Tome x28,0,0
+Black Market : Nutria Gutter 2,30,11,31,32,31,33,2400,86,2666,Mutant Nutria x31,0,0
+Ellinel Fairy Academy : Second Floor: Library,22,8,21,21,21,33,2400,103,2163,Grumpy Tome x21,0,0
+Dry Road : Rocky Road,20,6,14,15,14,33,2400,86,1204,Baby Boulder Muncher x14,0,0
+Ellinel Lake : Above the Lake 2,24,8,29,29,29,32,2200,97,2813,"Water Sprite x23,Mystic Wisp x6",0,0
+Ellinel Lake : Above the Lake 3,24,8,27,30,30,32,2200,97,2619,Mystic Wisp x30,0,0
+Elodin : Deepening Forest 1,21,9,22,28,28,32,2200,97,2134,Deep Forest Wisp x28,0,0
+Garbage Dump : Shaded Dump Site,22,8,23,24,23,32,2591,86,1978,"Dumpy Hoodlum x21,Smashed Garbage x1,Crushed Garbage x1",0,0
+Ellinel Lake : Above the Lake 1,16,7,16,18,18,32,2200,97,1552,"Water Sprite x11,Forest Sprite x7",0,0
+Ravaged Base Remnants : Ravaged Western Base 3,26,10,11,11,22,32,2200,82,902,Illusion Soldier B x22,0,0
+Midsummer Night's Forest : Radiant Lake Path 3,24,8,24,26,26,31,1980,91,2184,Fairy Slime x26,0,0
+Dry Road : Road to the Mine 2,20,10,14,14,16,31,1980,77,1078,Safety First x16,0,0
+Ravaged Base Remnants : Ravaged Western Base 2,26,10,11,11,22,31,2000,77,847,"Illusion Soldier A x11,Illusion Soldier B x11",0,0
+Brawl 'n' Bash Club : Stray Dog Alley 1,29,10,33,38,33,30,1800,72,2376,Specter Stray Dog x33,0,0
+Midsummer Night's Forest : Radiant Lake Path 2,18,9,24,25,25,30,1872,88,2112,"Firefly Slime x15,Fairy Slime x10",0,0
+Midsummer Night's Forest : Radiant Lake Path 1,16,8,19,19,19,30,1800,86,1634,Firefly Slime x19,0,0
+Handsome Monk's Temple : Inside the Temple 3,25,7,22,22,24,30,1800,72,1584,Vicious Sewer Rat x24,0,0
+Handsome Monk's Temple : Inside the Temple 4,25,7,22,22,24,30,1800,72,1584,Vicious Sewer Rat x24,0,0
+Toolen City : 4th Floor Storage 3,26,9,19,24,19,30,1800,72,1368,Adept Drakas x19,0,0
+Toolen City : 4th Floor Storage 2,26,8,16,24,16,30,1358,72,1152,"Skilled Drakas x7,Adept Drakas x9",0,0
+Victoria Road : Training Center 3,30,7,18,18,20,30,900,60,1080,Shadow Blade Lord x20,1,1
+Ristonia : Tragic Rampart 1,34,8,15,15,28,30,1800,72,1080,Count's Swordsman x28,0,0
+Ristonia : Tragic Rampart 2,34,8,15,15,28,30,1800,72,1080,"Count's Wizard x14,Count's Swordsman x14",0,0
+Ristonia : Tragic Rampart 3,34,8,15,15,28,30,1800,72,1080,Count's Wizard x28,0,0
+Toolen City : 4th Floor Storage 1,26,7,14,24,14,30,790,72,1008,Skilled Drakas x14,0,0
+Ravaged Base Remnants : Ravaged Western Base 1,26,9,11,11,22,30,1800,72,792,Illusion Soldier A x22,0,0
+Ravaged Base Remnants : Ravaged Eastern Base 3,26,9,11,11,22,30,1800,72,792,Reaper Specter x22,0,0
+East Pantheon : Suspicious Hideout Interior 3,22,11,20,20,30,29,1491,69,1380,Nefarious Monk Master x30,0,0
+Narin : Hushed Back Alley 4,27,7,20,23,20,29,790,56,1120,Sticky Leaf Fly x20,0,0
+North Forest : Where the Forest Ends,11,20,19,26,19,29,790,56,1064,Surgeon Eye x19,0,0
+Narin : Hushed Back Alley 2,27,8,16,23,16,29,790,56,896,Gluey Leaf Fly x16,0,0
+Ravaged Base Remnants : Ravaged Eastern Base 2,26,10,11,11,22,29,1260,62,682,"Warrior Specter x11,Reaper Specter x11",0,0
+North Forest : Young Tree Forest,13,13,12,15,12,29,790,56,672,Surgeon Eye x12,0,0
+East Forest : Where the Sky Smiles,27,14,37,37,49,28,720,53,1961,Cold Eye x49,0,0
+East Pantheon : Suspicious Hideout Interior 2,26,13,26,30,28,28,1411,67,1742,Nefarious Monk Apprentice x28,0,0
+Fox Ridge : Tail Valley 2,35,14,30,40,30,28,720,53,1590,Fang Hyena x30,0,1
+Toolen City : West Side 3,24,12,26,27,26,28,720,53,1378,Huge Biter x26,0,0
+Desert Cavern : Desert Cavern 3,26,9,24,24,24,28,720,53,1272,Sand Armor x24,0,0
+Narin : Hushed Back Alley 3,27,7,22,23,22,28,720,53,1166,Shade-Seeking Sphere x22,0,0
+Dry Road : Road to the Mine 1,26,12,18,21,18,28,720,64,1152,Patrol Robot S x18,0,0
+Narin : Hushed Back Alley 1,30,8,21,26,21,28,720,53,1113,Sunlight-Seeking Sphere x21,0,0
+North Forest : North Forest Lot,12,11,13,14,13,28,720,53,689,Cold Eye x13,0,0
+North Forest : Tree Trunk Nest 2,12,28,13,13,17,28,720,53,689,Cold Eye x17,0,0
+Garbage Dump : Waste Treatment Plant 3,22,10,29,29,30,27,764,52,1508,"Scrap Iron Waste x28,Smashed Garbage x1,Crushed Garbage x1",0,0
+East Forest : Where the Soil Sleeps,18,17,30,30,45,27,650,50,1500,Curse Eye x45,0,0
+Sanctuary : Village Lower Road,24,14,30,30,30,27,650,50,1500,Blue Larimar x30,0,0
+Toolen City : West Side 2,24,12,26,27,26,27,682,51,1326,"Bulky Biter x14,Huge Biter x12",0,0
+East Pantheon : Suspicious Hideout Interior 1,20,11,19,19,24,27,1276,65,1235,Nefarious Monk Initiate x24,0,0
+Sanctuary : Village Upper Road,29,14,23,39,23,27,650,50,1150,Blue Larimar x23,0,0
+Partem : Ruins Guardian Way 2,28,9,20,25,20,27,650,50,1000,Ruins Sentinel x20,0,0
+Cheong-woon Valley : Deadly Crock Territory,26,10,20,22,20,27,650,50,1000,Jar of Stagnant Water x20,0,0
+Desert Cavern : Desert Cavern 4,26,9,20,21,20,27,650,50,1000,"Sand Helm x10,Sand Armor x10",0,0
+Desert Cavern : Desert Cavern 2,19,9,20,20,21,27,653,50,1000,"Sand Helm x10,Sand Armor x11",0,0
+Toolen City : West Side 1,20,12,17,22,17,27,650,50,850,Bulky Biter x17,0,0
+North Forest : Tree Trunk Nest 1,12,28,13,13,18,27,650,50,650,Curse Eye x18,0,0
+North Forest : Green Tree Trunk,16,16,11,30,11,27,650,50,550,Curse Eye x11,0,0
+Ravaged Base Remnants : Ravaged Eastern Base 1,26,10,11,11,22,27,650,50,550,"Magician Specter x11,Warrior Specter x11",0,0
+Zipangu : Mushroom Forest,27,14,28,31,28,26,100,47,1316,Mecha Gunner Prototype x28,0,0
+Fox Ridge : Tail Valley 1,31,12,26,37,26,26,580,47,1222,Mane Fur Hyena x26,0,1
+Narin : Windbloom Ridge Knoll 3,27,9,23,23,23,26,580,47,1081,Flower Drift Bunny x23,0,0
+Sanctuary : Eastern Radiant Forest 2,21,14,22,23,22,26,580,47,1034,Shining Vinegold x22,0,0
+Sanctuary : Eastern Radiant Forest 1,26,11,21,21,30,26,580,47,987,Shining Vinegold x30,0,0
+Toolen City : 2nd Floor Storage 3,26,9,20,24,20,26,580,47,940,Guard Robot C1-49 x20,0,0
+Desert Cavern : Desert Cavern 1,26,9,19,24,19,26,580,47,893,Sand Helm x19,0,0
+East Forest : Where Trees Dance,16,13,19,19,31,26,580,47,893,Evil Eye x31,0,0
+Zipangu : Crow Forest 2,19,17,16,16,38,26,643,49,784,"Crow x26,Fire Raccoon x3,Cloud Fox x9",0,0
+North Forest : Giant Tree,14,20,13,28,13,26,580,47,611,Evil Eye x13,0,0
+Garbage Dump : Waste Treatment Plant 2,22,13,29,29,29,25,570,45,1305,"Flame Waste x28,Crushed Garbage x1",0,0
+Sanctuary : Western Radiant Forest 1,23,14,26,29,26,25,525,44,1144,Shining Gold x26,0,0
+Partem : Ruins Guardian Way 1,28,8,21,27,22,25,525,44,924,Ruins Guardian x22,0,0
+Sanctuary : Radiant Forest Entrance,21,13,20,20,22,25,525,44,880,Shining Gold x22,0,0
+Sanctuary : Western Radiant Forest 2,20,12,18,22,19,25,525,44,792,Shining Gold x19,0,0
+Victoria Road : Training Center 2,30,7,18,18,21,25,525,44,792,Giant Shadow Blade x21,0,1
+Concrete Road : Streetlight Row,20,6,12,15,12,25,525,53,636,Streetlight x12,0,0
+Fox Ridge : Arumaru Valley 2,34,12,26,40,26,24,495,42,1092,Punk Chick x26,0,1
+East Pantheon : East Pantheon Forest,17,12,18,18,35,24,990,57,1026,Kaloong x35,0,0
+Handsome Monk's Temple : Inside the Temple 1,25,7,22,22,24,24,495,42,924,Sewer Rat x24,0,0
+Handsome Monk's Temple : Inside the Temple 2,25,7,22,22,24,24,495,42,924,Sewer Rat x24,0,0
+Cheong-woon Valley : Suspicious Gourd Field 3,26,10,20,22,20,24,495,42,840,Chunky Striped Gourd x20,0,0
+Zipangu : Wandermush Forest,26,14,18,26,18,24,495,45,810,Mecha Ninja Prototype x18,0,0
+Sandstorm Zone : Sandstorm Zone 2,27,10,12,12,20,24,495,42,504,Ferocious Gale Fox x20,0,0
+Sanctuary : Outskirts of Town,25,11,11,11,20,24,495,12,132,"Sanctuary Mytocrystal x6,Sanctuary Mytocrystal x6,Sanctuary Mytocrystal x8",0,0
+North Rocky Mountain : Gusty Peak,25,12,36,36,42,23,479,48,1728,"Ghost Stump x22,Smirking Ghost Stump x20",0,0
+North Pantheon : Grumpy Grobbler Habitat,19,9,17,17,26,23,930,54,918,Grumpy Grobbler x26,0,0
+Toolen City : 2nd Floor Storage 2,26,9,20,24,20,23,477,41,820,"Guard Robot D2-78 x10,Guard Robot C1-49 x10",0,0
+Partem : Land of Sparkinstone Bugs,27,9,20,22,20,23,465,40,800,Sparkinstone Bugs x20,0,0
+Crystal Academy : Lecture Room Interior,22,8,19,19,20,23,465,40,760,Dark Obsidian x20,0,0
+Erimos : Near the Desert 3,26,12,18,18,18,23,465,40,720,Menacing Outlaw x18,0,0
+Hidden Street : First Time Together <1st Stage>,19,17,16,17,22,23,558,32,512,Ligator x22,1,1
+Fox Ridge : Arumaru Valley 1,32,13,26,40,26,22,435,39,1014,Delinquent Chick x26,0,1
+South Pantheon : Radiant Rock Forest,19,9,18,18,25,22,870,51,918,Amethyst Tokka x25,0,0
+Partem : Creepy Crawly Copse End,27,9,20,22,20,22,435,38,760,"Log-a-Rhythmic Bugs x10,Sparkinstone Bugs x10",0,0
+Garbage Dump : Waste Treatment Plant 1,22,10,20,20,26,22,458,38,760,"Ooze Waste x25,Crushed Garbage x1",0,0
+Zipangu : The Wounded Forest,26,11,18,28,18,22,435,42,756,Mecha Warrior Prototype x18,0,0
+Concrete Road : Edelstein Strolling Path 4,26,9,15,16,15,22,435,39,585,Dust Box x15,0,0
+Sandstorm Zone : Sandstorm Zone 1,27,10,12,12,22,22,435,39,468,Gale Fox x22,0,0
+East Forest : Where the Sun Rises,28,20,40,40,54,21,405,44,1760,Axe Stump x54,0,0
+North Pantheon : North Pantheon Plains,29,11,30,30,36,21,810,49,1470,Laloong x36,0,0
+North Rocky Mountain : Big Rocky Road,18,16,28,28,31,21,414,44,1232,"Axe Stump x21,Dark Axe Stump x10",0,0
+North Rocky Mountain : Rugged Rocky Zone,19,13,25,25,29,21,429,45,1080,"Axe Stump x5,Dark Axe Stump x24",0,0
+East Forest : Where the Forest Sings,25,12,22,22,45,21,405,44,968,Axe Stump x45,0,0
+Black Market : Shaded Black Market,30,9,22,24,22,21,405,37,814,Market Hoodlum x22,0,0
+Cheong-woon Valley : Suspicious Gourd Field 2,26,10,20,22,20,21,410,37,740,"Rolling Gourd x10,Chunky Striped Gourd x10",0,0
+Partem : Land of Log-a-Rhythmic Bugs,27,9,20,22,20,21,405,37,740,Log-a-Rhythmic Bugs x20,0,0
+Zipangu : Momijigahara 2,18,9,19,19,32,21,405,37,703,Oda Warrior x32,0,0
+Erimos : Near the Desert 2,26,11,18,18,18,21,405,37,666,Enraged Outlaw x18,0,0
+Ristonia : Underground Passage 2,31,7,14,14,28,21,405,37,518,Torchlighter x28,0,0
+Ristonia : Underground Passage 3,31,7,14,14,28,21,405,37,518,Torchlighter x28,0,0
+Ristonia : Underground Passage 1,31,9,14,14,23,21,405,37,518,Torchlighter x23,0,0
+Sanctuary : Western Crystal Forest 3,17,9,13,18,13,21,405,37,481,Fire Pyrope x13,0,0
+Sanctuary : Western Crystal Forest 1,21,9,10,19,10,21,405,37,370,Fire Pyrope x10,0,0
+Sanctuary : Western Crystal Forest 2,17,11,7,7,13,21,405,37,259,Fire Pyrope x13,0,0
+South Pantheon : South Pantheon Plains,28,12,32,32,46,20,700,48,1536,Alert Grobbler x46,0,0
+East Forest : Windy Place,31,17,40,40,55,20,300,30,1200,Sparrow x55,0,0
+Narin : Sunbend Hill 3,33,10,29,29,30,20,375,35,1015,Flower Wing x30,0,0
+North Rocky Mountain : Perion Northern Ridge,21,14,27,27,31,20,375,35,945,Stump x31,0,0
+Fox Ridge : Blossom Valley 2,28,12,25,31,25,20,375,35,875,Green Poison Frog x25,0,1
+Narin : Windbloom Ridge Knoll 2,27,9,23,23,23,20,414,36,828,"Flower Field Bunny x10,Flower Drift Bunny x13",0,0
+Fox Ridge : Blossom Valley 1,27,13,22,34,24,20,375,35,770,Red Poison Frog x24,0,1
+East Forest : Where the Birds Chirp,25,12,25,25,34,20,300,30,750,Sparrow x34,0,0
+Refuge Outskirts : Refuge North 3,27,9,21,24,21,20,375,35,735,Bomber Hermit Crab x21,0,0
+Crystal Academy : Empty Lecture Room Interior,22,8,19,19,21,20,375,35,665,Tainted Practice Robot x21,0,0
+Victoria Road : Training Center 1,30,7,18,18,21,20,375,35,630,Shadow Dual Blade x21,0,1
+North Rocky Mountain : Dusty Wind Hill,18,13,17,22,24,20,375,35,595,Dark Stump x24,0,0
+Zipangu : Momijigahara 1,18,8,16,19,25,20,375,35,560,Oda Guardsman x25,0,0
+Concrete Road : Edelstein Strolling Path 3,20,9,12,13,12,20,375,35,420,Water Thief Monster x12,0,0
+Toolen City : 2nd Floor Storage 1,26,9,12,12,20,20,375,35,420,Guard Robot D2-78 x20,0,0
+North Rocky Mountain : Mini Rocky Road,15,13,9,9,14,20,385,38,342,"Dark Stump x9,Axe Stump x5",0,0
+Ristonia : Art Street 4,33,11,31,31,53,19,350,33,1023,Monstrous News Machine x53,0,0
+Ristonia : Art Street 5,33,10,31,31,47,19,350,33,1023,Monstrous News Machine x47,0,0
+Partem : Chargin' Sprout Area,27,9,20,22,20,19,350,33,660,Chargin' Sprout x20,0,0
+Eternal Forest : Forest Depths 6,23,8,20,20,21,19,350,33,660,Illusionary Hedgehog x21,0,0
+Zipangu : Maple Hill Road 2,19,11,19,19,29,19,350,33,627,Oda Advanced Scout x29,0,0
+Erimos : Near the Desert 1,26,13,17,17,17,19,350,33,561,Suspicious Outlaw x17,0,0
+Golem's Temple : Golem's Temple 3,19,9,12,12,18,19,350,39,468,Flaming Mixed Golem x18,0,0
+Fox Ridge : Tear Rock Hill 3,33,11,33,33,35,18,325,32,1056,Balloon Mouse x35,0,1
+Black Market : Nutria Gutter 1,30,9,26,27,26,18,325,32,832,Nutria x26,0,0
+Refuge Outskirts : Refuge North 2,27,9,23,24,23,18,348,33,759,"Crystal Hermit Crab x12,Bomber Hermit Crab x11",0,0
+Cheong-woon Valley : Suspicious Gourd Field 1,26,9,20,22,20,18,325,32,640,Rolling Gourd x20,0,0
+Golem's Temple : Golem's Temple 2,16,9,12,12,17,18,325,38,456,Icy Mixed Golem x17,0,0
+Concrete Road : Serpent Path,16,9,13,13,13,18,325,32,416,Serpent x13,0,0
+Refuge Outskirts : Refuge North 1,27,9,12,12,22,18,325,32,384,Crystal Hermit Crab x22,0,0
+Sanctuary : Eastern Crystal Forest 1,49,12,40,40,61,17,300,30,1200,Purple Amethyst x61,0,0
+Sanctuary : Eastern Crystal Forest 3,49,9,40,40,50,17,300,30,1200,Purple Amethyst x50,0,0
+Fox Ridge : Tear Rock Hill 2,34,13,30,40,30,17,308,30,900,"Sparrow x10,Balloon Mouse x20",0,1
+Sanctuary : Eastern Crystal Forest 2,49,11,25,25,62,17,300,30,750,Purple Amethyst x62,0,0
+Partem : Hoppin' Sprout Area,27,9,20,22,20,17,300,30,600,Hoppin' Sprout x20,0,0
+Eternal Forest : Forest Depths 5,23,7,20,20,20,17,300,30,600,Illusionary Raccoon x20,0,0
+Zipangu : Maple Hill Road 1,18,10,19,19,24,17,300,30,570,Oda Scout x24,0,0
+Golem's Temple : Golem's Temple 4,19,9,13,13,14,17,300,30,390,Mixed Golem x14,0,0
+Fox Ridge : Tear Rock Hill 1,30,11,22,31,24,16,275,28,616,Sparrow x24,0,1
+Refuge Outskirts : Refuge South 4,24,9,19,22,19,16,275,28,532,Crystal Sand Tortoise x19,0,0
+Concrete Road : Edelstein Strolling Path 2,20,9,14,17,14,16,275,28,392,Strange Sign x14,0,0
+Golem's Temple : Golem's Temple 1,17,9,10,12,15,16,275,28,280,Dark Stone Golem x15,0,0
+Ristonia : Art Street 3,33,11,33,33,59,15,273,27,891,"Town Square Pot x30,Monstrous News Machine x29",0,0
+Garbage Dump : Hedgehog Prickleyard 3,22,12,29,30,29,15,282,27,783,"Mutant Hedgehog x28,Smashed Garbage x1",0,0
+South Pantheon : Orange Forest,17,12,20,20,33,15,500,38,760,Limestone Tokka x33,0,0
+Narin : Sunbend Hill 2,27,10,23,23,33,15,261,26,598,"Sprout Silkworm x15,Flower Wing x18",0,0
+Zipangu : Training Dojo 3,34,3,21,21,21,15,250,26,546,Conjureye x21(5),0,0
+Cheong-woon Valley : Chaotic Crock Territory 3,26,9,20,23,20,15,250,26,520,Broken Sikhye Crock x20,0,0
+Partem : Forest of Toxiblossoms,27,9,20,22,20,15,250,26,520,Toxiblossom x20,0,0
+Eternal Forest : Ocean Cliff Edge 1,23,8,20,20,20,15,250,26,520,Illusionary Chipmunk x20,0,0
+Lumiere : Training Deck 2,28,6,19,25,19,15,250,26,494,Jr. Boogie x19,0,1
+Chimney Tree : Chimney Tree Top,14,17,14,16,15,15,250,31,434,Royal Fairy x15,0,0
+South Rocky Mountain : Perion Southern Ridge,25,12,15,15,17,15,250,26,390,Jr. Boogie x17,0,0
+Erimos : Borderlands 3,26,10,11,11,16,15,250,26,286,Dangerous Marauder x16,0,0
+Dungeon : Sleepy Dungeon IV,12,29,10,25,10,15,255,26,260,"Stone Golem x8,Dark Stone Golem x2",0,0
+Golem's Temple : Golem's Temple Entrance,22,10,7,10,7,15,250,26,182,Stone Golem x7,0,0
+Garbage Dump : Hedgehog Prickleyard 2,22,12,36,36,38,14,246,24,864,"Hedgehog x18,Mutant Hedgehog x18,Smashed Garbage x1,Crushed Garbage x1",0,0
+Singing Mushroom Forest : Blue Mushroom Forest 2,24,14,25,25,28,14,234,24,600,"Blue Mushroom x17,Crying Blue Mushroom x11",0,0
+Fox Ridge : Eclipse Hill 3,31,12,23,34,24,14,225,24,552,Lady Bug x24,0,1
+Zipangu : Training Dojo 2,34,3,22,22,22,14,225,24,528,Onieye x22(5),0,0
+Refuge Outskirts : Refuge South 3,27,9,20,22,20,14,225,24,480,Sand Tortoise x20,0,0
+Crystal Academy : Training Room Interior,22,8,20,20,25,14,225,24,480,Moving Practice Robot x25,0,0
+Partem : Toxipudge Meadow,27,9,19,22,20,14,225,24,456,"Pudgy Flower x10,Toxiblossom x10",0,0
+Singing Mushroom Forest : Blue Mushroom Forest,24,8,15,15,29,14,231,24,360,"Blue Mushroom x22,Crying Blue Mushroom x7",0,0
+Concrete Road : Edelstein Strolling Path,19,8,13,16,13,14,225,24,312,Patrol Robot x13,0,0
+Singing Mushroom Forest : Gentle Breeze Forest,14,11,13,13,16,14,232,24,312,"Blue Mushroom x11,Crying Blue Mushroom x5",0,0
+Singing Mushroom Forest : Blue Mushmom Forest,15,10,6,6,18,14,225,24,144,Blue Mushroom x18,0,0
+West Pantheon : West Pantheon Plains,29,12,31,32,46,13,350,32,992,Sleepy Grobbler x46,0,0
+East Pantheon : East Pantheon Plains,28,11,23,27,28,13,350,32,736,Sleepy Grobbler x28,0,0
+Ristonia : Art Street 1,33,10,31,31,68,13,200,23,713,Town Square Pot x68,0,0
+Ristonia : Art Street 2,33,9,31,31,58,13,200,23,713,Town Square Pot x58,0,0
+Fox Ridge : Eclipse Hill 1,33,11,28,33,30,13,200,23,644,Caterpillar x30,0,1
+Fox Ridge : Eclipse Hill 2,29,11,28,30,30,13,210,23,644,"Caterpillar x17,Lady Bug x13",0,1
+Narin : Windbloom Ridge Knoll 1,27,9,23,23,24,13,200,23,529,Flower Field Bunny x24,0,0
+Zipangu : Training Dojo 1,34,3,22,22,22,13,200,23,506,Floateye x22(5),0,0
+Fairy Forest : Elven Training Ground 3,20,12,20,23,20,13,200,23,460,Puppetree 3 x20,0,0
+Cheong-woon Valley : Chaotic Crock Territory 2,26,9,20,23,20,13,216,23,460,"Sikhye Crock x9,Broken Sikhye Crock x11",0,0
+Partem : Forest of Pudgy Flowers,27,9,20,22,20,13,200,23,460,Pudgy Flower x20,0,0
+Toolen City : East Side 3,20,12,18,22,18,13,200,23,414,Nimble Biter x18,0,0
+Chimney Tree : Close to the Sky,16,18,13,27,13,13,200,27,351,Fairy x13,0,0
+Resistance Headquarters : Training Room D,24,7,13,13,14,13,180,22,286,Training Robot D x14,0,0
+South Rocky Mountain : Rocky Wasteland,20,14,9,9,24,13,203,22,198,"Orange Mushroom x9,Jr. Boogie x15",0,0
+Garbage Dump : Hedgehog Prickleyard 1,22,9,27,29,27,12,214,21,567,"Hedgehog x25,Smashed Garbage x1,Crushed Garbage x1",0,0
+Cheong-woon Valley : Chaotic Crock Territory 1,26,8,20,22,20,12,175,21,420,Sikhye Crock x20,0,0
+Eternal Forest : Forest Depths 3,23,7,20,20,21,12,175,21,420,Illusionary Skylark x21,0,0
+Refuge Outskirts : Refuge South 2,24,8,16,22,16,12,175,21,336,Ferocious Desert Mush x16,0,0
+Singing Mushroom Forest : Windflower Forest,16,13,16,16,24,12,186,21,336,"Horny Mushroom x13,Berserk Horny Mushroom x11",0,0
+Erimos : Borderlands 2,23,8,16,16,16,12,175,21,336,Ferocious Marauder x16,0,0
+Zipangu : Cherry Blossom Forest 1,19,17,5,16,5,12,175,21,105,Thorn Mushroom x5,0,0
+Toolen City : East Side 2,24,14,26,36,26,11,159,19,494,"Agile Biter x14,Nimble Biter x12",0,0
+Eternal Forest : Forest Depths 2,23,8,20,20,22,11,162,20,400,"Illusionary Bluebird x11,Illusionary Skylark x11",0,0
+Fairy Forest : Elven Training Ground 2,20,12,17,22,17,11,150,19,323,Puppetree 2 x17,0,0
+Henesys : Suspicious Hill,17,10,14,14,20,11,150,19,266,Cynical Orange Mushroom x20,0,0
+Eternal Forest : Forest Depths 1,23,8,13,20,13,11,150,20,260,Illusionary Bluebird x13,0,0
+Beach : Ribbon Pig Beach,20,8,13,13,19,11,160,19,247,"Ribbon Pig x10,Blue Ribbon Pig x9",0,0
+Singing Mushroom Forest : Humming Forest Trail,15,12,10,10,21,11,155,19,190,"Green Mushroom x8,Horny Mushroom x13",0,0
+Hidden Street : First Time Together <Bonus>,11,11,9,9,36,11,158,19,171,"Green Mushroom x12,Horny Mushroom x24",1,1
+Construction Site : Caution Falling Down,26,16,32,40,32,10,125,17,544,Octopus x32,0,0
+Ristonia : Secluded Alley 2,33,11,31,31,64,10,125,17,527,Back Alley Cat x64,0,0
+Ristonia : Secluded Alley 3,33,10,31,31,54,10,125,17,527,Back Alley Cat x54,0,0
+Ristonia : Secluded Alley 1,33,9,28,28,56,10,125,17,476,Back Alley Cat x56,0,0
+Narin : Sunbend Hill 1,27,9,23,23,28,10,125,17,391,Sprout Silkworm x28,0,0
+Toolen City : East Side 1,32,12,22,36,22,10,125,17,374,Agile Biter x22,0,0
+Chimney Tree : Close to the Birds,14,20,20,26,20,10,125,17,340,Bubbling x20,0,0
+Fairy Forest : Elven Training Ground 1,20,12,20,23,20,10,125,17,340,Puppetree x20,0,0
+Lumiere : Training Deck 1,28,6,19,23,19,10,125,17,323,Orange Mushroom x19,0,1
+Eternal Forest : Forest Edge 2,23,7,19,20,20,10,125,17,323,Illusionary Rabbit x20,0,0
+Oni Forest : Perilous Path,17,21,19,19,19,10,125,17,323,"Crazed Oni x6(10),Berserk Oni x7(10),Suspicious Oni x6(10)",1,1
+Henesys : The Hill North of Henesys,22,12,18,19,20,10,125,17,306,Orange Mushroom x20,0,0
+Refuge Outskirts : Refuge South 1,27,8,17,22,17,10,125,17,289,Desert Mush x17,0,0
+Erimos : Borderlands 1,23,10,17,17,17,10,125,17,289,Sloppy Marauder x17,0,0
+Henesys : Dreamy Forest Trail,25,13,15,21,15,10,125,17,255,Orange Mushroom x15,0,0
+Singing Mushroom Forest : Spore Hill,19,11,15,15,28,10,125,17,255,Green Mushroom x28,0,0
+Singing Mushroom Forest : Mushmom Forest Trail,19,10,15,15,20,10,125,17,255,Green Mushroom x20,0,1
+Farm Street : Large Forest Trail 2,21,13,13,13,27,10,144,18,234,"Ribbon Pig x6,Strange Pig x21",0,0
+Construction Site : Abandoned Construction Site,28,12,8,8,18,10,125,17,136,"Octopus x10,Orange Mushroom x8",0,0
+Sakura's Treasure : Fox's Bluff,19,16,6,17,6,10,125,17,102,"Crazed Oni x2,Berserk Oni x2,Suspicious Oni x2",1,1
+Sanctuary : Side Road,22,10,21,23,22,9,110,15,315,Green Grossular x22,0,0
+Sanctuary : Crystal Forest Entrance,27,9,13,24,13,9,110,15,195,Green Grossular x13,0,0
+Sanctuary : Academy Side Road,25,8,13,23,13,9,110,15,195,Green Grossular x13,0,0
+Empress' Road : Tiguru's Forest,17,9,11,15,11,9,110,15,165,Tiguru x11,0,0
+Snow Island : Frosty Pass,18,12,10,10,13,9,110,15,150,Murukun x13,0,0
+Empress' Road : Training Forest III,21,9,8,9,8,9,110,15,120,Tiguru x8,0,0
+Way to the Forest : Where the Forest Starts,13,18,16,16,18,8,95,13,208,"Red Snail x7,Orange Mushroom x11",0,0
+Pasture : Way to the Beach,19,11,10,10,16,8,99,14,140,"Pig x9,Orange Mushroom x7",0,0
+Concrete Road : Edelstein Park 3,14,10,9,9,9,8,110,15,135,Grape Juice Bottle x9,0,0
+Pasture : Pig Pasture,21,8,9,9,14,8,96,13,117,"Pig x9,Orange Mushroom x5",0,0
+Farm Street : Farm Center,17,12,8,10,8,8,95,13,104,Stump x8,0,0
+Farm Street : Large Forest Trail,24,12,19,29,20,7,80,12,228,Pig x20,0,0
+Victoria Road : Sunset Sky,28,20,16,16,33,7,93,13,208,"Red Snail x9,Slime x8,Orange Mushroom x16",0,0
+Chimney Tree : Close to the Wind,15,15,17,17,21,7,80,12,204,Slime x21,0,0
+Fairy Forest : Flowery Forest 1,24,9,14,22,14,7,80,12,168,Slime x14,0,0
+Snow Island : Snow-covered Field 3,16,12,14,14,18,7,80,12,168,Murumuru x18,0,0
+Fairy Forest : Flowery Forest 2,16,10,14,14,14,7,80,12,168,Slime x14,0,0
+Empress' Road : Tiru's Forest,16,10,13,14,15,7,80,12,156,Tiru x15,0,0
+Way to the Forest : Shining Forest Path,13,15,12,12,17,7,90,13,156,"Slime x13,Orange Mushroom x4",0,0
+Maple Road : Adventurer Training Center 3,13,8,10,10,15,7,80,12,120,Slime x15,0,1
+Maple Road : Adventurer Training Center 4,13,8,10,10,13,7,80,12,120,Pig x13,0,1
+Utah's House : Back Yard,16,8,6,11,6,7,40,12,72,Treacherous Fox x6,1,1
+Concrete Road : Edelstein Park 2,14,10,9,9,10,6,65,10,90,Potted Morning Glory x10,0,0
+Empress' Road : Timu's Forest,17,11,13,17,14,5,50,8,104,Timu x14,0,0
+Snow Island : Snow-covered Field 2,16,12,12,13,12,5,50,8,96,Murupia x12,0,0
+Empress' Road : Training Forest II,20,11,10,10,20,5,59,9,90,"Timu x14,Tiru x6",0,0
+Concrete Road : Edelstein Park,14,9,9,9,12,5,50,8,72,Potted Sprout x12,0,0
+Port Road : Forest Trail 2,20,9,16,16,16,4,42,7,112,"Spore x5,Red Snail x11",0,0
+Maple Road : Adventurer Training Center 2,15,8,11,11,16,4,35,6,66,Red Snail x16,0,1
+Maple Road : Adventurer Training Center 1,14,9,10,10,15,4,35,6,60,Stump x15,0,1
+Snow Island : Snow-covered Field 1,16,12,14,14,21,3,25,5,70,Murupa x21,0,0
+Empress' Road : Tiv's Forest,14,9,13,13,13,3,25,5,65,Tiv x13,0,0
+Port Road : Six Path Crossway,25,17,13,13,13,3,25,5,65,Spore x13(1),0,0
+Port Road : Forest Trail 1,24,8,11,11,17,3,34,5,55,"Blue Snail x9,Red Snail x8",0,0
+Maple Road : Entrance to Adventurer Training Center,13,8,10,10,15,2,26,4,40,"Blue Snail x6,Spore x7,Orange Mushroom x2",0,1
+Port Road : Right Around Lith Harbor,28,8,14,15,14,1,17,3,42,"Snail x7,Blue Snail x7",0,0
+Maple Road : Inside the Dangerous Forest,18,15,13,24,17,1,15,3,39,Snail x17,0,1
+Empress' Road : Tino's Forest,17,9,10,15,10,1,15,3,30,Tino x10,0,0
+Empress' Road : Training Forest I,19,12,10,10,15,1,19,3,30,"Tino x9,Tiv x6",0,0
+Coco Island : Starfish Beach 1,17,7,8,8,14,1,15,3,24,Starfish x14,1,1
+Coco Island : Starfish Beach 2,17,7,8,8,14,1,15,3,24,Starfish x14,1,1
+Coco Island : Coco Island Beach,17,8,8,8,14,1,15,3,24,Starfish x14,1,1
+Maple Road : Inside the Small Forest,14,4,6,6,8,1,15,3,18,Snail x8,0,1
+Maple Road : Snail Park,14,5,6,6,8,1,15,3,18,Snail x8,0,1
+Snow Island : Entrance to Rien Training Center,18,8,3,8,3,1,15,3,9,Muru x3,0,0
